@@ -1,0 +1,8 @@
+# Keep scripts and repository metadata consistent across platforms.
+* text=auto eol=lf
+
+# Preserve exact source and manuscript bytes, including original line endings.
+*.txt -text
+
+# PDFs are published deliverables, not text files.
+*.pdf binary

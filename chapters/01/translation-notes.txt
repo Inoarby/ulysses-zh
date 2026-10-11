@@ -1,0 +1,118 @@
+《尤利西斯》第一章：校译记录
+校译日期：2026-10-10；排版修订：2026-10-11
+
+文件与体例
+
+底本为同目录 original.txt；未改动底本和 ulysses.txt。译文从开篇剃须至末句“篡夺者”，保留第一部标记 — I — 与章标记 [ 1 ]。不将通行的荷马对应名“忒勒马科斯”增作原文章题。
+
+translation.txt 是可编辑的 UTF-8 译稿。以空行分段，与底本的370个文本段逐一对应，其中两段为部、章标记。正文译文、诗行和夹注均由此文件生成 PDF；【注：……】是内部排版标记，不属于乔伊斯正文。PDF中不显示夹注前的“注：”及【】；夹注以字号和颜色区分。诗行缩进四个半角空格。
+
+同目录提供两个阅读版本：chapter-01-zh.pdf 为纯中文译本（152 × 228毫米，26页）；chapter-01-parallel.pdf 为中英对照本（170 × 240毫米，47页）。两版中文正文均为10.5磅宋体、行距16.3磅，夹注保持8磅宋体，改用柔和的淡红色 #A66F73，嵌入 SimSun 字体。
+
+对照本在每段中文下方排列原文，英文使用9.5磅 Georgia、13.7磅行距、灰蓝色 #59626B，嵌入常规和斜体字形，恢复底本下划线所标的斜体。五个长段按语义切成对应片段，连续诗行合为完整诗节，共374组对读单元；每组中英文同页。parallel-segments.json 保存长段切分的原文及译文锚点，以包含部、章标记的370段为一基序号，不改动底本和译稿。
+
+保留原作以破折号引出对白的形式；内心独白不另加引号，不补明原作有意悬空的主语。拉丁语、希腊语转写及德语保留其异语感，初见处释义。
+
+重建命令（在仓库根目录；Python 需安装 reportlab）：
+    python scripts/build_chapter_pdf.py 01
+默认同时生成两版；加 --edition zh 或 --edition parallel 可单独重建一个版本。宋体默认读取 C:/Windows/Fonts/simsun.ttc；其他系统可用 --font 提供宋体 TrueType 字体，或设置 ULYSSES_SONG_FONT。英文字体默认读取 C:/Windows/Fonts/georgia.ttf 和 georgiai.ttf，可用 --english-font、--english-italic-font 或 ULYSSES_ENGLISH_FONT、ULYSSES_ENGLISH_ITALIC_FONT 指定。
+
+本章沿用译名与关键词
+
+Stephen Dedalus：斯蒂芬·迪达勒斯；神话人物 Daedalus：代达罗斯。
+Buck Mulligan：巴克·穆利根；本名 Malachi：马拉基。
+Kinch：金奇。正文由穆利根自己解释为“刀刃”，不在首次出现时提前解释。
+Haines：海恩斯。Cranly：克兰利。Seymour：西摩。Bannon：班农。
+Sandycove：沙湾。Kingstown：金斯敦（保留故事年代用名）。
+The Ship：船舶酒馆。Martello tower：马泰洛塔。
+omphalos：大地之脐。snotgreen：鼻涕绿。
+great sweet mother：伟大温柔的母亲；mighty mother：强大的母亲。
+Agenbite of inwit：良心的反噬。Usurper：篡夺者。
+holy Roman catholic and apostolic church：神圣罗马大公使徒教会。
+
+校译取舍
+
+1. “金口”是从穆利根牙齿骤然引出的念头，不补成“斯蒂芬心想”。丧母段落反复出现的寿衣、蜡、花梨木、湿灰烬与临终祷词保持呼应。
+2. secondhand / secondleg 译作“二手／二腿”；sovereigns 保留“金币／君主”的双关。jejune jesuit、met Butterly / wept bitterly、plain 等难兼音义之处以夹注补足。
+3. beastly dead 译为“他母亲死了，真晦气”，保留轻慢的口吻；不把它误解为尸体确已发臭，也不把人物的医学戏言当作旁白诊断。
+4. 送奶老妇的爱尔兰象征、第三位主人及神学联想均在人物意识中展开。第三位主人以“通常理解为爱尔兰”标明解释性质。原作的宗教嘲讽、性暗示和人物的反犹言论如实译出，不改作作者论断。
+5. “大风之年”按邓埃默印坊1903年版叶芝诗集题记解释；不能仅因爱尔兰另有1839年大风灾，就把本句注作1839年。
+6. 付奶钱时的引诗出自斯温伯恩 The Oblation（《献礼》）；不是 Laus Veneris。“遇见巴特利”谐仿“痛哭”，无依据将巴特利解释为酒馆老板。
+7. Carlisle 在莉莉一处按卡莱尔码头解；第十二根肋骨的笑话以亚当造夏娃及尼采“超人”解释，不增写进化论结论。
+
+核典出处（查阅于2026-10-10）
+
+以下记录用于后续复核；夹注文字为本次自行撰写。引诗依据本章所引原文翻译，没有套用既有中文译本。宗教、神话与作品的基础释义从简；下面列出本次重点交叉核对的出处。
+
+1. 叶芝《谁愿与弗格斯同行？》原诗，Poetry Ireland。
+   对应“爱情那苦涩的奥秘”、林影、暗海白色胸脯等复现意象。
+   https://www.poetryireland.ie/content/files/PR_Yeats.pdf
+
+2. 叶芝诗作与弗格斯背景，Who goes with Fergus?，yeats.ie。
+   https://yeats.ie/poems/who-goes-with-fergus/
+
+3. 斯温伯恩 The Oblation，Selections from A. C. Swinburne，书内页290。
+   对应付奶钱的四句引诗；馆藏扫描本。
+   https://upload.wikimedia.org/wikipedia/commons/d/df/Selections_from_A._C._Swinburne_%28IA_selectionsfromac01swin%29.pdf
+
+4. Julie L. Mellby，Printed by the weird sisters，Princeton University Library，2010。
+   说明叶芝姐妹、邓埃默印坊与 In the Seven Woods 的1903年题记。
+   https://swh.princeton.edu/~graphicarts/2010/06/printed_by_the_weird_sisters.html
+
+5. University College Dublin，Night of the Big Wind，Scholarcast讲稿。
+   交叉核对1839与1903两次风灾在乔伊斯作品中的区别。
+   https://www.ucd.ie/scholarcast/transcripts/Night_of_the_big_wind.pdf
+
+6. Non-linearity and/in Translation: On Complex Strategies in the Ukrainian Rendition of Joyce’s Novel-Hypertext “Ulysses”，Respectus Philologicus。
+   met Butterly / wept bitterly 与《马太福音》26:75的谐仿。
+   https://www.zurnalai.vu.lt/respectus-philologicus/lt/article/download/12726/11415/16945
+
+7. Fritz Senn，Joyce Studies in Italy，第14卷，2013。
+   交叉核对穆利根的圣经语体和“巴特利”双关。
+   https://thejamesjoyceitalianfoundation.it/wp-content/uploads/2024/02/9-Senn-vol.14-2013.pdf
+
+8. ULYSSES “seen”，Telemachus 0012，University of Pennsylvania。
+   hyperborean 的希腊神话背景及尼采式语境。
+   https://web.sas.upenn.edu/ulyssesseen/2009/04/08/telemachus-12/
+
+9. ULYSSES “seen”，Telemachus 0006，University of Pennsylvania。
+   开篇弥撒戏仿与 Christine 的解释背景；未将较具推测性的裸女祭坛解释写入夹注。
+   https://web.sas.upenn.edu/ulyssesseen/2009/04/19/telemachus-6/
+
+10. Wikibooks，Annotations to James Joyce’s Ulysses / Telemachus / 010。
+    Liliata rutilantium 的拉丁文祷词及临终礼背景。
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Telemachus/010
+
+11. John Hunt，Creed，The Joyce Project，2024。
+    《尼西亚信经》、使徒信经称呼与帕莱斯特里纳弥撒曲的关系。
+    https://joyceproject.com/notes/TU-bJZUBeQi-aLQfe7F3
+
+12. John Hunt，Two masters，The Joyce Project。
+    英国政权与罗马教会这两个主人的对应。
+    https://joyceproject.com/notes/8k-bJZUBeQi-aLQfd66b
+
+13. Stephen Tardif，Joyce’s Dantean Piety（作者存档稿）。
+    “咸面包”与《天堂篇》第十七歌58—60行的联系。
+    https://scholar.harvard.edu/files/tardif/files/tardif-joyce-dante.pdf
+
+14. Wikibooks，Telemachus / 013、017、022。
+    分别核对《马比诺吉昂》与《奥义书》、惠特曼引语、Carlisle的地名释义。022页关于“超人”的概念史不作为本译注依据。
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Telemachus/013
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Telemachus/017
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Telemachus/022
+
+15. Bloomsday Montréal 2020: James Joyce Exhibition，Craig Morriss。
+    少一根肋骨的亚当典故，以及偷窃穷人之语对《箴言》19:17的改写。
+    https://craigmorriss.co.uk/bloomsday-montreal-2020-james-joyce-exhibition/
+
+16. ouns 词条，Kaikki英语词典数据。
+    核对其“伤口，尤指基督圣伤”的旧俗语义。
+    https://kaikki.org/dictionary/English/meaning/o/ou/ouns.html
+
+校验记录
+
+底本文件 SHA-256：49c337f6cdad1f28b143ddce6890a71cc6eb39d964ab84dbe0da0c26cb458d68
+译稿 SHA-256：6cae1c23f3a374055655c53f795ea3447528a155a46fad053a397f684eebcb2e
+完成370段对应核对；全章共有65条夹注，两版均完整保留。中文本26页，对照本47页。
+两版PDF提取文字与输入完全对应（忽略空白、去除内部夹注标记；对照本将原文下划线转为斜体）。按字体及颜色单独提取的英文和夹注也与输入逐字相符，65条夹注均为8磅淡红色宋体；全部374组中英文对读单元均未跨页。所有实际文字使用嵌入字体；字体覆盖、页面边界、中文行首行尾禁则均通过检查。使用Poppler渲染并逐页检查73页校样，核对首尾、密集夹注和诗节。
+运行 scripts/split_chapters.py 核验：18章分割仍可无损还原全部1,586,344个原文字节。

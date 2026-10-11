@@ -1,0 +1,2 @@
+# PDF generation; chapter splitting uses only the Python standard library.
+reportlab==4.4.9

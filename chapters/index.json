@@ -1,0 +1,153 @@
+{
+  "source": "ulysses.txt",
+  "encoding": "UTF-8",
+  "source_sha256": "e03094626f9528cf3fc287a49d6edbdbf47cd40483cb13ceb301e74e15ebbf9e",
+  "front_matter": "chapters/front-matter.txt",
+  "back_matter": "chapters/back-matter.txt",
+  "chapters": [
+    {
+      "number": 1,
+      "part": "I",
+      "path": "chapters/01/original.txt",
+      "source_start_line": 72,
+      "source_end_line": 1198,
+      "source_heading_line": 75
+    },
+    {
+      "number": 2,
+      "part": "I",
+      "path": "chapters/02/original.txt",
+      "source_start_line": 1199,
+      "source_end_line": 1870,
+      "source_heading_line": 1199
+    },
+    {
+      "number": 3,
+      "part": "I",
+      "path": "chapters/03/original.txt",
+      "source_start_line": 1871,
+      "source_end_line": 2504,
+      "source_heading_line": 1871
+    },
+    {
+      "number": 4,
+      "part": "II",
+      "path": "chapters/04/original.txt",
+      "source_start_line": 2505,
+      "source_end_line": 3252,
+      "source_heading_line": 2508
+    },
+    {
+      "number": 5,
+      "part": "II",
+      "path": "chapters/05/original.txt",
+      "source_start_line": 3253,
+      "source_end_line": 4004,
+      "source_heading_line": 3253
+    },
+    {
+      "number": 6,
+      "part": "II",
+      "path": "chapters/06/original.txt",
+      "source_start_line": 4005,
+      "source_end_line": 5468,
+      "source_heading_line": 4005
+    },
+    {
+      "number": 7,
+      "part": "II",
+      "path": "chapters/07/original.txt",
+      "source_start_line": 5469,
+      "source_end_line": 7171,
+      "source_heading_line": 5469
+    },
+    {
+      "number": 8,
+      "part": "II",
+      "path": "chapters/08/original.txt",
+      "source_start_line": 7172,
+      "source_end_line": 8792,
+      "source_heading_line": 7172
+    },
+    {
+      "number": 9,
+      "part": "II",
+      "path": "chapters/09/original.txt",
+      "source_start_line": 8793,
+      "source_end_line": 10531,
+      "source_heading_line": 8793
+    },
+    {
+      "number": 10,
+      "part": "II",
+      "path": "chapters/10/original.txt",
+      "source_start_line": 10532,
+      "source_end_line": 12405,
+      "source_heading_line": 10532
+    },
+    {
+      "number": 11,
+      "part": "II",
+      "path": "chapters/11/original.txt",
+      "source_start_line": 12406,
+      "source_end_line": 14369,
+      "source_heading_line": 12406
+    },
+    {
+      "number": 12,
+      "part": "II",
+      "path": "chapters/12/original.txt",
+      "source_start_line": 14370,
+      "source_end_line": 16939,
+      "source_heading_line": 14370
+    },
+    {
+      "number": 13,
+      "part": "II",
+      "path": "chapters/13/original.txt",
+      "source_start_line": 16940,
+      "source_end_line": 18454,
+      "source_heading_line": 16940
+    },
+    {
+      "number": 14,
+      "part": "II",
+      "path": "chapters/14/original.txt",
+      "source_start_line": 18455,
+      "source_end_line": 20204,
+      "source_heading_line": 18455
+    },
+    {
+      "number": 15,
+      "part": "II",
+      "path": "chapters/15/original.txt",
+      "source_start_line": 20205,
+      "source_end_line": 25729,
+      "source_heading_line": 20205
+    },
+    {
+      "number": 16,
+      "part": "III",
+      "path": "chapters/16/original.txt",
+      "source_start_line": 25730,
+      "source_end_line": 28025,
+      "source_heading_line": 25733
+    },
+    {
+      "number": 17,
+      "part": "III",
+      "path": "chapters/17/original.txt",
+      "source_start_line": 28026,
+      "source_end_line": 31142,
+      "source_heading_line": 28026
+    },
+    {
+      "number": 18,
+      "part": "III",
+      "path": "chapters/18/original.txt",
+      "source_start_line": 31143,
+      "source_end_line": 32867,
+      "source_heading_line": 31143
+    }
+  ]
+}

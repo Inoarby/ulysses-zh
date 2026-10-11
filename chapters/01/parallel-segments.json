@@ -1,0 +1,25 @@
+{
+  "description": "1-based paragraph numbers include the part and chapter headings. Exact end anchors split five long paragraphs into matched reading units without changing either text.",
+  "paragraphs": {
+    "7": {
+      "source_after": ["and the awaking mountains."],
+      "translation_after": ["初醒的群山。"]
+    },
+    "48": {
+      "source_after": ["a faint odour of wetted ashes."],
+      "translation_after": ["湿灰烬的淡淡气息。"]
+    },
+    "92": {
+      "source_after": ["It simply doesn’t matter.", "picks buttercups off the quilt."],
+      "translation_after": ["根本无关紧要。", "此处写病人的谵妄。】"]
+    },
+    "186": {
+      "source_after": ["She praised the goodness of the milk, pouring it out.", "names given her in old times."],
+      "translation_after": ["她一边倒，一边夸奶好。", "受辱的祖国重叠。】"]
+    },
+    "321": {
+      "source_after": ["a chemistry of stars.", "disarmed and menaced her heresiarchs.", "the Father was Himself His own Son."],
+      "translation_after": ["星辰的化合。", "恫吓他们。", "主张圣父自己就是他自己的圣子。"]
+    }
+  }
+}
