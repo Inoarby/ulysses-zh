@@ -13,6 +13,12 @@ We are here to make a better Chinese translation of Ulysses by James Joyce.
 5. Be aware of the cultural difference, add precise and concise inline comments/explainations to help the reader understand, like 脂评 in 红楼梦
 6. Use 宋体, use smaller font, different size for the inline comments.
 7. Preserve verbal echoes in dialogue, quotations, inner monologue, and recurring images, including across chapters. When repeated words or phrases carry a response or callback, retain a recognizable shared Chinese wording rather than varying synonyms for elegance. Preserve real shifts of meaning and wordplay, with a brief note where needed; review each echo in context before finalizing a chapter.
+8. Preserve ambiguity and meaningful omissions. Keep uncertain pronoun references, speakers, thought ownership, and meanings open where the original does; explain possible readings in notes when needed.
+9. Distinguish character voices and narrative layers. Preserve the diction, tone, and rhythm of dialogue, narration, inner monologue, quotation, and parody, including their coarseness, solemnity, malice, or suggestiveness.
+10. Treat syntax, rhythm, and associative leaps as meaning. Preserve expressive fragments, repetitions, abrupt turns, and unusual word order; assess whether adding subjects, connectives, or causal explanations would alter the movement of thought.
+11. Translate wordplay and allusions with both their immediate context and later echoes in view. Carry the principal meanings, voice, and connections into the Chinese where possible, briefly annotate what cannot be retained, and check recurring quotations against earlier renderings.
+12. Preserve characters' limited or unreliable understanding. Render their factual mistakes, prejudices, and contradictions faithfully; clarify material errors in notes where useful, distinguishing character opinion, narration, and editorial explanation.
+13. Distinguish verified facts, interpretations, and conjectures in notes. Check traceable sources, qualify interpretive claims, and explain only what helps the present passage, limiting spoilers and leaving room for readers to discover connections.
 
 ## Conventions
 

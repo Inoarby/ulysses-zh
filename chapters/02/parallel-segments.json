@@ -1,0 +1,51 @@
+{
+  "description": "1-based paragraph numbers include the chapter heading. Exact anchors split long passages into matched reading units without changing the source or translation.",
+  "paragraphs": {
+    "37": {
+      "source_after": [
+        "sheltered from the sin of Paris, night by night.",
+        "shifting her dragon scaly folds."
+      ],
+      "translation_after": [
+        "躲避巴黎的罪。",
+        "挪动满身龙鳞般的褶皱。"
+      ]
+    },
+    "75": {
+      "source_after": [
+        "The only true thing in life?",
+        "scarcely having been."
+      ],
+      "translation_after": [
+        "生命里唯一真实的东西？",
+        "仿佛不曾存在过。"
+      ]
+    },
+    "151": {
+      "source_after": [
+        "The pluterperfect imperturbability of the department of agriculture."
+      ],
+      "translation_after": [
+        "此处夸张地讥刺官署的无动于衷。】"
+      ]
+    },
+    "163": {
+      "source_after": [
+        "Not theirs: these clothes, this speech, these gestures."
+      ],
+      "translation_after": [
+        "这些衣服，这种言语，这些手势。"
+      ]
+    },
+    "176": {
+      "source_after": [
+        "ten years the Greeks made war on Troy.",
+        "A woman too brought Parnell low."
+      ],
+      "translation_after": [
+        "希腊人打了特洛伊十年。",
+        "触发其政治危机。】"
+      ]
+    }
+  }
+}

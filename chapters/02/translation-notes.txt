@@ -1,0 +1,145 @@
+《尤利西斯》第二章：校译记录
+初译、照应校订与排版日期：2026-10-11
+
+文件与体例
+
+底本为同目录 original.txt；未改动本章原文及 ulysses.txt。译文从课堂问答至迪西肩上的“跳舞的硬币”，保留章标记 [ 2 ]；第一部标记已随第一章保存，不在本章重复，也不将通行的荷马对应名“涅斯托尔”增作原文章题。
+
+translation.txt 是 UTF-8 可编辑译稿，保留与底本相同的208个空行分段（含章标记），共40条夹注。内部使用【注：……】标记；PDF不显示标签和方括号。诗行缩进四个半角空格。保留对白前的破折号，内心独白不额外标明说话者，不把解释补入正文。
+
+chapter-02-zh.pdf：中文译本，152 × 228毫米，16页。
+chapter-02-parallel.pdf：中英对照本，170 × 240毫米，29页。
+中文正文为10.5磅宋体，行距16.3磅；夹注为8磅宋体，淡红色 #A66F73。对照本原文置于对应中文下方，使用9.5磅 Georgia、13.7磅行距、浅灰蓝色 #929CA6，恢复底本下划线所标斜体。字体均嵌入PDF。
+
+parallel-segments.json 将第37、75、151、163、176段按语义拆分，诗节按完整诗行组合，共214组对读单元；每组中英文同页。段号从章标记起计，使用完整、可核对的原文及译文锚点，切分不改变原文或译稿。
+
+重建命令（仓库根目录）：
+    python scripts/build_chapter_pdf.py 02
+默认生成两版；--edition zh 或 --edition parallel 可单独重建。字体及依赖设置沿用README和第一章记录。
+
+本章新增译名
+
+Deasy：迪西；Cochrane：科克伦；Armstrong：阿姆斯特朗；Comyn：科明；Talbot：塔尔博特；Cyril Sargent：西里尔·萨金特；Halliday：哈利迪。
+Pyrrhus：皮洛士；Tarentum：塔伦图姆；Asculum：阿斯库卢姆；Argos：阿尔戈斯。
+Dalkey：达尔基；Vico Road：维科路；Saint Genevieve：圣热纳维耶芙。
+Lycidas：利西达斯；Columbanus：哥伦巴努斯；Averroes：阿威罗伊；Moses Maimonides：摩西·迈蒙尼德。
+O'Connell：奥康奈尔；Orange：橙党；Fenian：芬尼亚党。
+John Blackwood：约翰·布莱克伍德；Henry Blackwood Price：亨利·布莱克伍德·普赖斯。
+Ards：阿兹；Down：唐郡；Armagh：阿马；Diamond：戴蒙德；Ulster：阿尔斯特。
+Cassandra：卡珊德拉；Clytemnestra：克吕泰涅斯特拉；Menelaus：墨涅拉俄斯。
+MacMurrough：麦克默罗；O'Rourke：奥罗克；Breffni：布雷夫尼；Parnell：帕内尔；Katharine O'Shea：凯瑟琳·奥谢。
+Field：菲尔德；City Arms hotel：城市纹章旅馆；Mürzsteg：米尔茨施泰格。
+Evening Telegraph：《晚间电讯报》；心念中简称 Telegraph 时作《电讯报》。Irish Homestead：《爱尔兰家园》。
+马名 Repulse：击退；Shotover：肖特弗；Ceylon：锡兰；Fair Rebel：美丽叛徒。
+其余复现人物、地名沿用第一章，包括斯蒂芬·迪达勒斯、穆利根、海恩斯、克兰利及金斯敦。
+
+校译取舍与词语照应
+
+以下段号包含章标记，与对照本切分文件一致。
+
+1. 跨章照应：27段“编织吧，编织风的人”、75段“花梨木和湿灰烬”、119段“海上的统治者／看来要怪历史”、196段“吟游诗人”，与第一章保持可辨认的共同译语。“没牙的威风”保留 toothless，供读者联想到第一章“没牙的金奇”。不因追求中文变化而替换这些线索。
+
+2. 原句有变化时保留变化：76段代数戏言仍用“他用代数证明”，但本章原文为 Shakespeare’s ghost is Hamlet’s grandfather，与第一章穆利根的 Hamlet’s grandson is Shakespeare’s grandfather 不同。译为“莎士比亚的鬼魂是哈姆雷特的祖父”，以短注指出关系重新错接，不为机械一致而改写本章。
+
+3. 课堂的两次 Mirthless 用“没有欢喜”，区别其后的 malicious / with meaning（“含着恶意／有意味”）。皮洛士与 pier 的音近无法同时移入中文，正文保留“皮洛士／码头”，夹注只说明笑话成立的声音条件。
+
+4. 历史、可能性与哲学：37段 actuality of the possible as possible 作“可能之物作为可能之物的现实性”；“思想是思想之思想”“形式的形式”保留刻意重复。亚里士多德原著的论述与小说中的转述并不完全等同，正文依小说；注释说明出处，不将思绪整理成一段教科书论证。
+
+5. 弥尔顿引诗的“别再哭泣”“踏浪者”“慈爱神力”在课堂背诵和斯蒂芬的联想中复现。55段谜面与75段母亲、狐狸联想共同保留“可怜的灵魂／上天堂”。狐狸的 scraped, listened, scraped and scraped 保留反复动作。70段 Futility 与75段 futile 均作“无用”。
+
+6. 母亲段落保留指代游移：75段从萨金特转向哥伦巴努斯，再回响斯蒂芬亡母的花梨木与湿灰烬，不把每个 he / she 补成姓名，也不将传说当作萨金特的生平。80段保留 Amor matris 及“主语属格和宾语属格”，简注“母亲给予的爱／对母亲的爱”两向解释。
+
+7. 明暗的呼应：77段保留 brightness 的“明亮”、darkness 的“黑暗”及《约翰福音》语句的倒转；162段 light / darkness 作“光明／黑暗”。既留住共同意象，也不把不同的原词强行归并。168段 nightmare 注明词尾与 mare 同形、踢脚动作牵出母马意象，不把这种联想当作词源。169段以短注连接 goal 的进球与历史目标。
+
+8. 迪西的重复措辞：122、124段 I paid my way 统一为“我一向自己付账”；141、153段 dictates of common sense 为“常识所命”；144、153段 allimportant question 为“至关重要的问题”；151、176段 woman who was no better than she should be 为“不大检点的女人”。信件保留斯蒂芬跳读时的残句，不补齐被略去的语法成分。
+
+9. 交锋与教导：147段反复的 joust / jousts 以及194段 break a lance 均保留“交锋”。176、177、196段 fight 保留“战斗”；177段 right 的“正义”接住前段。180—184段“老师／学生／学／生活才是伟大的老师”构成回答链。205、207段 she never let them in 原样复现为“她从来没让他们进来”。
+
+10. 人物的错记留在正文：134、136段约翰·布莱克伍德“赞成合并”依底本保留，短注指出实际相反；176段麦克默罗、奥罗克的丈夫与情人关系也不静默纠正。迪西对犹太人的指控和将历史灾祸归咎于女人的说法保持人物口吻。205段夹注以爱尔兰犹太社群及1904年利默里克事件回应其失实断言，不让人物言论变成译者认可的事实。
+
+11. 区分引语和说话者：116段伊阿古的出处说明斯蒂芬何以用人名回应迪西。159段《天真之兆》两行没有自行补上说话者，夹注仅说明诗句与“老英格兰”的接续。关于布莱克“过度之翼”的解释使用“可联想到”，保留其组合、暗示性质。
+
+12. 生僻词不凭字形臆释：151段 pluterperfect 依 pluperfect 的罕见变体理解，以“完美之又完美”传出夸张；不擅自解释为“财阀”拼接，也不称它为乔伊斯独创。153段 salted horses 作“耐疫马”，注指染疫存活后获得一定抵抗力。信中口蹄疫、牛瘟和御马治疗术语的混杂照录，不替人物整理成可靠的兽医说明。
+
+13. 其他细部：138段 soft day 作“细雨天”，保留招呼声中 day 的回响；145段 ten to one 作“一赔十”，夹注说明指净赢十份，避免赔率倒置；147段 knockkneed 作“膝盖内拢”；154、192段 cousin 用“亲戚”，不凭空确定亲属支系。196段“帮牛的吟游诗人”以短注提示连续 b 音，208段“智慧的肩上／跳舞的硬币”保留不寻常的修饰与结尾意象。
+
+核典出处（查阅于2026-10-11）
+
+夹注为本次自行撰写。引诗据本章原文翻译，不采用既有中文译本。下列资料供复核关键取舍；对作品内的照应，以第一、二章底本为直接依据。
+
+1. 亚里士多德《物理学》卷三第一章、《形而上学》卷十二、《论灵魂》卷三，MIT Classics Archive。
+   核对运动的定义、“思想之思想”及“一切存在／形式的形式”。
+   https://classics.mit.edu/Aristotle/physics.3.iii.html
+   https://classics.mit.edu/Aristotle/metaphysics.12.xii.html
+   https://classics.mit.edu/Aristotle/soul.3.iii.html
+
+2. 弥尔顿诗文扫描本，Warburg Institute；Lycidas 原诗。
+   核对“别再哭泣”、溺水的牧人及“踏浪者”的诗行。
+   https://resources.warburg.sas.ac.uk/pdf/emh290b2451514.pdf
+
+3. William Blake，Auguries of Innocence，Poetry Foundation。
+   核对“娼妇的叫声／老英格兰的寿衣”。“过度之翼”与《天堂与地狱的婚姻》格言的联系参照 Chou，2002年格拉斯哥大学论文，第72页；夹注明示这是联想性解释。
+   https://www.poetryfoundation.org/poems/43650/auguries-of-innocence
+   https://theses.gla.ac.uk/1800/1/2002chouphd.pdf
+
+4. St. Columbanus，Catholic Encyclopedia，New Advent；Crowley，Genetic Joyce Studies，第12期。
+   前者核对跨过阻拦离家的母亲之传说；后者讨论相关文字的写作与修订，辅助辨认段落中母亲形象的转换。
+   https://www.newadvent.org/cathen/04137a.htm
+   https://www.geneticjoycestudies.org/static/issues/GJS12/GJS12_Crowley.pdf
+
+5. 莎士比亚《奥赛罗》第一幕第三场，Folger Shakespeare Library。
+   “把钱装进钱袋”是伊阿古说的，不能径当作作者的处世主张。
+   https://www.folger.edu/explore/shakespeares-works/othello/read/
+
+6. Apostle spoon，Metropolitan Museum of Art；One of a Set of 12 Apostle Spoons，University of Michigan Museum of Art。
+   以馆藏实物说明匙柄使徒像的器物传统，不据此替小说补写器物材质。
+   https://www.metmuseum.org/art/collection/search/204786
+   https://umma.umich.edu/objects/one-of-a-set-of-12-apostle-spoons-1975-2-188/
+
+7. Dindsenchas, Mr Deasy and the nightmare of partition in Ulysses，研究论文作者公开记录；James Joyce Digital Archive 的早期文本。
+   复核约翰·布莱克伍德反对合并的背景及小说版本中的 for / against 差异。本译依仓库 Gutenberg 底本的 for，不以早期文本替换。
+   https://www.researchgate.net/publication/357699120_Dindsenchas_Mr_Deasy_and_the_nightmare_of_partition_in_Ulysses
+   https://jjda.ie/u/ulex/b/b12d.htm
+
+8. Mac Murchada, Diarmait (MacMurrough, Dermot)，Dictionary of Irish Biography，Royal Irish Academy。
+   核对1152年掳走奥罗克之妻，以及后来求援与英格兰、诺曼军队介入的关系。
+   https://www.dib.ie/biography/mac-murchada-diarmait-macmurrough-dermot-a5075
+
+9. Parnell, Charles Stewart，Dictionary of Irish Biography。
+   核对与凯瑟琳·奥谢的关系、1890年离婚案及政治危机；迪西的单因归罪仍只属于人物自身。
+   https://www.dib.ie/biography/parnell-charles-stewart-a7199
+
+10. salt，Dictionary of South African English。
+    词典历史例证中 salted 指动物疫病存活者的抵抗力，支持“耐疫马”及限定为“一定抵抗力”的释义。
+    https://dsae.co.za/entry/salt/e06203
+
+11. pluperfect，Merriam-Webster；Charlotte Brewer，2010年有关OED的论文，Oxford；Wiktionary 的 pluterperfect 词条讨论。
+    核对“极完美”的形容词义及 pluterperfect 的较早用例。Brewer 的讨论指出相关用例早于《尤利西斯》，不把它认作乔伊斯新造词。
+    https://www.merriam-webster.com/dictionary/pluperfect
+    https://oed.hertford.ox.ac.uk/wp-content/uploads/2019/09/Brewer-2010.pdf
+    https://en.wiktionary.org/wiki/Talk:pluterperfect
+
+12. 埃斯库罗斯《阿伽门农》，Perseus Digital Library。
+    卡珊德拉的预言及克吕泰涅斯特拉杀死她的典故；不替迪西补全信件残句。
+    https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0085.tlg005.perseus-eng3/
+
+13. Ronald McNeill，Ulster's Stand for Union，1922，Organisation and Leadership；英国议会1886年9月2日辩论记录。
+    核对伦道夫·丘吉尔1886年口号及其自治争论背景；注释仅标人名、年份及立场，不将公开信误称为演讲。
+    https://www.libraryireland.com/ulsters-stand-for-union/organisation-leadership.php
+    https://api.parliament.uk/historic-hansard/commons/1886/sep/02/crime-and-outrage-ireland-the-riots-in
+
+14. Jews of Ireland Timeline，Irish Jewish Museum。
+    核对爱尔兰犹太社群的历史及1904年利默里克的反犹抵制、骚扰。
+    https://jewishmuseum.ie/jews-of-ireland/timeline/
+
+15. 《马太福音》14章、22:15—22；《约翰福音》1:5；Gloria Patri 祷词。
+    分别对应踏浪、纳税钱币、明暗倒转及书房段落中的“小荣光颂”。经文提示用于辨认小说的引用和改写，不将小说中的说法反写成经文原句。
+
+校验记录
+
+底本文件 SHA-256：5f848d4497c2e5ce4bf43f780f853ee8d4958ea50703ab53f290880f7abe6382
+译稿 SHA-256：ef0db66b5480047e16c76647ec556700bfb5866f91c7305f111ae12ed5ba865a
+
+完成208段对应核对及第一、二章词语照应复核。两版PDF提取文字与输入完全对应（忽略空白、去除内部夹注标记；原文下划线转换为斜体）。按字体与颜色单独提取的英文和40条夹注也与输入相符；夹注均保持8磅淡红宋体，原文均为9.5磅浅灰蓝Georgia。
+214组对读单元均未跨页，字体嵌入、页面边界、中文行首行尾禁则检查通过。使用Poppler渲染全部45页，逐页浏览校样总览，并放大检查哲学段落、母亲段落、历史夹注和信件等密集页面；未见缺字、重叠或裁切。
+运行 scripts/split_chapters.py 核验，18章仍可无损还原全部1,586,344个原文字节；全书 SHA-256 为 e03094626f9528cf3fc287a49d6edbdbf47cd40483cb13ceb301e74e15ebbf9e。
