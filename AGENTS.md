@@ -9,8 +9,8 @@ We are here to make a better Chinese translation of Ulysses by James Joyce.
 1. We'll translate chapter by chapter.
 2. We'll produce a PDF file for each chapter.
 3. Try to be "信达雅", but when direct translation works better, use direct translation.
-4. If a translation is hard to translate the original meaning or indication, add a inline commen to explain.
-5. Be aware of the cultural difference, add precise and concise inline comments/explainations to help the reader understand, like 脂评 in 红楼梦
+4. Make the translation carry as much meaning and effect as it can. Use inline notes for consequential cultural or linguistic gaps that Chinese cannot readily convey, preserving the original's deliberate difficulty and strangeness.
+5. Let inline notes earn the interruption they cause. Take attentiveness and intimacy from 脂评 in 红楼梦, while keeping evaluative commentary rare; follow the inline-note principles below.
 6. Use 宋体, use smaller font, different size for the inline comments.
 7. Preserve verbal echoes in dialogue, quotations, inner monologue, and recurring images, including across chapters. When repeated words or phrases carry a response or callback, retain a recognizable shared Chinese wording rather than varying synonyms for elegance. Preserve real shifts of meaning and wordplay, with a brief note where needed; review each echo in context before finalizing a chapter.
 8. Preserve ambiguity and meaningful omissions. Keep uncertain pronoun references, speakers, thought ownership, and meanings open where the original does; explain possible readings in notes when needed.
@@ -19,6 +19,16 @@ We are here to make a better Chinese translation of Ulysses by James Joyce.
 11. Translate wordplay and allusions with both their immediate context and later echoes in view. Carry the principal meanings, voice, and connections into the Chinese where possible, briefly annotate what cannot be retained, and check recurring quotations against earlier renderings.
 12. Preserve characters' limited or unreliable understanding. Render their factual mistakes, prejudices, and contradictions faithfully; clarify material errors in notes where useful, distinguishing character opinion, narration, and editorial explanation.
 13. Distinguish verified facts, interpretations, and conjectures in notes. Check traceable sources, qualify interpretive claims, and explain only what helps the present passage, limiting spoilers and leaving room for readers to discover connections.
+
+## Inline-note principles
+
+- Write for an attentive Chinese reader without specialist knowledge. Explain what the passage depends on; allow readers to infer what the surrounding text makes clear. Unfamiliarity alone does not require a note.
+- Identify each note's specific benefit: removing a consequential obstacle or revealing an otherwise inaccessible effect, such as wordplay, register, an allusion, or a verbal connection. First check whether better translation can do the work. Omit information that makes little difference to the present passage.
+- Give the smallest explanation that unlocks the passage, usually one short sentence. For an allusion, identify it and give the relevant detail; include dates, biography, or source history only when they affect this reading. Keep full references and translation justifications in `translation-notes.txt`.
+- Supply facts, alternate meanings, and verbal connections that help readers discover meanings themselves. Keep editorial explanation distinct from character voices; preserve uncertainty under guidelines 8 and 13. Avoid prescribing emotions, spelling out every joke, or turning an association into a settled interpretation.
+- Attach a note to the smallest complete unit it explains, preferably at a natural pause. Let a joke, image, or revelation land first; protect tightly connected phrases, exchanges, verse, and movements of thought.
+- Explain recurring material where it first becomes useful. Repeat briefly when distance or a changed meaning warrants it; preserving an echo does not automatically require announcing it. Review clusters together, since several useful notes can collectively overwhelm a paragraph.
+- Revise by subtraction: ask what the reader would materially miss without each note, then delete or shorten weak notes. Read both with and past the notes to check rhythm, placement, and cumulative density; use no fixed note quota or rigid length limit.
 
 ## Conventions
 
