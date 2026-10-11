@@ -1,0 +1,163 @@
+《尤利西斯》第三章：校译记录
+初译、照应校订与排版日期：2026-10-11
+
+文件与体例
+
+底本为同目录 original.txt；未改动本章原文及 ulysses.txt。译文从“可见之物无可逃避的样态”至结尾的无声归船，保留章标记 [ 3 ]；本章为第一部末章，不另加部标题，也不将通行的荷马对应名“普罗透斯”增作原文章题。
+
+translation.txt 是 UTF-8 可编辑译稿，保留与底本相同的101个空行分段（含章标记），共86条夹注。内部使用【注：……】标记；PDF不显示标签和方括号。诗行缩进四个半角空格。对白、内心独白、引语及叙述之间的转换依原文保留，不额外加入说话者标签。
+
+chapter-03-zh.pdf：中文译本，152 × 228毫米，18页。
+chapter-03-parallel.pdf：中英对照本，170 × 240毫米，32页。
+中文正文为10.5磅宋体，行距16.3磅；夹注为8磅宋体，淡红色 #A66F73。对照本原文置于对应中文下方，使用9.5磅 Georgia、13.7磅行距、浅灰蓝色 #929CA6，恢复底本下划线所标斜体。字体均嵌入PDF。
+
+parallel-segments.json 将第3、8、10、37、41、59、61、70、84段按语义拆分，共116组对读单元；每组中英文同页，诗节保持完整。段号从章标记起计，使用原文及译文中的精确锚点；切分不改变输入文本的段落边界。
+
+重建命令（仓库根目录）：
+    python scripts/build_chapter_pdf.py 03
+默认生成两版；--edition zh 或 --edition parallel 可单独重建。字体及依赖设置沿用README和第一章记录。
+
+本章译名与复现词
+
+Sandymount / Sandymount strand：沙山／沙山海滩；Leahy's terrace：利希排屋；Liberties：自由区；Bride Street：布赖德街；Pigeonhouse：鸽房；Ringsend：林森德；Poolbeg：普尔贝格；Kish：基什；Cock lake：科克湖道。
+Clongowes：克朗戈斯；Cloyne：克洛因；Malahide：马拉海德；Hodges Figgis：霍奇斯·菲吉斯；Leeson park：利森公园。
+Florence MacCabe：弗洛伦斯·麦凯布；Patrick MacCabe：帕特里克·麦凯布；Sara / Sally：萨拉／萨莉；Richie：里奇；Walter：沃尔特；Crissie：克里西；Si：西；Goff：戈夫；Shapland Tandy：沙普兰·坦迪。
+Los：洛斯；Adam Kadmon：亚当·卡德蒙；Heva / Eve：赫娃／夏娃；Mananaan：玛纳南；Joachim Abbas：约阿希姆院长；Ferrando：费兰多；Occam：奥卡姆；Pico della Mirandola：皮科·德拉·米兰多拉。
+Temple：坦普尔；Foxy Campbell：狐狸坎贝尔；Patrice：帕特里斯；Kevin Egan：凯文·伊根；Léo Taxil：莱奥·塔克西尔；Fiacre：菲亚克；Scotus：司各脱；Yvonne：伊冯娜；Madeleine：玛德琳。
+Arthur Griffith：亚瑟·格里菲斯；A E 保留笔名，夹注作乔治·拉塞尔；Pimander：皮曼德；Drumont：德吕蒙；Maud Gonne：莫德·冈；Millevoye：米勒瓦；Félix Faure：费利克斯·福尔；Richard Burke：理查德·伯克；Napper Tandy：纳珀·坦迪；Louis Veuillot：路易·沃约；Gautier：戈蒂耶。
+Thomas Fitzgerald：托马斯·菲茨杰拉德；Perkin Warbeck：珀金·沃贝克；Lambert Simnel：兰伯特·西姆内尔；Guido：圭多；Haroun al Raschid：哈伦·拉希德；Aquinas：阿奎那；Ambrose：安布罗斯；Esther Osvalt：埃斯特·奥斯瓦尔特；Tatters：破烂（狗名，意译）。
+沿用前两章的斯蒂芬、穆利根、克兰利、迪西、阿里乌斯、霍斯、船舶酒馆、白蜡木等译名及称谓。
+
+校译取舍与词语照应
+
+以下段号含章标记，与对照本切分文件一致。
+
+1. 开篇哲学语汇：ineluctable modality of the visible / audible 作“可见／可闻之物无可逃避的样态”；diaphane / adiaphane 作“透明体／不透明体”。2段“透明体的界限在。为什么在？”保留原句悬空的 in，不把它补成完整定义。3段“时间的空间／空间的时间”保留交错，nacheinander / nebeneinander 留德语，注作“一先一后／一旁一侧”；89段靴子并列时再次保留 nebeneinander。
+
+2. 有些共同译语跨越三个章节：鼻涕绿、强大的母亲、大地之脐、金奇、同一本体、狗身子、白蜡木。51段“天啊，咱们总得按角色打扮起来。我得要紫褐手套”与第一章一致；55段“姑妈说是你害死了你母亲。所以她不许”保留本章截断，没有补出第一章的完整后半句。65段“形式的形式”、84段“黑暗在明亮里闪耀”继续第二章措辞；84段 form of my form 则相应作“我的形式的形式”。
+
+3. 动物与人的回声：73段“朝一个伟大的目标走”接第二章迪西论历史的话；“狗身子的身子”接第一章称呼和镜中自我。75段狗刨沙、停听及“祖母”接第二章狐狸谜语，保留重复动作。72段 buck 的鹿、89段 buck 的花花公子均保留各处实义，在注中提示与巴克绰号的相同词形，不把每处都译成同一称呼。狗一连串变作兔、鹿、熊、狼、小牛、豹与兀鹫的描写不替它整理出固定象征答案。
+
+4. 其他复现：81段 oinopa ponton 仍以“酒色”接第一章，同时保留本章 winedark 的“深暗”；83段“感谢贵报慷慨提供版面”接第二章信件，直接连上撕纸动作，不补句号。88段叶芝诗行沿用第一章“别再转过身，独自苦思”，89段 brooding 为“苦思的目光”。92段“纵使沉在水底”继续第二章《利西达斯》的措辞。96段“黄牙老巫婆”回响59段，“没牙的金奇，超人”回响第一章。
+
+5. 指代与思绪的漂移：3段保留“我的两只脚／他的靴子／他的两条腿”，84段保留“我／他的白蜡木占卜杖”，95段 hismy 作“他的我的”。13—35段可能的探亲在意识里展开，不加“他想象道”等说明；36段以“还是这风甜些”骤然转回。59—61段伊根的话、斯蒂芬的回忆与联想不一一署名；76段梦中领路人、85段反复的“她”、86段“那个人人知道的词”均不在此坐实身份或答案。
+
+6. 溺水与亡母：70段保留 would、will、could not 的迟疑及“他／她”的转折，译作“我会想去救。我会试”“我……跟他一起下去……我没能救她”。不补上亡母姓名，也不把在岸上的设想译成正在发生的救援。94段“人所知最温和的死”属于人物思绪，不能据以理解为对溺亡的客观说明。
+
+7. 神学与谐谑：10段“由造而非由生”倒转信经，“同体变体荣光犹太嘭嘭本体性”试传 contransmagnificandjewbangtantiality 的拼接、长度和戏谑。夹注只说明可辨的杂糅成分，不把怪词当作严格术语。阿里乌斯厕中之死标明出于敌对教会传统，euthanasia 在此为反讽的“善终”，不套入当代医疗制度之义。
+
+8. 预言与礼仪：37段 Descende calve 是对托名约阿希姆《教宗预言》中 Ascende calve 的改写，又牵出《列王纪下》的秃头嘲弄；没有因邻近斯威夫特而误归给斯威夫特。38段钟声、举圣体、跪下的交错保持动作次序和括号，避免补成一个全知视角的礼仪说明。95段 Lucifer 既可读晨星，又引出路西法；注示两义叠合，不把颂词本身解释成赞美堕天使。
+
+9. 巴黎话语：lait chaud、lap、lapin 的音近只能部分保留，以“舔，lapin”及短注提示。法语 irlandais / hollandais 的误听保留人物破碎的句法。Un demi sétier 在这里随咖啡锅的上下文作小杯黑咖啡的旧称，不译成半杯葡萄酒。P. C. N. 与 physiques, chimiques et naturelles 依底本词形保留；说明课程背景而不静默改订人物的法语。59段 postprandial 反复作“餐后”，licentious / lascivious 分作“淫荡／淫猥”；伊根的粗俗、嫌恶、矛盾均留在人物口吻中。
+
+10. 人物的错记与立场：70段圭多故事正文仍在圣米凯莱，注指出《十日谈》实在圣乔瓦尼；89段仍说“王尔德那不敢说出名字的爱”，注说明诗句作者是道格拉斯。冒认王位者、贵族叛乱者与实际夺位者混列时不把他们一概视为骗子。61段伯克与克勒肯韦尔的叙事可能压缩、混合史事，正文不替人物修史；“她”的爱恋与爱尔兰的联系只在注中提示。77段“红皮埃及人”保留旧称，但注释不据它判定拾蛤者的实际族属。
+
+11. 黑话与粗俗：77段 buss / wap 分作“亲她，干她”，保留强弱区别。78段黑话歌以“白白的爪儿，红红的嘴”“来跟我倒一铺”传出俚俗，避免凭空套用某一汉语方言；79段回引时原样重复“好细嫩你这身肉”。morose delectation 作“耽恋恶念之乐”，指心思逗留于罪恶想象而取乐，不能按现代 morose 的常义译成阴郁、忧伤之乐。
+
+12. 造词与声音：83段底本是 moomb，接 oomb、allwombing tomb，正文作“墓宫。宫，包孕万有的坟冢”，保留口、子宫、坟墓的声音纠缠，说明中文只承接部分音义；不以别版常见的 womb 替换本仓库原文。81段 schlepps、trains、trascines 不改为规范德、法、意语词典形；保留它们反复“拖”的阻滞。86段“温柔温柔温柔”“碰，碰我”不删重复；90段四个浪声词与三次拍水声也保持各自数量和次序。
+
+13. 有意不补出的动作：90段“最好快把这事办完”不直接补写小便或其他身体行为，让潮声、身体和思绪的联系由上下文展开。结尾100段“后面。也许有人”保留视线的疑惧；101段 rere regardant 以“回首顾后”及纹章短注，接回72段的纹章式动物描写，不预告之后的情节。
+
+14. 注释的边界：83段声音拼接、85段“苹果面团”的乳房联想等解释与字面本义分开；后者有旧俚语词典的近接词条可参，但不能把正文等同于词典的完整说法。破晓党的历史背景有据，帽子的具体形状证据不足，故不加形状说明。全章夹注解释眼前读句所需之处，不提前解答梦境或后续人物联系。
+
+核典出处（查阅于2026-10-11）
+
+夹注为本次自行撰写，引诗据本章底本翻译，既有中文译本不作为稿本。跨章复现直接核对第一、二章原文和译稿。以下区分直接读到的原作、机构资料及辅助注释；借辅助注释追索的原典，不冒称已通读原典。
+
+1. 亚里士多德《论感觉与可感物》第三章、《论灵魂》第二卷第七章，MIT Classics Archive。
+   复核颜色与透明体的关系；中文保留斯蒂芬随即触觉化、戏谑化的思路，不将其等同于亚里士多德的完整论证。
+   https://classics.mit.edu/Aristotle/sense.1.1.html
+   https://classics.mit.edu/Aristotle/soul.2.ii.html
+
+2. 贝克莱，An Essay Towards a New Theory of Vision，Project Gutenberg。
+   复核距离并非直接由视觉得来的论述，供84段平面、远近与“克洛因主教”夹注使用。
+   https://www.gutenberg.org/files/4722/4722-h/4722-h.htm
+
+3. 莎士比亚《哈姆雷特》《李尔王》《暴风雨》，Folger Shakespeare Library。
+   《哈姆雷特》第一幕第四场的峭壁与刺人的空气、第三幕第二场的鲸鱼、第四幕第五场的朝圣者装束；《李尔王》第四幕第六场的无数小石子；《暴风雨》第一幕第二场的五噚与海变。
+   https://www.folger.edu/explore/shakespeares-works/hamlet/read/
+   https://www.folger.edu/explore/shakespeares-works/king-lear/read/
+   https://www.folger.edu/explore/shakespeares-works/the-tempest/read/
+
+4. Joachim of Fiore and Joachitism，Marsh's Library 所藏研究资料。
+   核对托名预言集与 Ascende / Descende calve 的关系；不是约阿希姆亲撰且直接写作 Descende 的一句格言。
+   https://web.marshlibrary.ie/digi2/files/original/0053fe67d2c5cad00af621b8628cd5ce.pdf
+
+5. Theodoret，Ecclesiastical History，第一卷，New Advent。
+   阿里乌斯死亡故事的教会叙述可追溯至此类敌对材料；夹注标明其叙述立场，不据故事判定真实死因。
+   https://www.newadvent.org/fathers/27021.htm
+
+6. 托马斯·阿奎那，《神学大全》I–II，第74题第6条，New Advent。
+   复核 morose delectation 中“逗留于念头而取乐”的意思，尤其不能将 morose 直接按当代常义理解。
+   https://www.newadvent.org/summa/2074.htm
+
+7. 薄伽丘，《十日谈》第六日第九则，John Payne 英译，Project Gutenberg。
+   圭多从 Orto San Michele 走到 San Giovanni，在墓间答话；支持保留小说地点、以注说明差异的处理。
+   https://www.gutenberg.org/files/23700/23700-h/23700-h.htm
+
+8. Burke, Ricard O'Sullivan，Dictionary of Irish Biography，Royal Irish Academy。
+   核对1867年克勒肯韦尔爆破救囚的背景：伯克当时在狱中，不能将正文与他在墙外同行的联想直接作为可靠年表。夹注只给读者所需事件背景。
+   https://www.dib.ie/biography/burke-ricard-osullivan-a1173
+
+9. 托马斯·摩尔，Let Erin Remember the Days of Old，National Library of Scotland 歌谣单张扫描；摩尔诗集 Gutenberg 文本。
+   核对马拉基与金项圈的诗句，正文同时保留同第一章穆利根名字的联系。
+   https://deriv.nls.uk/dcn23/7489/74894193.23.pdf
+   https://www.gutenberg.org/cache/epub/8187/pg8187-images.html
+
+10. Heraldry，Encyclopaedia Britannica，第十一版，第13卷；Wikisource 扫描页。
+    复核旧纹章学的 rere regardant 以及豹被说成狮与 pard 杂交后裔的传统，不把传说当作动物学知识。
+    https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_13.djvu/341
+    https://nltaylor.net/heraldry/Heraldry_EB11.pdf
+
+11. 阿尔弗雷德·道格拉斯，Two Loves，Academy of American Poets 所收原诗。
+    核对“不敢说出名字的爱”的诗句归属；正文仍保留斯蒂芬的“王尔德”。
+    https://poets.org/anthology/love-dare-not-speak-its-name
+
+12. 丁尼生，The May Queen，1833年诗集，Wikisource。
+    核对母亲、欢悦一年之日的诗行；小说的 Lawn / Lord 改字与打断歌声一并保留。
+    https://en.wikisource.org/wiki/Poems_%28Tennyson%2C_1833%29/The_May_Queen
+
+13. The Easter Proclamation (Exsultet)，United States Conference of Catholic Bishops。
+    复活节颂词的“不落晨星”指向基督；斯蒂芬的雷电、坠落联想又引出路西法。不是将礼仪本身归于撒旦崇拜。
+    https://www.usccb.org/prayer-worship/liturgical-year/easter/easter-proclamation-exsultet
+
+14. Pimander，Brandeis University Library 的馆藏说明。
+    核对文献及“人的牧者”的传统释名；夹注说“曾被释作”，不将它写成无争议的现代词源结论。
+    https://www.brandeis.edu/library/archives/essays/special-collections/pimander.html
+
+15. Francis Grose，1811 Dictionary of the Vulgar Tongue，Apple Dumplin Shop 词条。
+    旧词条指女人胸脯；小说使用的是较短的 apple dumplings。它支持俚语联想，尚不足以排除食物等其他含义，因此正文仍保留“苹果面团”。
+    https://words.fromoldbooks.org/Grose-VulgarTongue/a/apple-dumplin-shop.html
+
+16. Annotations to James Joyce's Ulysses，Wikibooks，Proteus 037—043页。
+    辅助索引及异语核对：但丁“知者之师”、莱辛的先后与并列、布莱克的洛斯、omophorion、约阿希姆伪托预言、P. C. N.、Taxil戏语、demi-sétier 的咖啡用法及法语误听。页码属于该注释采用的英文版本，不是本译PDF页码。其中莱辛、布莱克及Taxil的出处经此追索，未宣称逐部通读。
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/037
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/038
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/040
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/041
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/042
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/043
+
+17. 同上，Proteus 044、047、049、050页。
+    044页提供 Veuillot 对 Gautier 的批语出处；047页引 Richard Head《黑话学院》（1673）中的流浪汉歌及词释；049页指出 diebus ac noctibus 引自旧归安布罗斯名下、今归 Ambrosiaster 的《罗马书》8:22注释，不能误指为《六日创世论》；050页辅助核对 Prix de Paris 与 Lucifer。所引拉丁注释及1673年书籍本次通过注释页核对相关文字，未通读其原刊。
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/044
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/047
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/049
+    https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Proteus/050
+
+18. Mark L. Troy，Mummeries of Resurrection，1976，作者公开文本；Blooms & Barnacles，Decoding Dedalus: Wild Geese。
+    辅助核对 Peep O'Day Boys 的反天主教新教团体背景。帽式及观看者的具体解释未坐实，夹注不采用。
+    https://www.aweo.org/fw/Troy-Mummeries/troybook.htm
+    https://bloomsandbarnacles.com/2019-05-12-decoding-dedalus-wild-geese/
+
+19. 经文与前章记录的继续核对：《列王纪下》2:23—24，《申命记》32:14，《出埃及记》16:3，《诗篇》65:2（武加大编号64）、137，《创世记》1:31—2:3，《约翰福音》1:5、19:28；另有“小荣光颂”与尼西亚信经。
+    用于辨认秃头、麦子的腰脂、埃及肉锅、血肉归来、锡安、安息、明暗及口渴等措辞。底本的节引、倒转和混合仍依小说，不把它们还原为完整经句。
+
+校验记录
+
+底本文件 SHA-256：64c91639868ecf1b3393f3cba17ab2c336dc9b472e4f02d0239cf98ba0029d03
+译稿 SHA-256：7c763c4b0084ee80ec915e2b01dfd3302a135b71b942dbc7e35fb92e3aa4f18b
+
+完成101段对应核对及第一至三章的词语照应复核。两版PDF提取文字与输入完全对应（忽略空白、去除内部夹注标记；原文下划线转换为斜体）。按字体与颜色单独提取的英文和86条夹注也与输入相符；夹注均为8磅淡红宋体，原文均为9.5磅浅灰蓝Georgia。
+116组对读单元均未跨页，字体嵌入、页面边界、中文行首行尾禁则检查通过。使用Poppler渲染两版全部50页，逐页浏览校样总览，并放大检查神学造词、巴黎回忆、黑话诗节、月亮与拉丁引文等页面；未见缺字、重叠或裁切。最后一处夹注删减后重建并重验全文，全部重新渲染，对发生变化的三个页面再作放大检查。
+运行 scripts/split_chapters.py 核验，18章仍可无损还原全部1,586,344个原文字节；全书 SHA-256 为 e03094626f9528cf3fc287a49d6edbdbf47cd40483cb13ceb301e74e15ebbf9e。

@@ -1,0 +1,75 @@
+{
+  "description": "1-based paragraph numbers include the chapter heading. Exact anchors split long passages into checked matching units without changing either manuscript.",
+  "paragraphs": {
+    "3": {
+      "source_after": ["I am getting on nicely in the dark."],
+      "translation_after": ["在黑暗里走得挺好。"]
+    },
+    "8": {
+      "source_after": ["Creation from nothing."],
+      "translation_after": ["从无中创造。"]
+    },
+    "10": {
+      "source_after": ["Where is poor dear Arius to try conclusions?"],
+      "translation_after": ["可怜可爱的阿里乌斯在哪儿，好来辩个明白？"]
+    },
+    "37": {
+      "source_after": [
+        "The hundredheaded rabble of the cathedral close.",
+        "_Descende, calve, ut ne nimium decalveris_."
+      ],
+      "translation_after": [
+        "座堂院落那百头的群氓。",
+        "也回响《列王纪下》对先知的嘲弄。】"
+      ]
+    },
+    "41": {
+      "source_after": ["O yes, W."],
+      "translation_after": ["哦，是，W。"]
+    },
+    "59": {
+      "source_after": [
+        "She thought you wanted a cheese _hollandais_.",
+        "I know the voice.",
+        "Licentious men."
+      ],
+      "translation_after": [
+        "她以为你要一块荷兰奶酪。",
+        "我认得这声音。",
+        "淫荡的男人。"
+      ]
+    },
+    "61": {
+      "source_after": [
+        "Shattered glass and toppling masonry.",
+        "Tell Pat you saw me, won’t you?"
+      ],
+      "translation_after": [
+        "碎玻璃，崩塌的砖石。",
+        "告诉帕特，说你见过我，好吗？"
+      ]
+    },
+    "70": {
+      "source_after": [
+        "All kings’ sons.",
+        "Would you or would you not?",
+        "Out quickly, quickly!"
+      ],
+      "translation_after": [
+        "不全是同一种“冒认者”。】",
+        "你会还是不会？",
+        "赶紧出来，赶紧！"
+      ]
+    },
+    "84": {
+      "source_after": [
+        "Somewhere to someone in your flutiest voice.",
+        "Click does the trick."
+      ],
+      "translation_after": [
+        "某处对某人，用你最像笛声的嗓子。",
+        "咔嗒，戏法成了。"
+      ]
+    }
+  }
+}
