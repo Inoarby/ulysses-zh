@@ -10,7 +10,7 @@
 
 | 章节 | 进度 | 中文译本 | 中英对照本 | 可编辑文本与校译记录 |
 | --- | --- | --- | --- | --- |
-| 第 1 章 · 第一部开篇 | 已完成初稿及词语照应校订 | [PDF · 26 页](chapters/01/chapter-01-zh.pdf) | [PDF · 48 页](chapters/01/chapter-01-parallel.pdf) | [译稿](chapters/01/translation.txt) · [校译记录](chapters/01/translation-notes.txt) |
+| 第 1 章 · 第一部开篇 | 已完成初稿、词语照应及叙述层次校订 | [PDF · 26 页](chapters/01/chapter-01-zh.pdf) | [PDF · 47 页](chapters/01/chapter-01-parallel.pdf) | [译稿](chapters/01/translation.txt) · [校译记录](chapters/01/translation-notes.txt) |
 | 第 2 章 | 已完成初稿及跨章照应核对 | [PDF · 16 页](chapters/02/chapter-02-zh.pdf) | [PDF · 29 页](chapters/02/chapter-02-parallel.pdf) | [译稿](chapters/02/translation.txt) · [校译记录](chapters/02/translation-notes.txt) |
 | 第 3–18 章 | 原文已分章，待翻译 | — | — | [章节索引](chapters/index.json) |
 
@@ -25,7 +25,7 @@
 - 中文正文为 10.5 磅宋体，夹注为 8 磅淡红色宋体，不显示“注：”及方括号。
 - 对照本原文为 9.5 磅浅灰蓝色 Georgia（`#929CA6`），保留斜体与诗行；降低原文的视觉分量，方便连续阅读中文时跳过。
 
-第 1 章包含 66 条夹注，第 2 章包含 40 条。译名、取舍及已核对的参考资料见各章校译记录；跨章沿用的原则见 [AGENTS.md](AGENTS.md)，包括保留歧义、区分人物声音、保留句法节奏、兼顾双关与典故、保留人物错记，以及区分注释中的事实与解释。
+第 1 章包含 67 条夹注，第 2 章包含 40 条。译名、取舍及已核对的参考资料见各章校译记录；跨章沿用的原则见 [AGENTS.md](AGENTS.md)，包括保留歧义、区分人物声音、保留句法节奏、兼顾双关与典故、保留人物错记，以及区分注释中的事实与解释。
 
 ## 文件结构
 
