@@ -12,6 +12,7 @@ We are here to make a better Chinese translation of Ulysses by James Joyce.
 4. If a translation is hard to translate the original meaning or indication, add a inline commen to explain.
 5. Be aware of the cultural difference, add precise and concise inline comments/explainations to help the reader understand, like 脂评 in 红楼梦
 6. Use 宋体, use smaller font, different size for the inline comments.
+7. Preserve verbal echoes in dialogue, quotations, inner monologue, and recurring images, including across chapters. When repeated words or phrases carry a response or callback, retain a recognizable shared Chinese wording rather than varying synonyms for elegance. Preserve real shifts of meaning and wordplay, with a brief note where needed; review each echo in context before finalizing a chapter.
 
 ## Conventions
 
