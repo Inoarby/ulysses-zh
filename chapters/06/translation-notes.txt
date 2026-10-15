@@ -1,0 +1,95 @@
+第六章校译记录
+2026-10-13
+
+底本与范围
+依据本目录 original.txt 逐段翻译。保留章号 [ 6 ] 和全部 403 个空行段，不另加“冥府”章题。31 条夹注；中文本 32 页，对照本 62 页。五个长段采用人工核对的匹配切分，共 409 个对读单元；译稿本身不增加空行段。
+
+译名与承接
+沿用：布卢姆、莫莉、米莉、鲁迪、帕迪·迪格纳姆、西蒙·迪达勒斯、马丁·坎宁安、汤姆·克南、科尼·凯莱赫、麦科伊、弗莱明太太、特威迪、波尔迪、里奇·古尔丁、萨莉、克里西、米娜及诸前章人物。
+本章继续统一：Power 鲍尔；Hynes 海因斯；Ned Lambert 内德·兰伯特；Reuben J 鲁本J；John Henry Menton 约翰·亨利·门顿；Ben Dollard 本·多拉德；Paddy Leonard 帕迪·伦纳德；Dan Dawson 丹·道森；John O’Connell 约翰·奥康奈尔（与丹尼尔·奥康奈尔区别）；Keyes 凯斯；Wisdom Hely 威兹德姆·希利；Mat Dillon 马特·狄龙；Floey Dillon 弗洛伊·狄龙；Ignatius Gallaher 伊格内修斯·加拉赫；Childs 蔡尔兹；Bushe 布希；Coffey 科菲；Thos H. Dennany 托马斯·H.德纳尼；Tivy 蒂维；Mulcahy 马尔卡希；Emery 埃默里；Emmet 埃米特；M’Intosh 麦金托什。
+
+词语、层次与歧义
+1. 第 8 段 women、corpse、he/it、铺床、裹尸布之间的跳跃不写成分析句。关于死后毛发仍生长的想法保留为人物认识，不在正文纠正。
+2. 第 24 段的 costdrawer 沿用第三章开讼费单的职业意思，不能当成拉抽屉的人。wise child 保留认爹的谚语口气，删去替读者总结父系身份不可信的夹注。《威尼斯商人》2.2 的 wise father / own child 是另一方向的变体，不能当成此句的精确原文。
+3. 第 27 段 catastrophe 的粗谑落在译文“大结局”之后才说明屁股义，不把西蒙的恶语改为有礼貌的责备。《亨利四世》下篇 2.1 可核到相近说法，代词是 your；本注不把本章 his 的全部措辞断为该剧逐字引文。
+4. 第 30 段父亲、死去的鲁迪、受孕的偶然性依次出现；保留“从我来”“要是……活着”的碎片。墙上 cease to do evil 留成“不再作恶”，可联系《以赛亚书》1:16；没有给墙另编来历。第 34 段米莉信中的“最亲爱的爸比”沿用第四章。
+5. 第 43 段 That’s all I wanted 不替人物指定什么愿望；其中 I thought so 不因附近臭味擅改成“我闻到了”。第 58 段服从父亲直到坟中，仍开放谁在坟中的读法。第 76 段 his 的未完成关系不补成完整讣闻。第 79 段两个、另一个不逐一替读者命名；第 91 段 women / she 的折回仍可辨。
+6. 第 78 段引信“趁我的耐心还都没有用尽”照应第五章的语法不稳。第 388 段“我不喜欢那个别的世界”照应玛莎把 word 写成 world 的信句，不能此处独自改回“词”。
+7. 第 82 段 big powerful change 的剧院广告口吻译“大换戏目，阵容鼎盛”，并非泛指重大改变。JJON 核引 1904 年 6 月 16 日《爱尔兰时报》剧场广告。
+8. 第 105 段 snuff at a wake 为被视作便宜、任人糟践的东西。爱尔兰守灵时供用鼻烟的习俗足以解释；不沿用“掩盖尸臭”的未经支持说法，不硬译成有人用脚踢鼻烟。此语后面还有回声，统一“像守灵时的鼻烟”。
+9. 鲁本之子落水、救人的酬金及诅咒保留说笑的轮次；一弗罗林等于两先令的解释放在笑话落地之后。第 150 段 adelite 的现行罕词义与手稿来历不一致：JJON 所引笔记及校样显示 puce→adelaide→adelite，均指向紫色，本稿按“变紫”处理。这是有文本生成证据支持的译法判断，不把矿物学的灰色径直塞进人物脸色。
+10. 第 160 段 Our. Little. Beggar. Baby. 的四次停顿全留；beggar 是怜称，译“可怜的”，不把婴儿说成真的讨饭者。
+11. 第 162 段及后续重现的穷人葬歌固定为“颠他的骨头。碾过石头。只是个穷鬼。没有人认领。”own 的财产权意味以“认领”承受，未补家属、亲属等限制。第 163 段葬礼祷词与第 332 段的颠倒对应：“正当我们活着的时候……”／“正当我们死着的时候，我们已在生命之中”。
+12. 第 170 段坟中木桩、悔恨、坎宁安夫人酗酒等，均为布卢姆的想法，不移成客观历史叙述。第 180 段 Has Anybody Here Seen Kelly? 的歌词本身就包含 Antonio 与 ownio，不能注成两支歌舞厅歌曲之间的跳接；中间插入的是《扫罗》的葬礼进行曲。“独自嗷”勉留滑稽拖音。歌词及年代来源见下；这个晚于 1904 年的歌不替乔伊斯删去。
+13. 第 186 段第五块牛肉指屠宰副产物，与四块肉和出口利益的谈话相连。第 206 段运尸电车的路线仍是一种盘算，不把它写成现实线路；人、躯干、车厢、坟墓的分类用语保留。
+14. 第 248 段 Has the laugh at him now 留“如今倒能笑他了”，不擅添她。第 249 段的 Him? No. 不替他消除代词游移。第 262 段 Was he there when the father? 留“他父亲的时候，他在不在？”；Both unconscious 不径直判为两人医学意义的昏迷。
+15. 葬礼段圣带、圣水、仪式动作与内心的身体联想分开。第 270 段 As you were before you rested 兼含口令与安息的接续，保留“稍息以前什么样，还什么样”。第 293 段 Church of Ireland 要与天主教区别，避免把“爱尔兰教会”误读作一切爱尔兰教堂的总称。
+16. 第 298 段心脏的泵、拉撒路、找回内脏和称粉末相接；forth/fourth/fifth 无法全由汉语声音承担，笑话后补音注。十二克一便士重按人物所想保留，不代他校准金衡制。“他妈再没别的”与后面的复现一致。
+17. 第 313 段 coon 同时有泛称男子和种族辱称的历史用法。正文“下等货”保留鄙薄，夹注交代黑人辱称的可能负载；不直接把犹太身份改写成黑人，也不冲淡门顿的敌意。
+18. 第 332 段钥匙、凯斯广告、离场凭证、habeas corpus 的链条尽量紧接；其中人身／尸身双义附于法律拉丁语。管理员、丹尼尔·奥康奈尔、巨人、坟气之间的长句不补连词来构造明确逻辑。第 333 段“取血”关联须明确是血祭诬告，避免将布卢姆含混的联想传播为史实；不把“那个基督徒男孩”擅定为某一起案件。
+19. 第 335 段 swirls / swurls / gurls 留转音进入歌辞的动作；Spurgeon 译“司布真”。De mortuis nil nisi prius 的变形只说明 bonum 与 prius，不断言必为记错；与此前“两年”也可能形成有意笑话，法律语 nisi prius 的联系仅作为可供研究的可能，不增作已定解。
+20. 第 339 段的 March / June 保留“三月十五，或者六月十五”；星期五埋星期四紧接鲁滨孙，不预先讲破。第 361–362 段 Macintosh/M’Intosh 统一读音“麦金托什”，让海因斯把雨衣听成姓氏的动作发生，再注释词形差异。其人是谁仍不开答案。
+21. 第 369 段无引号的 Thanks / Sorry / I know / For yourselves 仍留成断续交换，不另添确定的发话人；难过与小费不解释为完整戏剧对白。
+22. 第 377 段保留 Wordsworth / Thomas Campbell 的错记；eulogy 也可能是布卢姆因墓志都是赞辞而作的有意改题，故注只给格雷原题及两词差别，不判定其头脑中必发生某一种错误。第 379 段 Pliny 35.66 的画家是宙克西斯；“阿波罗”仍留正文，注中辨识。第 385 段只说埃米特确切墓址未定，不把人物疑问写成事实。
+23. 第 387 段所谓《中国游记》的具体书目未落实，不虚造作者；中国人、帕西人、火葬、溺水等知识仍归布卢姆。第 390 段 Tantalus 保留名称兼译锁酒架；不给宴饮场景插入整段神话。结尾门顿的“谢谢”与布卢姆内语中的“谢谢”照应，末句保留 we 所带的讥讽口气。
+
+已核对资料（访问日期 2026-10-13；以下为校译依据，不作为大段转述内容）
+A. Folger Shakespeare Library，《亨利四世》下篇 2.1，catastrophe 粗谑；《威尼斯商人》2.2，wise father 的谚语变体。
+https://www.folger.edu/explore/shakespeares-works/henry-iv-part-2/read/2/1/
+https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/2/2/
+B. JJON，John Simpson / Harald Beck 的专题考证，分别核读剧院广告、守灵鼻烟、第五块牛肉、adelite 校样和格雷题名；词源及引证与解释区分。
+https://www.jjon.org/joyce-s-allusions/change
+https://www.jjon.org/joyce-s-words/snuff
+https://www.jjon.org/joyce-s-words/fifth-quarter
+https://www.jjon.org/joyce-s-words/a
+https://www.jjon.org/joyce-s-allusions/gray
+C. Thomas Noel, The Pauper’s Drive，见 A Library of Poetry and Song 数字化原书；核到叠句与作者署名。
+https://upload.wikimedia.org/wikipedia/commons/2/26/A_library_of_poetry_and_song-_being_choice_selections_from_the_best_poets%3B_%28IA_cu31924013288133%29.pdf
+D. Manx Music, “Let’s have a song about the Isle of Man”，据当时报刊与演出资料讨论 Florrie Forde，载 Kelly 歌内 Antonio / own-i-o 的引用。相同两句属于 Kelly，不另拆一首歌曲。年代研究放在记录中，夹注无需负担。
+https://www.manxmusic.com/media/News%20images%202017/Florrie%20Forde%20on%20the%20Isle%20of%20Man.pdf
+E. Royal Mint Museum，Demise of the Florin；英国皇家铸币局 The Florin，币值两先令。
+https://www.royalmintmuseum.org.uk/journal/curators-corner/florin/
+https://www.royalmint.com/shop/limited-editions/coin-names-and-their-nicknames/The-Florin/
+F. UCD Industrial Memories 所载 Ryan Report 1.7.4，阿坦工艺学校的男孩、生活供应和教育义务；并参照爱尔兰国家档案馆 Dublin — Education 的 1911 年人口普查介绍。这里只解释谈话所依赖的收容教育功能。
+https://industrialmemories.ucd.ie/ryan-report/report/1-7-4
+https://nationalarchives.ie/collections/search-the-census/about-the-census-collections/dublin-education/
+G. H. L. Stephens, Death and Burial of Poor Cock Robin，Gutenberg #17060，童谣各鸟担任葬礼职务。
+https://www.gutenberg.org/cache/epub/17060/pg17060-images.html
+H. 葬礼与拉丁祈祷：英国圣公会 Funeral 礼文及 American Anglican Council 对 1662 年祈祷书句子的引用；教廷 Via Crucis 1991 的主祷文；Oxford Song 的 In paradisum 文本；Albertus Magnus, Commentarii in Psalmos 的 Non intres in judicium 经句。不同礼仪传统没有被混写成同一仪式。
+https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/death-and-dying/funeral
+https://americananglican.org/in-the-midst-of-life/
+https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_1991_via-crucis_it.html
+https://oxfordsong.org/song/in-paradisum-3
+https://catholiclibrary.org/library/view?chunk.id=00000097&docId=%2FMedieval-OR%2FAlbertusMagnusSCommentariiInPsalmos.00000012.la.html
+I. Cornell Legal Information Institute, habeas corpus；仅据此核法律词义，不把这里的文学双关说成法律定义。
+https://www.law.cornell.edu/wex/habeas_corpus
+J. H. Mutschmann, A Glossary of Americanisms，数字化词典 coon 条并列 raccoon、黑人旧称、fellow/child 等义；正文语境的贬义是译者判断。
+https://www.etera.ee/api/oai2/download/9924.pdf
+K. United States Holocaust Memorial Museum, Antisemitism Explained，血祭诬告的虚假性质及迫害后果。
+https://www.ushmm.org/antisemitism/what-is-antisemitism/explained
+L. Pliny, Natural History 35.65–66，Attalus 所载原典英译；35.66 明说携葡萄的孩子和鸟应畏惧人的问题。
+https://www.attalus.org/pliny/hn35a.html
+M. Dictionary of Irish Biography, “Emmet, Robert”，DOI 10.3318/dib.002921.v1，确切葬处未获证实。
+https://www.dib.ie/biography/emmet-robert-a2921
+N. Folger《裘力斯·恺撒》1.2、3.2 的三月十五警告与葬礼演说；《圣经》以赛亚书1:16、马太福音27:15–26、约翰福音11:25、11:43–44，分别用于墙上词句、巴拉巴、复活与拉撒路。引文按本书截断或变形处翻译，不代作者补全文。
+https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/1/2/
+https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/3/2/
+O. De mortuis nil nisi prius：Wikibooks Hades/105 汇集 Gifford、Thornton 等注本读法。这里只核对被替换的拉丁词；关于“有意改动”及法律语的联想仍保留为可能。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Hades/105
+
+未作定论的事项
+第 106 段 thrush/throstle 的词音自赏、第 160 段婴儿墓志般的四段短语、梦魇或鬼魂的指涉，以及一些无明确发话人的内语，均不附单一答案。这里没有依据某一本注释把每个联想全部显化。未逐一确认的街道店号人物只按底本译写，不增传记事实。
+
+制作与校验
+运行 build_chapter_pdf.py 06 生成两版。verify_chapter_pdf.py 06 完整比对中文、英文、31 条夹注的文字流，并核对嵌入字体、字号、颜色、页界和 409 组同页对读：通过。
+94 页均以 65 dpi 渲染，六张全页接触表逐页目检；另以 125 dpi 检查对照本第 37 页拉丁语及注释、第 54 页麦金托什对话与正文。未见缺字、叠字、裁切或对照分离。校样保存在 tmp/pdfs，不纳入版本库。
+original.txt SHA-256: 69c10295aa50bfeade5807eaf030d853aa89f883179200c76c2dc508ffacacd7
+translation.txt SHA-256: a9260b1fbd680a9c21492b365d3b4ce399b3b4170b9b64017008a687b0e709b3
+
+跨章称谓复核（2026-10-15）
+萨拉／萨莉是里奇·古尔丁之妻，里奇为斯蒂芬母亲的兄弟，因此称“舅母”；第三章的 uncle Si 借古尔丁家孩子的称谓称西蒙，中文为“西姑父”。保留 Sara／Sally 的全名与昵称差别。核对 Catherine Flynn 编 The Cambridge Ulysses 人物索引 Goulding, Richie / Sara 条：
+https://assets.cambridge.org/97810095/68449/index/9781009568449_index.pdf
+Crissie 沿第三章为“克里西”。未改指穆利根长辈的“姨妈”，此处西蒙自己也说不清亲属身份。
+本次译文 SHA-256: cf437b7ba26386eee3d59cc2e01a5fed844fdbbd78f403403b0a9cc92e620ff7
+
+本次称谓和译名修正后两版重新生成，全文、字体、颜色、页界及同页配对验证通过；中文仍32页，对照仍62页。以110 dpi复看中文第2页及对照第4页，未见缺字、重叠或裁切。

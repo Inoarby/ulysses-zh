@@ -1,0 +1,83 @@
+第五章校译记录
+2026-10-13
+
+底本与范围
+逐段依据本目录 original.txt 重译；保留 [ 5 ] 及其余 151 个空行段。未给底本增添通行的“食莲者”章题。全章 27 条夹注。中文本 18 页，对照本 34 页；9 个长段各分成两个已核对的对读单元，共 160 组。这里的段号包含章号。
+
+译名与承接
+沿用前章：布卢姆、莫莉、玛丽昂、特威迪、麦科伊、迪格纳姆、穆林加尔、沙湾；《爱情那古老的甜歌》《在那里我们携手》及帽中字样 high grade ha 也沿用。后者不能补回 hat 的 t。
+Henry Flower：亨利·弗劳尔；Martha：玛莎。保留化名与真实姓氏不同的字形，以夹注交代 Flower/Bloom 的花义联系。圣经人物用马大、马利亚，在名字转接处说明对应。
+Martin Cunningham：马丁·坎宁安；Tom Kernan：汤姆·克南；Corny Kelleher：科尼·凯莱赫；Bantam Lyons：矮脚鸡莱昂斯；Bob Doran：鲍勃·多兰；Bob Cowley：鲍勃·考利；Holohan：霍洛汉；John Conmee：约翰·康米；Carey：凯里。原文 Peter Carey、Denis Carey 都不改为历史人物 James Carey，只用夹注辨误。
+John Rogerson：约翰·罗杰森；Westland row：韦斯特兰街；Brunswick：不伦瑞克；Cumberland：坎伯兰；Lincoln place：林肯广场；Sweny：斯威尼；All Hallows：诸圣教堂；Iveagh：艾维；Ardilaun：阿迪隆；Leah：莉亚；Bandmann Palmer：班德曼·帕尔默；Kate Bateman：凯特·贝特曼；Mosenthal：莫森塔尔；Nathan：纳坦。
+
+声音、歧义与词语复现
+1. 第 2–4 段沿玫瑰花床、茶、花叶、昏睡展开；热带气候与人种判断是布卢姆的想象。保留睡六个月、空气养花、浮力和自由落体的混杂说法，不写成校正过的科学解释。
+2. 第 11 段 half-seas-over 的半醉义用夹注补足，与 overseas 的语词连接仍可见。Table: able / Bed: ed 译成“桌子：子。床铺：铺”，模拟截去起首部分的声音。夹注只陈述原文字形；未查实其具体表演或催眠来源，不把“军队操练的喊声”写成既定出处。
+3. 第 12 段 the letter the letter 原样重复为“那封信那封信”。第 13 段 when you 留作“当你。”，不补“独处”等解释。
+4. 第 27–42 段保留麦科伊的叙说与布卢姆偷窥时的内语交错。skin、braided drums 依据第 15 章的 fawn musketeer gauntlets with braided drums 复现，按皮手套与饰边筒口处理。男人究竟是丈夫还是兄弟，仍悬着。Brutus 的反讽只标出处，不替人物下完整结论。
+5. 第 53 段歌名保留五行的布局；Love’s / Old / Sweet / Song 译成“爱情那 / 古老的 / 甜 / 歌”，连读仍是前章固定歌名。第 54 段甜字拉长，与此呼应。
+6. 第 64 段 I’d like my job 是拒绝被占便宜的爱尔兰习语，译“我才不干呢”，不能译作“我喜欢自己的工作”。旅行袋未直接说成被盗，保留布卢姆对借物不还的判断。
+7. 第 67–70 段戏剧、父亲及其死去的那一天彼此触发；他究竟指莎士比亚还是哈姆雷特等游移处不代为确定。“那一天”不预告后面的揭示。
+8. 第 74 段 Voglio e non 与第四章 Vorrei e non vorrei 有变化；本文不替他唱回正确歌词。第 75 段重用“在那里我们携手”。
+9. 第 79 段 world/word、wrote、patience are 的错置，用“世界”“不写过”“耐心还都”留出痕迹。“我觉得很难过，为了。”保留原文孤悬的 about。并非把所有英语语法错都机械复制为不可读中文。第 83 段 whether she wrote it herself 仍译成略显不稳的“她自己写过的么”。
+10. 第 82 段保留花名与信词之间不加标点的混接；manflower 为“人花”，nightstalk 为“夜花茎”，不把整个串词改编成一封通顺情书。有关 flower-language 具体字典的猜测不入夹注。
+11. 第 86、88、90 段重复“好把它提住”；it/them 的单复数误差留在第 87 段。玫瑰开了仍保持隐语，不在正文替换成生理名词。
+12. 第 93–95 段算酒价、误说桶又改口，以及火车声变成酒桶碰撞，依次保留。没有把加仑和桶换算成现代公制。
+13. 第 97–113 段不把布卢姆的仪式观察改为教义说明；泡水、尸体、食人族、金钱、神父等判断各留其人物语气。Corpus/corpse 用原词和最小释义保存声音跳转；陈设饼与“陈设酒”共享陈设，不改成不相干的同义词。IHS/INRI 先译他想到的错误英文展开，再注真正出处。
+14. 第 102 段“不要拒绝我的请求”，第 109 段“那么我就把一切告诉你”等重用玛莎信中文字；告解与情书的关联让读者自行听出。
+15. 第 116、123 段药物、生理及肤质猜想按人物所想翻译，不作医疗知识发布。“只有一层皮”“我们有三层”及糖浆、毛孔等说法未在正文校正。Prince Leopold 的具体病史不是此处展开所必需，未增注。
+16. 第 140、143 段 going to throw it away 都译“正要把它扔掉呢”；仅在后一次揭明出赛马名 Throwaway，保留初次对答发生误解的时刻，不透露比赛结果。
+17. 第 150 段两首歌曲分别是《恩尼斯科西》与《玛丽塔娜》的 In happy moments, day by day；不可误归《芬尼根的守灵夜》或托马斯·穆尔。后一首原词 flight of years 在人物的记忆中变为 stream of life，译文以“生命的河流”重叠承接，不恢复原词。Duck for six wickets 保留人物压缩的“六柱，鸭蛋”。
+18. 第 151–152 段 fore-saw 为“预先看见”，尚是想象洗浴；不把他已经置身浴缸写成当前行动。末段“子宫”“千千万万之父”“浮花”保留肉身与花、水的重叠。“这是我的身体”与本章的弥撒保持呼应，不添确定的作者评判。
+
+核对资料（2026-10-13；未列为已核对全文的资料不得视作完整读过）
+1. James Joyce Online Notes，Eamonn Finn，I’d like my job! – Not likely!：
+   https://www.jjon.org/joyce-s-words/job
+   已读条目及其 Lady Gregory / Paddy Crosbie 例证，核实拒绝义。
+2. Folger Shakespeare Library，Julius Caesar 3.2：
+   https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/3/2/
+   已核安东尼反复的 honorable man。天堂之外的 Peri 指穆尔 Lalla Rookh 的 Paradise and the Peri；夹注只指出被拒于门外这一关联。
+3. J. E. Hanauer，Folk-lore of the Holy Land（1907），关于猫的传说；可检索的转录：
+   https://tianmu.org/good-work-library/ethnotheology/middle-east/folk-lore-of-the-holy-land-j-e-hanauer
+   已读割袖以免惊醒猫的段落；仅称传说，不把故事当史实。
+4. Jacqueline F. Eastman，The Language of Flowers: A New Source for “Lotus Eaters”，James Joyce Quarterly 26.3（1989），379–396。
+   https://www.scribd.com/document/823486539/The-Language-of-Flowers-A-New-Source-for-Lotus-Eaters
+   本次仅取得关于 nightstalk/nightstock 的检索摘录；另参 Richard Short 的数字展览：
+   https://jamesjoyce.omeka.net/exhibits/show/gathering-flowers--joyce---s--/gathering-flowers
+   不声称已通读 Eastman 全文，不把其来源推断化为确定的作者意图。
+5. USCCB，经文 Luke 10:38–42、Mark 14:22：
+   https://bible.usccb.org/bible/luke/10
+   https://bible.usccb.org/bible/mark/14
+   已读马大、马利亚接待耶稣及“这是我的身体”；Luke 10:29 另有邻人问句。语调采用既有译文习惯，未照抄现代经文译本。
+6. Jesuits in Britain，Frequently asked questions，“What does IHS stand for?”：
+   https://www.jesuit.org.uk/who-we-are/faqs
+   已核 IHS 源自希腊文耶稣之名。
+7. Wikibooks，Annotations to James Joyce’s Ulysses，Lotus Eaters 077–079、081：
+   https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Lotus_Eaters/077
+   https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Lotus_Eaters/078
+   https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Lotus_Eaters/079
+   https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Lotus_Eaters/081
+   已核相关段落：Ecce Homo、INRI、Quis est homo、药房缩写。081 将 Aq. Dist. / Fol. Laur. / Te Virid. 展开为蒸馏水、月桂叶、绿茶；其进一步药效说明不采用。077 所提图像只作可能出处，不指认布卢姆眼前的特定画作。
+8. Dictionary of Irish Biography，James Quinn，Carey, James：
+   https://www.dib.ie/biography/carey-james-a1470
+   核实名字与无敌党告密者身份；原文的 Peter/Denis、家庭人数与人物评判不据传记重写。
+9. New Zealand Ice Cream History：
+   https://historyicecreamnz.co.nz/history.htm
+   核 hokey pokey 旧时冰品名称及叫卖背景；不把现代新西兰同名口味直接搬入 1904 年场景。
+10. Enniscorthy，Robert Martin 词曲，James Weaver 编配，American Old Time Song Lyrics 39 的旧歌集转录：
+    https://www.traditionalmusic.co.uk/songster/39-enniscorthy.htm
+    检索返回包括署名、首节与副歌的完整片段；直接打开失败。已核副歌中棍击、脑壳、McCarthy 与 Enniscorthy 的连接。条目署名的 Bobert 应为转录误字；正文夹注不需要作者名。另参论文的逐句比对：
+    https://svr.pnu.edu.ua/wp-content/uploads/sites/5/2021/01/dis_tatsakovych.pdf
+    仅用作互证，不采其对“爱尔兰性格”的概括作为叙述者意见。
+11. Maritana: a grand opera, in three acts，费城 1870 年印本，第二幕，印页 18（扫描页 24）：
+    https://upload.wikimedia.org/wikipedia/commons/2/25/Maritana_-_a_grand_opera%2C_in_three_acts_%28IA_maritanagrandope00walliala%29.pdf
+    已读 In happy moments, day by day 两节，歌中为 flight of years。此 BALLAD 明署 Alfred Bunn 作词；全剧作曲 W. V. Wallace。不能把剧本作者与此插入歌辞作者混为一人。
+12. 第四章的《唐·乔万尼》唱词与第三章“埃及的肉锅”核对记录继续适用，见相应 translation-notes.txt。对“莫扎特第十二弥撒”的后世归属争论未在此处加注；原文沿用的旧名保留。
+
+版面及数据检查
+原文与译文空行段数均 152；核查全部段落，无添删段。parallel-segments.json 各锚点核对两侧上下文，不把切分写入译稿空行。
+两版 PDF 运行 scripts/verify_chapter_pdf.py 05 通过：正文、夹注、英文全文、对读单元同页、页界、嵌入字体及颜色字号。全部 52 页渲染检查；另放大核查信件与结尾。末署名 Martha 与 your longing 所在段在排版时绑定；该原文结束形式在前五章只出现于第五章第 79 段，未改动前四章版式。中文版完整信件现同在第 9 页，对照版第 16 页。原文没有被此规则修改。
+original.txt SHA-256：f7b08d600c4681e2bc99e97dda8d871136ef7103c886d79b5c54a46e529f8618
+translation.txt SHA-256：babf2923a0de64d56379e1ba81319eb414a75af1376b3207219df4bf8b61d24d
+
+本文与译稿按仓库 CC BY-SA 4.0 许可发布。原作及第三方资料的许可另见 NOTICE.md。

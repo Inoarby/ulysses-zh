@@ -1,0 +1,53 @@
+{
+  "description": "Verified matching end anchors; paragraph numbers include chapter marker and section separators. Manuscript paragraph boundaries remain unchanged.",
+  "paragraphs": {
+    "345": {
+      "source_after": [
+        "A small gin, sir. Yes, sir."
+      ],
+      "translation_after": [
+        "一小杯杜松子，先生。是，先生。"
+      ]
+    },
+    "535": {
+      "source_after": [
+        "Two bar entrance, soldiers half price."
+      ],
+      "translation_after": [
+        "入场两先令，军人半价。"
+      ]
+    },
+    "544": {
+      "source_after": [
+        "or on foot through Smithfield, Constitution hill and Broadstone terminus.",
+        "smiled credulously on the representative of His Majesty.",
+        "His Excellency graciously returned Mr Dedalus’ greeting.",
+        "on account of its being the lord lieutenant.",
+        "the gentleman Henry, _dernier cri_ James.",
+        "and also upon the honourable Gerald Ward A. D. C.",
+        "holding a fat gold hunter watch not looked at in his fat left hand not feeling it.",
+        "E.L.Y.’S, while outriders pranced past and carriages."
+      ],
+      "translation_after": [
+        "还是步行穿过史密斯菲尔德、宪法坡和布罗德斯通总站。",
+        "满怀信从地向陛下的代表微笑。",
+        "总督阁下亲切地回了迪达勒斯先生的礼。",
+        "电车和斯普林的大黄家具货车都得在她面前停下。",
+        "亨利是绅士，詹姆斯最新潮。",
+        "也笑向副官杰拉尔德·沃德阁下。",
+        "肥大的左手拿着一只胖金猎壳怀表，没有看，也没有感觉到。",
+        "E.L.Y.’S，前导骑手与马车轻跃而过。"
+      ]
+    },
+    "547": {
+      "source_after": [
+        "His collar too sprang up.",
+        "welcome to Pembroke township."
+      ],
+      "translation_after": [
+        "他的领子也弹了起来。",
+        "向一切来人欢迎光临彭布罗克镇。"
+      ]
+    }
+  }
+}

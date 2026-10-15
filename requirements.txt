@@ -1,2 +1,5 @@
 # PDF generation; chapter splitting uses only the Python standard library.
 reportlab==4.4.9
+# Optional PDF integrity verification: scripts/verify_chapter_pdf.py
+pdfplumber==0.11.9
+pypdf==6.10.0

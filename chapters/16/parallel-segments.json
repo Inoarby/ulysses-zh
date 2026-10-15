@@ -1,0 +1,411 @@
+{
+  "description": "Manually verified matching end anchors; paragraph numbers include Part III and chapter headings. Original manuscript paragraph boundaries remain unchanged.",
+  "paragraphs": {
+    "3": {
+      "source_after": [
+        "or a mineral.",
+        "there was such a thing to be found.",
+        "round by the corner of Dan Bergin’s."
+      ],
+      "translation_after": [
+        "或者一瓶汽水。",
+        "此处似指疲惫不堪。】",
+        "进入亚眠街。"
+      ]
+    },
+    "4": {
+      "source_after": [
+        "without a fare or a jarvey.",
+        "famous for its C division police station."
+      ],
+      "translation_after": [
+        "既无乘客，也无车夫。",
+        "并适时转入以 C 区警察署著称的斯托尔街。"
+      ]
+    },
+    "5": {
+      "source_after": [
+        "if you didn’t look out.",
+        "when it got bruited about.",
+        "paid to protect the upper classes.",
+        "over anything.",
+        "the tender mercy of others practically."
+      ],
+      "translation_after": [
+        "也能狠狠踢你一脚。",
+        "一个小伙子简直就毁了。",
+        "他们领薪是为上等人提供保护。",
+        "倘若双方碰巧为了什么事争执起来的话。",
+        "任其慈悲处置。"
+      ]
+    },
+    "12": {
+      "source_after": [
+        "Katherine (also) Talbot."
+      ],
+      "translation_after": [
+        "凯瑟琳（又是这个名字）·塔尔博特。"
+      ]
+    },
+    "19": {
+      "source_after": [
+        "Whereas.",
+        "very much the reverse in fact."
+      ],
+      "translation_after": [
+        "可是呢。",
+        "事实上恰恰相反。"
+      ]
+    },
+    "24": {
+      "source_after": [
+        "testifying to a chronic impecuniosity."
+      ],
+      "translation_after": [
+        "证明此人长期缺乏钱财。"
+      ]
+    },
+    "86": {
+      "source_after": [
+        "perfect poetry in its own small way.",
+        "wrecked in his affections."
+      ],
+      "translation_after": [
+        "也是一篇完美的诗。",
+        "感情已遭船难。"
+      ]
+    },
+    "108": {
+      "source_after": [
+        "as he took particular notice.",
+        "nourish some suspicions of our friend’s _bona fides_",
+        "Holyhead which was his longest.",
+        "was five and six, there and back.",
+        "Park lane to renew acquaintance with.",
+        "which might prove highly remunerative."
+      ],
+      "translation_after": [
+        "他特意留意到了。",
+        "对我们这位朋友的诚实起了几分怀疑；",
+        "那是他走得最远的一趟。",
+        "来回车费还要五先令六便士。",
+        "好去重温旧识。",
+        "很可能大有赚头。"
+      ]
+    },
+    "110": {
+      "source_after": [
+        "nothing short of a new lease of life.",
+        "so long as it didn’t come down,",
+        "the signal benefits to be derived from it",
+        "about three quarters of an hour’s run from the pillar."
+      ],
+      "translation_after": [
+        "那简直就是生命获得一份新租约。",
+        "实为理想之地；",
+        "还未达到本可达到的程度；",
+        "从柱子那里过去不过约四分之三小时的行程。"
+      ]
+    },
+    "130": {
+      "source_after": [
+        "And it left him wondering why.",
+        "there was really no secret about it at all.",
+        "run on identically the same lines"
+      ],
+      "translation_after": [
+        "这使他不免纳闷，为什么。",
+        "其中其实压根儿没有什么秘密。",
+        "都是照一模一样的路数经营，"
+      ]
+    },
+    "150": {
+      "source_after": [
+        "the pink of the paper though why pink.",
+        "that is to say, love me, love my dirty shirt."
+      ],
+      "translation_after": [
+        "尽管为什么是粉红。",
+        "爱我，也爱我的脏衬衫。"
+      ]
+    },
+    "165": {
+      "source_after": [
+        "a very modest remuneration indeed for her pianoplaying."
+      ],
+      "translation_after": [
+        "为他们弹钢琴。"
+      ]
+    },
+    "173": {
+      "source_after": [
+        "the melodramatic manner above described."
+      ],
+      "translation_after": [
+        "以上述戏剧性方式赎了自己的罪。"
+      ]
+    },
+    "175": {
+      "source_after": [
+        "there was nothing intrinsically incompatible about it, he conceded."
+      ],
+      "translation_after": [
+        "其中并没有什么本质上不相容的地方，他承认。"
+      ]
+    },
+    "185": {
+      "source_after": [
+        "a good old delectable swig out of it with a gurgling noise.",
+        "radically altered since his last visit and greatly improved.",
+        "and harness jingled.",
+        "arms of Morpheus,"
+      ],
+      "translation_after": [
+        "着实痛快地美美灌了一大口。",
+        "而且大大改善了。",
+        "挽具丁当。",
+        "然后再将四肢安置进墨耳甫斯的怀抱，"
+      ]
+    },
+    "192": {
+      "source_after": [
+        "surplus steam in the same vein.",
+        "The Boers were the beginning of the end."
+      ],
+      "translation_after": [
+        "还有同一路数的许多剩余蒸汽。",
+        "布尔人是终局的开端。"
+      ]
+    },
+    "200": {
+      "source_after": [
+        "even though poles apart.",
+        "the others seeing least of the game.",
+        "an idea he utterly repudiated.",
+        "have her or swing for her,",
+        "some legal luminary saved his skin on.",
+        "snapping at the bone for the shadow."
+      ],
+      "translation_after": [
+        "纵使它们分处两极。",
+        "其他人反倒最看不清这盘局。",
+        "这个观念他是坚决排斥的。",
+        "要么得到她，要么为她上绞架，",
+        "保住了他的皮。",
+        "总是为了影子去咬骨头。"
+      ]
+    },
+    "210": {
+      "source_after": [
+        "They are practical and are proved to be so.",
+        "raise the wind on false pretences."
+      ],
+      "translation_after": [
+        "他们实际，事实也证明如此。",
+        "以虚假名义筹钱。"
+      ]
+    },
+    "221": {
+      "source_after": [
+        "nobody to blame but themselves.",
+        "a suit of brown paper (a fact).",
+        "anyone with a pick of brains.",
+        "following in the footsteps of the head of the state,",
+        "dress and all the rest of it."
+      ],
+      "translation_after": [
+        "除了自己，谁也怪不得。",
+        "穿一身褐色纸衣（事实）。",
+        "凡有一点脑子的人都会明白。",
+        "不过是追随国家元首的足迹；",
+        "这很大程度上是服装及其他一切的问题。"
+      ]
+    },
+    "222": {
+      "source_after": [
+        "time to time a firstrate tonic for the mind."
+      ],
+      "translation_after": [
+        "时不时来一次，对头脑是一流补剂。"
+      ]
+    },
+    "223": {
+      "source_after": [
+        "our daily press."
+      ],
+      "translation_after": [
+        "转到 lay。】"
+      ]
+    },
+    "229": {
+      "source_after": [
+        "_Sceptre_ a shade heavier.",
+        "1000 sovs with 3000 in specie."
+      ],
+      "translation_after": [
+        "权杖稍重。",
+        "一千金币，外加现款三千。"
+      ]
+    },
+    "233": {
+      "source_after": [
+        "the job was taken out of their hands.",
+        "within the bounds of possibility.",
+        "To show the understudy in the title _rôle_ how to.",
+        "Dick and Harry against.",
+        "with the description given,"
+      ],
+      "translation_after": [
+        "而感到苦恼。",
+        "也许还在可能的范围之内。",
+        "给担纲主角的替身看，怎样。",
+        "迪克和哈里反对。",
+        "然后装扮得同所述相符，"
+      ]
+    },
+    "237": {
+      "source_after": [
+        "that it subsequently blossomed into.",
+        "coined shoals of money out of.",
+        "carried away by a wave of folly.",
+        "which he almost bid fair to do",
+        "much in the same way as the fabled ass’s kick."
+      ],
+      "translation_after": [
+        "不过还没有达到后来那样盛放的耸人听闻程度。",
+        "便铸出大群大群的钱。",
+        "那绝对与旁人无关。",
+        "几乎很有希望做到，",
+        "颇像寓言中驴子的那一踢。"
+      ]
+    },
+    "245": {
+      "source_after": [
+        "certain opulent curves of the."
+      ],
+      "translation_after": [
+        "还不细讲那些丰美的曲线，那个的。"
+      ]
+    },
+    "246": {
+      "source_after": [
+        "it was scarcely professional etiquette so.",
+        "her symmetry of heaving _embonpoint_."
+      ],
+      "translation_after": [
+        "不过这么做不大合乎行内礼数，所以。",
+        "同时估量着她起伏的丰腴如何匀称。"
+      ]
+    },
+    "247": {
+      "source_after": [
+        "aboveboard about the whole business.",
+        "became in due course intimate.",
+        "for the party wronged in due course.",
+        "the erstwhile tribune’s private morals.",
+        "which she, however, was the first to perceive.",
+        "fortunately not of a grave character.",
+        "and return it to him he did with the utmost celerity)",
+        "saying: _Thank you, sir_,"
+      ],
+      "translation_after": [
+        "而不肯把整件事老老实实摆到桌面上。",
+        "关系也就在适当的时候变得亲密。",
+        "由他在适当的时候替受屈的一方提交诉状。",
+        "影射这位前民众领袖的私德。",
+        "一击便使全像崩塌。】",
+        "幸而并不严重。",
+        "而且确实以最快的速度还给了他）",
+        "谢谢您，先生，"
+      ]
+    },
+    "248": {
+      "source_after": [
+        "leading up to a domestic rumpus",
+        "as quite possibly there were several others."
+      ],
+      "translation_after": [
+        "闹得家里大吵大嚷，",
+        "因为很可能另外还有好几个。"
+      ]
+    },
+    "249": {
+      "source_after": [
+        "when Miss Right came on the scene",
+        "and flowers and chocs."
+      ],
+      "translation_after": [
+        "他自然会给自己娶个妻子，",
+        "再引到情人的缱绻，花儿和巧克力。"
+      ]
+    },
+    "254": {
+      "source_after": [
+        "for those same ultra ideas.",
+        "he was subsequently partially cured of)"
+      ],
+      "translation_after": [
+        "对那些同样极端的念头，他也暗暗怀着好感。",
+        "后来也部分给治好了）"
+      ]
+    },
+    "255": {
+      "source_after": [
+        "which of the two alternatives.",
+        "or some wardrobe, if found suitable.",
+        "no rumpus of any sort was kicked up.",
+        "character’s whereabouts for a few days to come,",
+        "as Mr Algebra remarks _passim_."
+      ],
+      "translation_after": [
+        "因此在这两条路之间该选哪条，他有点为难。",
+        "对他个人会是莫大的愉快。",
+        "当然总以不闹出任何一种风波为条件。",
+        "最好的线索很可能是下谢里夫街旁边，某个靠女人吃饭的家伙开的妓院，里头尽是退下来的美人，年纪在那儿全不成障碍，",
+        "设 x 等于我的真实姓名和地址。"
+      ]
+    },
+    "277": {
+      "source_after": [
+        "literally knocking everything else into a cocked hat.",
+        "generally voiced desire for an encore.",
+        "the severe classical school such as Mendelssohn.",
+        "made all the others take a back seat.",
+        "who _anno ludendo hausi, Doulandus_,"
+      ],
+      "translation_after": [
+        "这里记反了。】",
+        "这就够说明问题了。",
+        "也颇有偏爱。",
+        "把旁人全都挤到了后座。",
+        "此处少了一个 s。】"
+      ]
+    },
+    "281": {
+      "source_after": [
+        "sat on the perch, busy with his thoughts.",
+        "potheen in his hump."
+      ],
+      "translation_after": [
+        "而它那万物之灵坐在高座上，忙着想自己的事情。",
+        "在驼峰里把葡萄蒸馏成土烧酒。"
+      ]
+    },
+    "288": {
+      "source_after": [
+        "thing like that could militate against you.",
+        "if he cared to, could easily have.",
+        "when every little helped.",
+        "Hilton St Just and their _genus omne_.",
+        "a too much fêted prince of good fellows."
+      ],
+      "translation_after": [
+        "不大明白这样一点小事也会对人多么不利。",
+        "只要他愿意，他也轻而易举就能。",
+        "往往特别管用。",
+        "那些熟得发腻、顺耳上口的男高音独唱之后。",
+        "耽误了他。"
+      ]
+    }
+  }
+}

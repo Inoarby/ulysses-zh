@@ -1,0 +1,49 @@
+{
+  "description": "Verified matching end anchors; paragraph numbers include the chapter marker. Manuscript paragraph boundaries remain unchanged.",
+  "paragraphs": {
+    "332": {
+      "source_after": [
+        "Silver threads among the grey.",
+        "The clock was on the stroke of twelve."
+      ],
+      "translation_after": [
+        "灰发间的银丝。",
+        "时钟将敲十二下。"
+      ]
+    },
+    "335": {
+      "source_after": [
+        "Not arrived yet. Peter."
+      ],
+      "translation_after": [
+        "尚未到达。彼得。"
+      ]
+    },
+    "348": {
+      "source_after": [
+        "Would you like to see a priest?"
+      ],
+      "translation_after": [
+        "您想见神父吗？"
+      ]
+    },
+    "377": {
+      "source_after": [
+        "Who kicked the bucket.",
+        "Newly plastered and painted."
+      ],
+      "translation_after": [
+        "已蹬腿。",
+        "新抹灰，新上漆。"
+      ]
+    },
+    "387": {
+      "source_after": [
+        "Earth, fire, water."
+      ],
+      "translation_after": [
+        "土，火，水。"
+      ]
+    }
+  }
+}

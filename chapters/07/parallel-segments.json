@@ -1,0 +1,61 @@
+{
+  "description": "1-based source paragraph numbers including the chapter marker and 63 newspaper headings. Matching complete sentence anchors preserve continuous source paragraphs.",
+  "paragraphs": {
+    "44": {
+      "source_after": [
+        "Queen Anne is dead."
+      ],
+      "translation_after": [
+        "安妮女王死了。"
+      ]
+    },
+    "101": {
+      "source_after": [
+        "Next year in Jerusalem."
+      ],
+      "translation_after": [
+        "明年在耶路撒冷。"
+      ]
+    },
+    "149": {
+      "source_after": [
+        "Wellread fellow."
+      ],
+      "translation_after": [
+        "书读得不少。"
+      ]
+    },
+    "289": {
+      "source_after": [
+        "Kyrie eleison!"
+      ],
+      "translation_after": [
+        "Kyrie eleison！【注：希腊语 Kyrios 为“主”，Kyrie 是呼格；Kyrie eleison 即“主啊，垂怜”。】"
+      ]
+    },
+    "328": {
+      "source_after": [
+        "Gallaher, that was a pressman for you. That was a pen."
+      ],
+      "translation_after": [
+        "加拉赫，那才叫报人。那才叫一支笔。"
+      ]
+    },
+    "409": {
+      "source_after": [
+        "She was a nice old bag of tricks."
+      ],
+      "translation_after": [
+        "真是个满袋戏法的好老太婆。"
+      ]
+    },
+    "496": {
+      "source_after": [
+        "I can have access to it in the national library."
+      ],
+      "translation_after": [
+        "我可以在国家图书馆查到。"
+      ]
+    }
+  }
+}

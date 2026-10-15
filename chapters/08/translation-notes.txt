@@ -1,0 +1,87 @@
+第八章译校记录
+校订日期：2026-10-13
+
+一、范围与文本原则
+
+以同目录 original.txt 为唯一正文底本；全译 386 个空行段（包括章号），不并段、不摘要，不以别的校本静默改动本底本。正文中的事实错误、种族与性别成见、语病、记忆走样和省略均保留为人物话语。本章的吃、看、消化、性、生育、死亡和宗教常由词音或感官互相牵引，译文不补成因果论证。
+
+英文斜体、引歌和诗行以构建脚本依底本映射；中文诗行使用四空格。短句、人称切换及无主句尽量照留。长段仅在对照 PDF 中按 parallel-segments.json 的核验锚点分成配对阅读单元，translation.txt 保留原段界；18 段加 28 个切点，除章号共 413 组。
+
+二、译名与跨章照应
+
+沿用前章：布卢姆、莫莉、米莉、波尔迪、迪格纳姆、麦科伊、马丁·坎宁安、汤姆·克南、海因斯（Hynes，区别于海恩斯 Haines）、内德·兰伯特、鲍尔、鲁本 J、威兹德姆·希利、凯斯、本·多拉德、古德温、斯威尼、普拉姆特里、阿根达斯·内泰姆、玛莎、亨利·弗劳尔、海恩斯、穆利根。
+与第七章协调：迈尔斯·克劳福德、麦克休、莱内汉、纳内蒂、J. J. 奥莫洛伊、蒙克斯、“日班之父”。该称谓指印刷工人代表，不能照外形译成“日间神父”。蒙克斯的参考由第七章译校共享：https://www.jjon.org/jioyce-s-people/monks 。
+
+本章新增主要人名：乔茜·布林、丹尼斯·布林，米娜·皮尔福伊、西奥多·皮尔福伊，戴维·伯恩，大鼻子弗林，格蕾塔·康罗伊，科格兰，西特龙，卡舍尔·博伊尔·奥康纳·菲茨莫里斯·蒂斯德尔·法雷尔；帕迪·伦纳德、汤姆·罗奇福德、矮脚鸡莱昂斯。公马 Saint Amant 译“圣阿芒”，父马 Saint Frusquin“圣弗吕斯坎”；Sceptre“权杖”、Zinfandel“津芬德尔”、John O’Gaunt“冈特的约翰”。译名经与本轮第六、七章协调。
+其他复用名：巴特尔·达西、卢克·多伊尔、罗伯特·奥赖利、瓦尔·狄龙、霍恩大夫、阿尔夫·伯根、里奇·古尔丁、莉齐·特威格、朱莉娅·莫肯、迈克尔·巴尔夫、托马斯·迪恩。Yeates 店译“耶茨”，不擅作诗人叶芝；John Howard Parnell 为约翰·霍华德·帕内尔。Brother 的反复保留“哥哥／弟弟”的原关系和怪异转折，不把本段写成政治生平简介。
+
+重点照应：
+1. 第四章莫莉的 O rocks 沿用“哦，扯淡！”。本章它紧挨剧院、建筑和歌唱联想，并非直接指向一块石头；若一律译成“石头”会丢掉其不耐烦的习语声音。英文 rocks 的石性仍与后文石像形成潜在联想，中文无法兼顾；记录这一损失，不把可能的全章联想变成确定因果。
+2. metempsychosis 保留“灵魂迁转／再世投胎”，met him pike hoses 保留英文误拆并一次短注；结尾再现不矫正。Martha 信句中的 world 沿用第五章“世界”，本章记忆把 naughty boy 改成 naughty darling，译“淘气的心肝”，不强行与第五章逐字统一。
+3. “生命的河流”、普拉姆特里的“家里没有……会怎样？不圆满”“有了它，家就是极乐之乡”与第五章相合。INRI 的玩笑沿用“铁钉钉进去”。
+4. 第七章“沉思的胸怀”“其银色光焰”，本章怪接成“银色光焰那沉思的胸怀”，不修为语法通顺的独立描写。
+5. all the beef to the heels 对应第四章米莉来信，采用“那些肉一直长到脚跟的都在”。“肉”的回声比另换成“壮实姑娘”更重要。
+6. 《爱情那古老的甜歌》《在那里我们携手》及歌剧名沿用已建译法。歌曲引句中漏词、错词、试凑音节均留；不以正式唱词替人物纠错。
+
+三、夹注的依据与限度（段号含章号）
+
+共 36 条。以下把原文可直接验证的文字机制、外部史料和译者判断分列说明。访问日期同本记录日期；“检索摘录”明确指已读到相应摘录，未冒称读过整部著作。
+
+p6 Blood / Bloo / Bloom：词形可由本段自证。只说明共有开头，不把未完一句补成完整信仰宣言。
+p9 佩珀尔幻影：玻璃反射产生舞台幽灵。核对 Corning Museum of Glass 的说明（检索所示正文）和博物馆定义：https://blog.cmog.org/2012/ghosts-and-magicand-glass-peppers-ghost-and-glass-optics ；https://mobile-api.moma.org/collection/terms/peppers-ghost 。不是活人变成幽灵的超自然事实。
+p11 赎罪日：核对 My Jewish Learning 的 Yom Kippur 说明和禁食条目：https://www.myjewishlearning.com/article/yom-kippur-101/ ；https://www.myjewishlearning.com/article/yom-kippur-fasting-the-details/ 。夹注后半句只指此处的思绪转接；不宣称不同教派的斋规完全相同。
+p13 rats / vats：原文的一音差及从老鼠到啤酒桶的跳接，非另有已证寓意。
+p16 三十二英尺每秒：底本写速度式而相应自由落体常数是加速度；原句照译，不在人物口中改成科学教科书说法。夹注只点出混用。
+p28 POST NO BILLS / POST 110 PILLS：两行保留英语，让 N/11、B/P 的视觉改字可见；译注提供两种意思。“绿房子”按公厕语境解释，不将其当园艺温室。
+p35 met him pike hoses：与第四章的误听回声可在本项目原文复核；拆音不是正确词源。“哦，扯淡！”的取舍见上。
+p36 barreltone / baritone，base / bass / Bass：本段词形、啤酒与声音的并置可以直接复核；中文采用“桶中音”并短注，不捏造汉语姓氏谐音。
+p37 lick / Kansell / cancel / Carmel / caramel：一注解释舔／打败及人名近音，一注解释焦糖和修会名近音；不逐个糖果、饭店和音乐作品都补传记。
+p78 U. p: up：John Simpson, “U.P: up and away”，James Joyce Online Notes：https://www.jjon.org/joyce-s-allusions/up-up 。已读论证、所引 Baker 1854 方言词典、Hotten 1859 俚语词典和十九世纪报刊例证；这些支撑“完了／全完了”的通常读法。该文同时讨论其他解释的证据不足。正文保留字母与 up；夹注不把某种淫秽解释定为谜底，也不替卡片确定寄件人。
+p110 Meshuggah：意第绪语的“疯了”，参 Chabad 用语解释及 Collins 词条：https://www.chabad.org/library/article_cdo/aid/3926513/jewish/What-Does-Meshuga-Meshuggah-Mean.htm ；https://www.collinsdictionary.com/us/dictionary/english/meshuga 。不把此词自动等同医学诊断。
+p111 Going the two days：Flavie Epié、Eamonn Finn 的考证：https://www.jjon.org/joyce-s-environs/two-days 。已读全文及其 Gilbert 词表释义、1886 年 Drogheda Argus 引文；意为极讲究地打扮，取自两天都去赛马。故正文译成可连赴两日赛马的行头，不译成已经连续穿两天。
+p115 Methodist / method：Folger《哈姆雷特》第二幕第二场，Polonius 的 aside，行 1287–1288：https://www.folger.edu/explore/shakespeares-works/hamlet/read/2/2/ 。只指出循道会名称与名句的词音接榫；“耐寒的一年生植物”继续保留生育比喻。
+p118 住鞋老妇童谣与分娩麻醉：童谣指子女过多的老妇，常见原文收于 Mother Goose 故事集，已核检索摘录：https://www.gutenberg.org/files/5312/5312-h/5312-h.htm 。关于两种麻醉，核 Cynthia A. Wong, “Advances in labor analgesia”, 2009，所述历史段落的检索摘录：https://pmc.ncbi.nlm.nih.gov/articles/PMC2971706/ 。维多利亚女王所用氯仿与二十世纪初吗啡／东莨菪碱的 twilight sleep 不同；保留布卢姆连想，不把医疗史混用纠正进正文。
+p122 警察的快乐：Gilbert 与 Sullivan《彭赞斯的海盗》第二幕唱词原来是否定句，核歌词页 25：https://www.gilbertsullivan.org/documents/Pirates2017/ThePiratesOfPenzance_Libretto.pdf 。布卢姆把它改成肯定，仍照译。
+p123 众水汇流：Thomas Moore, The Meeting of the Waters 原诗四节，核公开转录：https://en.wikisource.org/wiki/Irish_Melodies/There_is_not_in_the_wide_world_a_valley_so_sweet 。排尿的转义属于眼下语境，非原诗题旨；同章再唱无需重复注。
+p124 警察 G 部：核爱尔兰警察官方历史资料中的 Dublin Metropolitan Police 侦探组织介绍，所读为检索摘录：https://www.garda.ie/en/about-us/publications/communique/communique-dec-01.pdf ；https://www.garda.ie/en/about-us/our-history/colonel-eamon-broy-s-role-in-irish-espionage.pdf 。未将 G 误作美国 G-men。
+p129 Harvey Duff：确属 Boucicault 的 The Shaughraun，本章暂译《流浪汉》，并非《紫苏／科琳·鲍恩》。核爱尔兰国家图书馆档案清单（原印页 107 的剧目角色表）https://www.nli.ie/sites/default/files/2022-12/074_deburca.pdf ，以及 Forrester, An Irish Crazy-Quilt（1891）对该剧告密者的描述：https://www.gutenberg.org/files/62180/62180-h/62180-h.htm （检索摘录）。短注用“告密者”，不扩大成某种未经核实的正式警衔。James Carey 的前章连接在项目第五章原文可复核。
+p141 Salmon：姓氏与鱼名的双义由英语直接可验。三一学院旧院长传确认其身份：https://www.tcd.ie/provost/biography/former-provosts/george-salmon-/ 。其死亡时间不另塞进夹注，因人物现在看到什么、想到什么应保持原层次。
+p143 poached eyes on ghost：水煮蛋吐司 poached eggs on toast 的近音扭转可从词形与前句 bad egg 直接看出；以短注补足中文无法自显的声音。此为对文本的辨认，不冒称文献中有同一固定说法。
+p143 Chiltern Hundreds：英国议会官方释义确认议员以名义王室官职造成资格不相容而辞席：https://www.parliament.uk/site-information/glossary/chiltern-hundreds/ ；https://commonslibrary.parliament.uk/research-briefings/sn06395/ 。public life 与惯常 private life 的倒置照留；本注不提供现实法律建议。
+p161 cherchez la femme：常见法语成句，正文保留原语并给字面指向；不替布卢姆的性别成见背书。
+p162 竖琴：Moore 的 The Harp That Once Through Tara’s Halls，核原诗两节：https://en.wikisource.org/wiki/Poems_That_Every_Child_Should_Know/The_Harp_That_Once_Through_Tara%27s_Halls 。本段 starve us all 对歌名的改造，结合前文 Harp theatre 理解；不把音近当作诗人原唱。
+p165 La causa è santa：Meyerbeer《胡格诺教徒》意大利文脚本，Bris 的唱词及邻近屠杀台词，核马耳他大学馆藏 PDF 的印页 40 检索摘录：https://www.um.edu.mt/library/oar/bitstream/123456789/114609/1/Ugonotti_1836.pdf 。红绸牵动血和屠杀是段内联想，注中不再复述歌剧全情节。
+p181 科马克：Samuel Ferguson, The Burial of King Cormac，已核诗段及诗集注解中改宗、鱼骨和葬地的叙述：https://upload.wikimedia.org/wikipedia/commons/3/34/A_treasury_of_Irish_poetry_in_the_English_tongue%3B_%28IA_cu31924013512425%29.pdf （原印页 299 检索摘录）；诗文另核 https://emeraldisle.ie/the-burial-of-king-cormac 。这是传说及诗的材料，不宣称改宗传说已成历史事实。圣帕特里克被人物混入，正文不替换人物记忆。
+p210 Ham / musterred / bred：Ham 兼火腿与含；musterred 叠 muster（集结）及 mustard，bred 叠 breed 与 bread。“芥末地集结、面包地繁衍”有意保持造词的生硬，避免只译出食物、丢掉族裔繁衍。
+p210 mity cheese：Harald Beck 的 JJON 词条核出 Trall 1854 年食谱旧谣中 mity 用法，也说明 later mighty 的改字问题：https://www.jjon.org/joyce-s-allusions/cheese 。正文按本底本 mity，不静默“改正”为 mighty；“螨力”同时牵两义。
+p252 Saint Amant：1904 年赛马同期报道确称 colt，父马 Saint Frusquin。核新西兰国家图书馆 Papers Past 所示原报转录摘录：https://paperspast.natlib.govt.nz/periodicals/NZISDR19040623.2.28 ，另见 https://paperspast.natlib.govt.nz/newspapers/ODT19040714.2.9.1 。原文弗林说 her 而布卢姆问其父，译文仍用母马口气，注释纠正而不改角色的错误。
+p257 r 的月份：这里只说明俗说，不当作食物安全指导；June 没有 r 可从词形核实。注不扩写医学风险。
+p257 ptake / ptarmigan：菜单、雷鸟名的 p 与故意拼错的 ptake 由底本直接可验；正文相应凸出装腔字音，不替英文去掉那个 p。
+p257 Dubedat / do bedad：两个词组在本段并列，bedad 为 by God 的委婉变体；保留名字，又在短注给声音联系，不将音似看成历史姓氏词源。
+p262 Pygmalion / Galatea：奥维德《变形记》第十卷所记雕像获生命故事。核 Theoi 收录的古典引文及 Perseus 该段（神话事实依据，不是现代生物事实）：https://www.theoi.com/Heros/Pygmalion.html ；https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0028%3Abook%3D10%3Acard%3D243 。夹注不附无关的后世命名史。
+p280 craft：按场中识别暗号、会所和会员传言指共济会，夹注只标明所指和这是弗林转述；不把布卢姆会员身份当成叙事者已证实事实。
+p333 《唐·乔万尼》：Mozarteum 原文校勘脚本，印页 70–71 的石像入场与 teco 唱词：https://dme.mozarteum.at/DME/libredition/pdf/LV_517_516_0.pdf 。teco 是“与你”，不是 tonight。人物猜词、试译及节拍失败均留，不用通行中文演唱译配填平。
+p365 斯洛克姆将军号：美国国会图书馆 Chronicling America 主题年表，确认 1904-06-15 纽约东河火灾及出游妇孺大量死亡：https://guides.loc.gov/chronicling-america-slocum-steamboat-tragedy 。灾难日期是事实；karma 等是布卢姆的联想，两层在注中区分。holocaust 译“燔祭”保留献祭和焚毁语义，不套用后来二战专称。
+
+四、其他校订、未决处与取舍
+
+1. watching his water 同时容许观察尿液／疑病和留意动静；本章译“留神自己的尿”，因人物随后如厕的语境，不加注把另一义封死。参 Harald Beck, JJON “water”：https://www.jjon.org/joyce-s-words/water ，所读考证包含 1640 和 1678 年习语例证。
+2. housed awnings 译“收妥的遮篷”；不用初稿可能误导成马匹套具的“入套”。
+3. staggering bob 指牛犊，结合前后宰牲场景译“踉踉跄跄的鲍勃牛犊”。核 Collins 定义检索摘录：https://www.collinsdictionary.com/dictionary/english/staggering-bob 。没有在注里扩张成特定屠宰法规。
+4. “谁站出来请客？”／“我是坐着的”保留 Who's standing 的两种意思。How much? 则保留“多少？”的突兀，不擅自添上体重或价格的确定笑话。
+5. make bacon of that：上下文是弗林断言广告收入不足以买奶油。未找到足够可靠的独立历史词条例证，故保留肉食式的“这话你尽管拿去做熏肉”，不在夹注编定某种唯一俚语释义。此处语用上的“尽管／准可”取自 can 和断言口气，字面食物回声仍在；以后如取得同期语证可复核。
+6. p225 残缺打油诗不替人物补全；保留五百老婆与淫秽暗示。中文未复制英文 wives/lives 的尾韵，以免初稿“快活得一世没过”妨碍理解。
+7. p259 葡萄酒转霍斯山亲密记忆：连续的触觉、咀嚼、唾液和接吻重复保留，不删去乳房、乳头或山羊粪；三次 kiss 的语法变化依次保留。nun's veiling 是纱料，未把所忆女子改成修女。
+8. p263 由膀胱、准备行动的男人再滑向男女情人，保留原无连词嵌句和人称泛化，不补一个显名女人。
+9. p368 以后不预先把 he 指定为某个名字。Handker 是突然截短的手绢词；中文“手绢”本已短，未生造不可读的汉字切词，英语的未完词由对照版保留。
+10. p118 投资复利、地位和家庭生育的数字联想，p334 士兵佣金的数字，均照人物原说，不替其口算求整或纠错。酒被说成蒸馏品也照留。
+11. 没有对所有犹太习俗、品牌、都柏林地名、酒菜和人名附百科条目。原文的冒犯性称呼如 racist slurs 按人物口气保留，译者不加赞同，也不在每处插入谴责使声部混乱。
+
+五、生成与验收
+
+最终 PDF 由 scripts/build_chapter_pdf.py 08 构建，使用项目默认嵌入宋体及颜色字号规范。脚本自动核对和逐页视觉检查的最终结果将在下方落录。
+
+收尾验收（2026-10-15）：重新运行 scripts/verify_chapter_pdf.py 08，中文 36 页、对照 71 页，413 组配对，全文及夹注文本、字号颜色、页界、同页配对、嵌入字体均通过。逐一查看全部 107 页的 8 张接触表；另以 110 dpi 检查中文第 26 页、对照第 53 和 71 页，夹注、罕见拼字与末页均清楚，无碰撞、裁切或缺字。复读本记录的未决处；make bacon of that 的语证不足已如实保留为开放项，不用无依据注释封定其意义。
+original.txt SHA-256: f5efbee7770f4614f0c0606feee46baa3ee6f8e1c80c81c4d184ea60d7c68eab
+translation.txt SHA-256: 8f1b3118f45bf6470404c62f77147c21f619e510f5cf719b94260fd9319faef5
+parallel-segments.json SHA-256: 5bab998e89893f30470f14e044d3cb174ed6f1d6e1cb5feee85ea27277e3dbb1

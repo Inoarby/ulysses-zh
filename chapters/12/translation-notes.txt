@@ -1,0 +1,111 @@
+第十二章校译记录
+2026-10-15
+
+底本与范围
+据本目录 original.txt 独立翻译全章。保留底本 [ 12 ]，不补加惯用的荷马章名；共 567 个空行段落，含标题、书信地址及诗行。源稿 SHA-256：532dd144d0c814f776d8645b689a88730a795b51da01cd06d5e0c6ebb96325e4。原稿未改。
+夹注 38 条。第 143、144 段书信地址、收信人和第 152 段署名保留四空格缩进；第 190 段犬诗保留八行。原书信的错字、无标点连接及不完整语法不改成规整公函。
+parallel-segments.json 对 24 个长段设置经逐项核对的句末或枚举项目末分界，不改变 translation.txt 的段界。包括第 52、179、180、362、515、553、561 段的完整长串名单与事项，无摘要、删节或以“等等”代替原有项目。第 143、144 段连续地址合为一个版面单元；总计 640 组中英对读单元。
+
+译名与前章衔接
+the citizen 固定“公民”，不补实际姓名或作者身份。匿名第一人称叙者不另命名。
+沿用斯蒂芬、布卢姆、莫莉、迪格纳姆、海因斯、鲍勃·多兰、乔·海因斯、科尼·凯莱赫、马丁·坎宁安、杰克·鲍尔、内德·兰伯特、阿尔夫·伯根、J. J. 奥莫洛伊、莱内汉、丹尼斯·布林、汤姆·罗奇福德等。Hynes 海因斯与第一章的 Haines 海恩斯有别。
+本章固定：Barney/Bernard Kiernan 巴尼／伯纳德·基尔南；Terence/Terry O’Ryan 特伦斯／特里·奥赖恩；Garryowen/Garry 加里欧文／加里；Moses Herzog 摩西·赫尔佐格；Michael E. Geraghty 迈克尔·E. 杰拉蒂；John Wyse Nolan 约翰·怀斯·诺兰；Troy 特洛伊；Rumbold 朗博尔德；Myler Keogh 迈勒·基奥；Percy Bennett 珀西·贝内特；Nosey Flynn 大鼻子弗林；Mrs Breen 布林太太；Virag 维拉格；Ahasuerus 亚哈随鲁。Lipóti 留其匈牙利语形态，作利波蒂。
+Gold Cup 金杯赛；Sceptre 权杖；Zinfandel 津芬德尔；Throwaway 扔掉。最后一名保留第五章“正要把它扔掉呢”的词面，不在下注流言出现前预解误会。Gerty MacDowell 格蒂·麦克道威尔与第十、十三章一致。Wellington 惠灵顿；Shylock 夏洛克与第九章一致。
+Crofter、Crofton、Crawford 分别作克罗夫特、克罗夫顿、克劳福德，不替叙者统一名姓。英语头衔、族名和人名的反复变体保留；不把同一人的每一种史诗式称谓统一为一个现代姓名。
+
+声音、节奏与保留的歧义
+1. 酒馆叙者保留“我说／他说／乔说”的连锁、begob 等口头禅及 bloody、bugger、bastard 一类粗口；不将其种族成见、道听途说与夸大改写成客观叙述。叙者讥笑公民时，也不替他建立一套一致的政治立场。
+2. 各段夸张文体有意拉开：第 12 段的债务契约；25–28、51–52 段的爱尔兰史诗；117 段的招魂报告；170 段的医学证言；179–180 段的行刑盛典报道；189 段的犬类文学评述；204–206 段的文明社交；220 段的识字读本；226–235 段的议会问答；256 段的拳赛报道；314 段的圣经式司法纪事；362 段的树木婚礼；382 段的信经；419 段的古物鉴赏；444 段的殖民接待；466–480 段的历史传奇；515 段的教会游行；553 段的欢送；561 段的灾难通讯；567 段的升天。没有在正文加“以下戏拟”等标签。
+3. 第 25 段死者“如同他们生前长眠一样”、海鱼在河溪中、花木与商业货物的混列；第 52 段本非爱尔兰人的英雄、店号、歌名、地名和人物同列；均依原文。帕特里克·W. 莎士比亚、布赖恩·孔夫子等混合名保留其拼装，不替其归入真实历史。
+4. 第 117 段真实的神智学语汇、仿梵语的家用设备与修鞋琐事相接。假梵语保留声音，由夹注提供英语设备名称；未将这些讽拟术语当作可靠宗教知识详解。临末寻找靴子的 he 仍用“他”，不替原文决定是亡者还是儿子。C. K. 的字母保留，到随后的解释才给出姓名。
+5. 第 128 段 parsnips／pardon 作“请你原萝卜”；第 147 段 fowl murder 作“禽凶杀”；第 153 段 barber／barbarous 作“剃人剔骨的该死野蛮子”。第 282 段旱金莲、486 段短吻鳄等言语误撞仍先让怪字在正文出现，再以小注交代所误之词。
+6. 第 170 段用一个层叠长句传达自命科学的说理。philoprogenitive 不润成中性生理术语，作“爱繁衍”；in articulo mortis 与 diminutionem capitis 在正文保留拉丁语。后者既可按头部损伤读，又接近罗马法 capitis deminutio；本处的诙谐连接是文本解读，不把罗马法说成绞刑医学根据。
+7. 第 179 段名录采用能读通的音译和有把握的字义；“大笑爵／老笑爵”、妓院院长及极长的学术职衔保留造词。未将每个人名的全部可能谐音写成长注，也没有把仿造的姓名当成真实代表。第 180 段既称刽子手 headsman，又反复跳换绞刑、斩首、肢解器具，保持这种混杂。
+8. 第 189–190 段谈犬诗的评论既夸赞优雅又称原作粗俗，犬诗遂保留“喉咙里吐”“屁股眼里叫”等词，不以端庄诗意抹平。第 220 段识字读本刻意短句和重复代词；第 256 段夸张拳赛不断以宠儿、羔羊、军人、英国人、都柏林人替换双方，保持同一人的可辨认位置。
+9. 第 289–294 段 half and half 作“半这半那”，不定死为某一种宗教、血统或身体分类。布卢姆的未完句、既非鱼又非肉的习语、内德的妖物说法与奥莫洛伊转谈身份丧失，都不补成同一种解释。相关俚语词典有跨时期的不同词义，晚出的引例不能证明 1904 年人物必作某一性指认。
+10. 第 314 段保持法律套语的条件与嵌套，法律人名不随神话腔改为圣人。第 362 段婚礼中树名、服装、木料、乐器和树脂食品的连锁尽可能留在中文；未把这段当成真正的家谱或婚讯。第 366 段谚语只说明远处事物常被夸大，不断言布卢姆具体误记了哪一史实。
+11. 第 367–370 段 An imperial yeoman／Up with your pints 与啤酒订单的关系，依据 Allsopp 的举红手商标及布尔战争中的英军投降笑话；不是未经核实的 all’s up 谐音。原文品牌写 Allsop，不把英语改回商业拼法 Allsopp。
+12. 第 371 段的报纸黑人蔑称及叙者接续的暴力夸张保留说话者口气；原文 Omaha, Ga 不替他改州名。第 385 段人数、史论、往事与公民的民族主义言辞照录，夹注仅提供大饥荒与女性化爱尔兰的必要背景。第 394 段把 pax 改说 pox；第 390 段法语骂人对象从英国转成法国，保留重复结构。
+13. 第 419 段 facecloth 与 emunctory field、waters of sorrow、incrustations 互相揭露，作脸巾、擤鼻涕的巾面、悲伤之水、结垢；不径直写成说明笑话的“鼻涕”。惠灵顿的“三个出生地”仍为三个。第 436 段“爱喜爱去爱爱”保留 love 一词的名动词自转，后面每一例仍用“爱”，不为避免重复而换同义词。
+14. 第 462 段排尿、赔率、酒量、牌局传闻和民族身份的括号碎片，不补主语、算术结论或逻辑连接。保留“二十比”的未完赌注、“撒尿”与人名相撞、“耶路撒冷／布谷鸟”中间被身体声响打断。叙者认定布卢姆赢了钱，是叙者的推测。
+15. 第 490 段 Who is Junius? 留身份之谜。第 492 段 perverted jew 作“改邪的犹太人”，不替人物改成 converted；第 500 段以法律法语答“生来”，保留语言突转。第 507 段亚哈随鲁的诅咒属于基督教传说与公民的谩骂，不作犹太教教义。
+16. 第 515 段 St Benedict of Spoleto、圣人与酒馆客人重名、无名／假名等假圣人、凡士林盒子与各类圣徒标识混列，均不纠正或删减。Catholic 人名在礼仪段适当取若瑟、本笃、德肋撒等教会用语，人物日常称呼不随之全部改宗教译名。最后明确地点为持牌酒馆，才让整段游行落到现实门面；不提前提示读者。
+17. 第 516–521 段祷文按原拉丁语译出，首次短注标出语种；“灵”与“灵魂”依 spiritu／animæ 分别译。553 段 Lipóti、匈牙利地名及告别语保留地域性；假地名所附 Meadow of Murmuring Waters 仍按原括号译，不替其改正为匈牙利字面义。
+18. 第 561 段麦加利五级烈度与毁灭性灾情之间的不相称、飞行物轨迹、企业承包与勋衔串列，按原夸张保留；末尾 S. O. D. 等不强作真实勋章展开。第 567 段以利亚升天、四十五度角、店铺地址和铲子结尾的语体落差不断开；不在原文没有的地方补出秽物名。
+
+夹注与典故核验
+以下网页于 2026-10-15 实际核读；链接用于溯源，正文只给眼下必要的一句。译者对具体语境的判断与文献可核事实分列如下。
+
+爱尔兰名称、场所与历史
+• Inisfail／Banba：UCC CELT《The Genealogies, Tribes, and Customs of Hy-Fiachrach》保留 Inisfail 的诗称及 Banba [Ireland] 的释义。这里用“诗称”，不把传说名称当行政古地名。
+https://celt.ucc.ie/document/T105010/
+• 圣米坎墓窖：Church of Ireland 关于教堂墓窖及遗体的记录。仅取位置与墓窖事实，不引用当代参观状态。
+https://www.churchofireland.org/news/8646/crypt-of-st-michans-church
+• Eblana 在本处指都柏林，源文的 Eblanite 与 Dublin 宠儿交互复称足以确认；古代地理上的同一性不在本注断言。中文只说“这里借……指”。
+• 黑乡：Black Country Living Museum 官方地区介绍，核实西米德兰兹工业区；Erebus 的冥界用法核《奥德赛》11.563 及 10 卷招魂场景。
+https://bclm.com/our-museum/the-black-country/
+https://www.theoi.com/Text/HomerOdyssey11.html
+https://www.theoi.com/Text/HomerOdyssey10.html
+• 斯塔布斯：刊物自身对判决债务记录的说明。没有采用页面中与本书年代不合的笼统创刊年份。
+https://www.stubbsgazette.ie/news/the-irish-courts/1000
+• 康诺特牛角谚语：爱尔兰民俗委员会 Schools Collection，Brannockstown，Vol. 0776，p. 431；原句与“远山青翠”等谚语并列。中文释意属本处语用说明。
+https://www.duchas.ie/en/cbes/4769954/4762602/4820043
+• 大饥荒、Black ’47、棺材船：爱尔兰国家大饥荒纪念官网，对 1847 年及移民死亡的说明。公民所报人数未据这些现代介绍反向改写。
+https://www.irishfamine.ie/the-arts-and-the-famine/film-theatre/
+https://www.irishfamine.ie/commemorating-the-famine/state-commemoration/national-famine-commemoration-sligo-2019/
+https://www.irishfamine.ie/the-arts-and-the-famine/painting-sculpture/
+• Granuaile 的绿色衣裳与爱尔兰之梦，见 Dúchas 主手稿集的同名歌；Kathleen ni Houlihan 的国家人格化，见 Weygandt《Irish Plays and Playwrights》对叶芝剧作“四块绿田”的讨论。本注只辨女性名字所唤起的爱尔兰，不把公民说法等同于某一个剧本情节。
+https://www.duchas.ie/en/cbe/9000188/7093666/9058329
+https://www.gutenberg.org/cache/epub/19028/pg19028-images.html
+• 四位大师：Trinity College Dublin 对原稿重聚展的介绍，列编纂者和编年史范围；四福音作者象征另核大都会艺术博物馆藏品说明。二者的混合是本段的戏拟。
+https://www.tcd.ie/news_events/articles/the-annals-of-the-four-masters-reunited-for-first-time-since-1636-in-landmark-exhibitionannala-na-gceithre-maistri-le-cheile-ari/
+https://www.metmuseum.org/art/collection/search/22235
+
+双关、错称与引语
+• bung 的桶塞义见 Collins；酒馆老板义见 Hyamson《A Dictionary of English Phrases》的 Bung 条（扫描本搜索正文明确列出）。Guinness 官网确认 Arthur Edward／Ardilaun 和 Edward Cecil／Iveagh 的对应；不采其网页中混淆男爵与伯爵年份的表述。原文“孪生”不纠成兄弟。勒达二子核古代神话原典引文；传说的不同生父版本不在正文展开。
+https://www.collinsdictionary.com/dictionary/english/bung
+https://upload.wikimedia.org/wikipedia/commons/7/79/California_Digital_Library_%28IA_dictionaryofengl00hyamiala%29.pdf
+https://www.guinness.com/en-gb/our-craft/guinness-story
+https://www.theoi.com/Heroine/Leda.html
+• U. p: up 的字面习语与历次复现，参考 JJON 的原始报刊与文字材料；匿名信的具体用意不由词典义唯一确定。
+https://www.jjon.org/joyce-s-allusions/up-up
+• half and half：Green’s Dictionary 列多种混合身份用法，另有较晚的性别或同性恋俚语例证。后者只提示避免缩窄，不当作本句在 1904 年的唯一释义。
+https://greensdictofslang.com/entry/wk7zboq
+• capitis diminutio：Gaius《法学阶梯》1.159–162，原文称 prioris status permutatio 并分三等；本段医学拉丁语用其头／身份的词面重合。
+https://www.thelatinlibrary.com/gaius1.html
+• 卡塔拉尼：National Portrait Gallery 将 Angelica Catalani 列为 soprano，并有 Mme. 的同时代肖像；故“阉人”为源文错称，正文照译，注提供辨别所需事实。
+https://www.npg.org.uk/collections/search/person/mp00797/angelica-catalani
+https://www.npg.org.uk/collections/search/portrait/mw01140/Angelica-Catalani
+• 穆尔《She is far from the land》：埃米特生平著作中 MISS CURRAN 一节收该诗；1904 年报纸也以 Thomas Moore、Sarah Curran 明确署题。只据这些材料确认歌与人物关系，不采用同时代文章的逸闻推测。
+https://www.gutenberg.org/cache/epub/72202/pg72202-images.html
+https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_sierra_ver01/data/sn84026749/100492386/1904121801/0675.pdf
+• 六月与朱诺：Ovid《Fasti》6.26–64，朱诺自述月名来自自己；同书随后另列月名说法。因此夹注说此处借名指月，不作无争议的现代词源定论。
+https://www.theoi.com/Text/OvidFasti6.html
+• 帝国义勇骑兵／Allsopp：Harald Beck 的 JJON 专题依据商标、草稿和 1905 年《Dublin Evening Telegraph》酒馆诉讼记录，说明 raised red hand、Imperial Yeomanry、Uphander 的联系。文献仍容商标与战争笑话起源上的不确定；没有断言笑话一定首次发生于某次战役。
+https://www.jjon.org/joyce-s-words/imperial-yeomanry
+• 《哈姆雷特》1.2 的 Frailty 与 1.4 的 more honoured in the breach than the observance，核 Folger 正文。女性变赛马、breach 与 breech 的同音分别是本处改用，不把改句冒充莎士比亚原句。
+https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/2/
+https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/4/
+• 《使徒信经》受难至末日审判的次序，核 Church of England 的信经文本及传统礼文；诗式套改的具体对象在小说正文自行显露。
+https://www.churchofengland.org/our-faith/what-we-believe/apostles-creed
+https://www.churchofengland.org/prayer-and-worship/join-us-in-daily-prayer/morning-prayer-traditional-friday-3-july-2026
+• kaffir 的蔑称性质，核 Merriam-Webster。只取词义，不把当代法律地位带进 1904 年的注。
+https://www.merriam-webster.com/dictionary/kaffir
+• Junius：British Library 的匿名信原件目录及身份考证材料目录。这里只说明著名身份之谜，不指定某个猜测对象。
+https://searcharchives.bl.uk/catalog/041-001593245
+https://searcharchives.bl.uk/catalog/040-002092607
+• 亚哈随鲁：Jewish Encyclopedia 的 Wandering Jew 条，记录这一基督教传说的印本与名称。中文标“传说”，不将它当历史人物传记。
+https://www.jewishencyclopedia.com/articles/14773-wandering-jew
+• 以利亚升天：《列王纪下》2:11，火车火马出现，随后以利亚乘旋风升天；Abba／Adonai 的呼格义核 My Jewish Learning 的用语与神名解释。Abba 兼有阿拉米语背景，不把两个词一概标成同源希伯来语。
+https://www.biblegateway.com/passage/?search=2Kings2%3A11&version=NKJV
+https://www.myjewishlearning.com/article/hebrew-words/
+https://www.myjewishlearning.com/article/the-tetragrammaton/
+
+其余 parsnips／pardon、fowl／foul、nasturtiums／aspersions、syphilisation、pox／pax、allegation／alligator、perverted／converted 的字面与词形对比，以及法语、拉丁语、匈牙利语告别语，逐项依本段原文字形核对；不宣称它们全是乔伊斯首次造词。第 28 段 agate／dun 依颜色直译；1922 年初版该处作 the dun，仓库底本作 this dun，不据外版擅改源文。
+https://en.wikisource.org/wiki/Page:Ulysses,_1922.djvu/286
+
+排版核验
+两种 PDF 均使用嵌入宋体，正文 10.5 pt、玫瑰色夹注 8 pt；对照本英语为 9.5 pt 灰蓝色 Georgia，斜体以 Georgia Italic 保留。最终中文本 55 页，对照本 112 页。2026-10-15 两版通过 verify_chapter_pdf.py 的全文提取、字符顺序、内嵌字体、边界及 640 组同页对读核验。
+全部 167 页已由 pdftoppm 渲染，逐页查看 11 张接触表；另以 120 dpi 查看对照本 34、44、100、102、112 页与中文本 54、55 页，核对长德语职衔、犬诗、圣人名单、拉丁语、夹注和章末。中文本原有末段跨页余两行的问题，已在 layout.json 指定 zh_keep_together_paragraphs: [567]，重新构建并验证末段同页，再查看新 54、55 页确认全段完整落在末页；其余页面排版未变。未见截字、重叠、缺字或中英单元断裂。
+最终 translation.txt SHA-256：4aedf55212171f59666b32598c00218b65ee9bddad709def148743cda8632df9。
+复核同时修正第 294 段 cousin 未明堂表、第 117 段靴子寻找者代词不得强指儿子、第 419 段 emunctory field、第 462 段不补算酒量，以及第 561 段 Mercalli 的烈度术语。夹注经删减，未用全篇解释或后文结果替代本处阅读。

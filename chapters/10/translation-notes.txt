@@ -1,0 +1,106 @@
+第十章校译记录
+2026-10-15
+
+底本与范围
+逐段译自本目录 original.txt，共 547 段，含 [ 10 ] 和 18 个星号分隔段；保留全章十九个片段及原有插入场景，不增添荷马对应章题。译稿保留原空行段界；只在对照排版时将第 345、535、544、547 段按已核实的语义对应位置拆分，十二处分界记录于 parallel-segments.json。诗行缩进四格。现稿 39 条夹注。
+
+译名与照应
+沿用前章：布卢姆、莫莉、斯蒂芬·迪达勒斯、马丁·坎宁安、迪格纳姆、鲍尔、内德·兰伯特、科尼·凯莱赫、莱内汉、麦科伊、J. J.奥莫洛伊、奥马登·伯克、本·多拉德、克南、鲍勃·考利、布莱泽斯·博伊兰、皮尔福伊。
+本章新固定或再次使用：John Conmee 约翰·康米；Bernard Vaughan 伯纳德·沃恩；David Sheehy 戴维·希伊；Brunny Lynam 布鲁尼·莱纳姆；Jack Sohan 杰克·索汉；Ger. Gallaher 杰尔·加拉赫；M’Guinness 麦吉尼斯；Denis J Maginni 丹尼斯·J.马吉尼；Katey 凯蒂；Boody 布迪；Maggy 玛吉；Dilly 迪莉；Almidano Artifoni 阿尔米达诺·阿尔蒂福尼；Miss Dunne 邓恩小姐；Marie Kendall 玛丽·肯德尔；Hugh C. Love 休·C.洛夫；Tom Rochford 汤姆·罗奇福德；Nosey Flynn 大鼻子弗林；Jack Mooney 杰克·穆尼；John Wyse Nolan 约翰·怀斯·诺兰；Dudley 达德利；William Humble 威廉·亨布尔；Heseltine 赫塞尔廷；Gerald Ward 杰拉尔德·沃德；John Howard Parnell 约翰·霍华德·帕内尔。
+与十一、十三章协调：Ormond 奥蒙德；Miss Kennedy 肯尼迪小姐；Miss Douce 杜丝小姐；Gerty MacDowell 格蒂·麦克道威尔。第 454 段是“铜挨着金”，第 544 段是“金挨着铜”，而两个小姐的排列并未随之对调；照底本保留，不替作者统一。
+第 374 段“晶莹而不朽的麦，从永恒立到永恒”沿用第三章；orient 不误作“东方”。第 401、403 段“良心的反噬／反噬，良心的”承接前章 Agenbite of inwit 并保留后一次倒置。第 57 与 195 段摘下挂住裙子的枝条、第 117、353、524 段传单小舟、第 163、180、213 等物件与街景的回返逐处核读，不加因果衔接。
+
+声音、歧义与具体取舍
+1. 开篇康米的礼貌、无害口吻和自觉仁爱，与教阶、财物、帝国秩序的关系让正文自行呈现。第 3 段 because 仍译“因为”，不改成“虽然”，也不替他解释不肯找钱。银克朗仅注面值。
+2. 第 25 段 incumbent 以“担任教职／担着任”尽量留词根回响，注交代英文两义。D.V. 的释义在首次出现时给出，后面的插入仍保留缩写。“他们依自己的那点光行事”不改写为平等宗教观。
+3. 第 30 段“没有准备／一念全悔”不补成完整神学推论。夹注只提供告解与悔罪的联系，不说无条件得救。第 43 段“失落／浪费”保留神父衡量灵魂的词汇；书名译《蒙选者的数目》，不把书的论旨代写进正文。
+4. 第 42 段的种族辱称照译，注点出黑脸表演，使读者不误认被画者为黑人。人物想象与叙述视角中的偏见不改写成编者断言。第 47 段对女人半告解的泛断也如此；拉丁语保持冷静的告解手册语域，解释没有补成色情修饰。
+5. 第 45 段格里芬歌谣把婚礼和死亡压在同一天；一短注只补无法从片段辨出的故事。第 47 段贵妇是否通奸仍是问句，未据历史传说定罪。第 51–52 段 moutonner／muttoning 的羊群与云片关系保留法语词、最短注及“绵羊羊的云”的陌生感。
+6. 第 55–58 段 Pater／Ave／nones 按天主教祷文名称处理。Res 与 Sin 是字母分节，尤其 Sin 不当英语“罪”。保留经句拉丁文，并分别给短译。原文的 eternum 拼写不改。第 57 段 nodding 修饰雏菊，不误指年轻女人点头。
+7. 第 60–83 段棺盖、水手、硬币、白胳膊只依文本呈现；没有把未具名的白胳膊补成莫莉，也不把人物在不同片段中的重现解释成叙述错误。木条 pliant lath 译“柔韧的木条”，避免“软木”误成材料名称。
+8. 第 114 段天主经的反用与父亲缺席保留在一句怨话中。姐妹的饥饿和家务不用旁白概括。第 141 段 got up regardless 指博伊兰不惜工本的打扮，领带偏歪仍保留，脸红属于女孩。
+9. 第 147–159 段意大利语交谈译成中文，首次短注标语言；第 151 段“无血的牺牲”保留弥撒词汇和微笑之间的张力。第 163 段《白衣女人》人物名按邓恩的 Marion 译玛丽昂，不静改为小说实际的 Marian。
+10. 第 180–198 段修道院、银行、犹太会堂和基尔代尔往事属于人物的游览解说；未把“全都柏林历史最悠久”等夸口处理为已核定史实。Nisi Prius court 此处是四法庭建筑内的民事初审庭，不译成正在流动的巡回法庭。
+11. 第 219–220 段 turn 的成语与演出义、Boylan／boiling 的近音借夹注保全英文触点。“博伊兰得快冒泡”刻意不润成普通等得焦急。第 243 段 Bloom 代 bloom 保留姓名与开花。第 254 段 mince pies 取甜馅饼，不擅断其中有肉；未逐列菜单加注。
+12. 第 261 段“奶河”和“小针戳儿”分别承接天文学、乳房和性暗示，注在各笑话落地后给出。莱内汉对莫莉的讲述仍是他的自夸；不在正文判定它实际发生，也不替他作辩护。
+13. 第 267 段托名亚里士多德的《杰作》用短注辨别，避免当成哲学著作；《玛丽亚·蒙克惊人秘闻》的出版史不妨碍这次翻页，留在研究范围之外而不另添长注。第 274 段 Lovebirch 作为色情读物化名意译“爱桦条”，保留鞭笞联想；不把它误作真实作者普通姓氏。
+14. 第 280–287 段被阅读的艳情文字保持夸饰，布卢姆身体联想则转回短促断片。美元钞票、花边小衣、腋汗、黏液不删减。Crished 以“挤嚓”保留压挤与破裂的声感；可能的 Christ 谐音不以未证实的唯一词源加注。狮子、硫磺、粪的组合照译，不强行讲成一条已确认的药方。
+15. 第 320 段 short shrift 的临刑与严厉处置双层由注给出；a long day 的不寻常接法原样保留，未擅改成通常的 long rope。西蒙的威吓、女孩的要求、他的自怜保留各自声音。
+16. 第 345–367 段从街头观察滑入回想的推销对话，未加引号或“他想起”等说明。General Slocum 的“爆炸／自燃”等照保留为人物所说；不在正文替换为调查报告措辞。Hibernian Bank 译希伯尼亚银行，与 Bank of Ireland 区分。考珀的茶句接住克南的生意，注不把那句误说成只在形容刚喝的杜松子酒。
+17. 第 356 段埃米特的处刑方式保留克南的错记并简注事实；墓地猜测仍保持猜测。第 364–365 段由英格拉姆的诗转入《短发小伙子》，仅注是两首不同作品，不推定克南是有意接歌还是记忆混淆。
+18. 第 370–403 段从宝石、舞女到古人词句、发电机、咒书、妹妹，保留突兀联想与“无有的有”。第 372 段底本写 gum bums with garlic；1922 初版第 232 页可核为 burns，按“烧”译而不改 original.txt；对照本仍如实呈现本库底本。第 382 段 palmam 是棕枝奖赏，不误换希腊桂冠。第 385 段咒文不补成合语法的拉丁语。第 403 段反复的良心、妹妹的眼睛、沉溺不作心理结论。
+19. 第 437 段杰拉尔德家族古人仿佛随行，未断言想象一定属于洛夫本人；注只解释地名。第 446–448 段猴子的粗口典故注置于榛子补话之后，让笑话先落地。第 466 段保留对犹太人的莎剧套话及其在现实人物上的挪用，不替说话者作态度评判。
+20. 第 470 段 brother-in-law 用“那位姻亲”，不无据指定姐姐或妹妹的丈夫。第 493 段 pasterns 用可理解的“马脚腕”。第 512、515 段叶芝、斯温伯恩分别核诗；穆利根关于斯蒂芬能否成为诗人的断言不当作者判断。第 529 段拉丁语不额外解释其在人物口中的企图。
+21. 第 531 段牙医布卢姆与莱奥波尔德同姓而非同一人，最短注避免人物身份误认。第 534–541 段小迪格纳姆的 blooming 是较委婉的咒骂，用反复的“该死”区别于成人的粗口；少年自照、同学、报纸上的名字与对父亲的记忆不增添情绪指令。
+22. 第 544 段 Catesby’s cork lino letters 据第十三章同一事件的 letters and samples 核为信件。格蒂替卧病父亲从办公室取回它们，不是提着广告字样，也不是替父亲到处送信。长段依各街景转移做八处分段对译，不改写成条目，不补叙述主体。
+23. 第 545–546 段 brazen 译“铜嗓”，接吹奏声而兼有放肆的声势；Yorkshire relish 的喜爱／酱料双关以“情味”承接，品牌用短注交代。第 547 段女人误称市长、市长夫人的原样保留；结尾敬礼的是被门吞没的裤腿，不改写为普通人物致敬。
+
+核对资料
+以下资料只支持所标明的词义、文本或史实；全章解释与译法仍由原文上下文负责。网页核读日期为 2026-10-15；引句仅用于核对，不据现成中文译本转译。
+
+教义与拉丁文：梵蒂冈《天主教教理》1452 节核全悔之义及告解意愿，不把现代条文当成康米所读的具体版本；1793 节相关引文核不可克服的无知与责任。Vulgata 诗篇 118:160–161 核两句日课经，按希伯来编次为 119 篇。Digest 4.2.21.5 核 coactus volui。
+https://www.vatican.va/archive/ENG0015/__P4D.HTM
+https://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_12021997_vademecum_fr.html
+https://www.drbo.org/lvb/chapter/21118.htm
+https://www.intratext.com/IXT/LAT0866/_P15.HTM
+
+第 42、546 段：London Museum 实物目录，Stratton 广告画与 Yorkshire Relish 瓶分别核黑脸表演和品牌；不以现当代商业说明替代原文歌词。
+https://www.londonmuseum.org.uk/collections/v/object-754139/eugene-stratton/
+https://www.londonmuseum.org.uk/collections/v/object-524938/bottle/
+
+第 45 段：Gerald Griffin, The Bridal of Malahide，诗歌原文与《Songs and ballads by the most gifted poets of the Emerald Isle》扫描索引互核。
+https://www.poetryexplorer.net/poem26.php?pid=10064474
+https://upload.wikimedia.org/wikipedia/commons/7/77/Books_from_the_Library_of_Congress_%28IA_songsballadsbymo00newy%29.pdf
+
+第 180 段：Dictionary of Irish Biography, Thomas FitzGerald 条；Justin McCarthy 1903 年 Ireland and Her Story 第四章，核丝饰服装与旧传说语境。后者是时代文献，其历史评价不直接采作定论。
+https://www.dib.ie/index.php/biography/fitzgerald-thomas-silken-thomas-a3191
+https://www.libraryireland.com/irelandherstory/silken-thomas.php
+
+第 213 段：Dictionary of Irish Architects 四法庭条及 1894 年议会记录，核 Nisi Prius 为该建筑中的法庭；1904 年 Galway X-rays 案研究核民事初审的用途。
+https://www.dia.ie/works/view/36156/building/CO.%2BDUBLIN%2C%2BDUBLIN%2C%2BINNS%2BQUAY%2C%2BFOUR%2BCOURTS
+https://api.parliament.uk/historic-hansard/commons/1894/feb/15/green-street-courthouse-dublin
+https://pmc.ncbi.nlm.nih.gov/articles/PMC13342403/
+
+第 267 段：Wellcome 馆藏 Aristotle's master-piece compleated，1697 年本，目录明确为传统托名而非亚里士多德本人所著。
+https://content.www.wellcomecollection.org/works/bbanferk
+
+第 352、364–365 段：Cowper, The Task 第四卷；叶芝编 A Book of Irish Verse 内 John Kells Ingram 的诗；Clare Libraries 收藏 Tom Lenihan 所唱 The Croppy Boy 的录音与歌词。这些来源分别核文本，未把不同歌谣混成同一首。
+https://www.gutenberg.org/cache/epub/3698/pg3698-images.html
+https://upload.wikimedia.org/wikipedia/commons/0/0d/A_Book_of_Irish_verse%3B_%28IA_bookofirishverse00yeatrich%29.pdf
+https://clarelibraries.ie/localstudies/music-and-literature/music/collections/traditional-music-sessions-from-clare-live/the-carroll-mackenzie-music-collection/singers-and-songs-of-county-clare-from-the-carroll-mackenzie-collection/songs-of-clare-croppy-boy-2-sung-by-tom-lenihan/
+
+第 356 段：Dictionary of Irish Biography 的 Robert Emmet 条沿用第六章核读；地方图书馆 Ask About Ireland 的 After the Insurrection 再核绞死后斩首，未被四分尸。
+https://www.dib.ie/biography/emmet-robert-a2921
+https://askaboutireland.ie/learning-zone/primary-students/looking-at-places/south-dublin/people-in-history/robert-emmet/after-the-insurrection/
+
+第 372、374 段：1922 初版第 232 页的已校勘转录核 burns；orient and immortal wheat 与第三章现有译稿逐字互核，源于 Traherne 的 Centuries of Meditations 第三百组第 3 则。此处只是短语复现，不替斯蒂芬的每个联想规定唯一出处。
+https://en.wikisource.org/wiki/Page:Ulysses,_1922.djvu/235
+
+第 446–448 段：Pascal Tréguer, word histories，汇录相关俚语的 1879 年及以后实例，明确所指为肛门，且 Jacko 为猴子常用名。采用其列出的语义和可复核例句，不扩写成“猴子实际藏果”的动物习性。
+https://wordhistories.net/2020/11/23/where-monkey-puts-nuts/
+
+第 466、512、515 段：Folger《威尼斯商人》1.3 安东尼奥台词；叶芝 The Wind Among the Reeds 中 The Song of Wandering Aengus；斯温伯恩诗集扫描中的 Genesis，核 white death／ruddy birth。对照原诗识别引句，译文仍保持本章人物截引的范围。
+https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/1/3/
+https://en.wikisource.org/wiki/The_Wind_Among_the_Reeds/The_Song_of_Wandering_Aengus
+https://upload.wikimedia.org/wikipedia/commons/7/7d/The_collected_poetical_works_of_Algernon_Charles_Swinburne_%28IA_collectedpoetica02swin%29.pdf
+
+第 531、544 段：Studies on Joyce's Ulysses（Jacqueline Genet、Wynne Hellegouarc’h 编）内有关 Thom's Directory 与同姓牙医的研究；Clive Hart、Leo Knuth 的 Dublin 地形研究；Harald Beck 的修订序言以十、十三章信件作为互校实例。牙医的具体名字在研究中有差异，本章不增补名字，只辨同姓非同人。
+https://books.openedition.org/puc/pdf/237
+https://www.riverrun.org.uk/JJD2.pdf
+https://www.logbuch-suhrkamp.de/wp-content/uploads/2018/03/harald_beck-ulysses_revision-vorwort-copyright-suhrkamp_verlag.pdf
+
+未确定化的事项
+未替第 47 段贵妇的通奸指控定案；未指定每处插入画面的意识主体；未以推测展开 Crished、狮子的硫磺粪、long day 的唯一成因；未给未具名女人及姻亲补出姓名或具体亲属方向。第 544 段曾误读 letters 为字样，已据第十三章原文改正。
+
+校验记录
+中文本 41 页，中英对照本 76 页，共 540 组对读单元。运行 build_chapter_pdf.py 10 与 verify_chapter_pdf.py 10 均通过；逐字正文／英文／夹注、字体嵌入与字号颜色、页界、中英逐组同页均已核查。
+逐页渲染全部 117 页，检查八张接触表；首轮发现分节星号悬在页尾，已修复并重建、重看全部对照页和中文末页。验证脚本同时增加分节标记与下一正文同页的检查。另以 125 dpi 复看中文第40页的诗节、对照第12页的分节与第74页的诗节／夹注。未见溢出、缺字框或遮盖。
+原稿 SHA-256：ddbb658b6db6b967239ca3d3279cb9190bed816900a655c59de442d0a1952e63
+译稿 SHA-256：84d34e050ea0202ce5a7a3e6c77cc69f681fe6a5095d965e7bfd9b578751673c
+切分 SHA-256：bbdad3a40b5fa119494c096e5e6a453228d0c86bbdbac9f161250d8d8d0f38e8
+
+跨章终校：第 365 段歌名统一为《短发小伙子》（与第六、十一章一致）。重建后仍为41／76页，全文核验通过；重新渲染全书两版，并复看改动所在及其后各页接触表，版面正常。
+
+全书末轮名称核对（2026-10-15）
+O’Rourke统一前文的奥罗克；同步对照锚点。两版重建，页数未变；逐页文本比较仅中文7页及对照13页发生变化，均以110 dpi复看，无缺字、重叠或对读错位。未变页面沿用此前全页视觉检查。
+最终 translation SHA-256: f69607a501b9209f90f95bd8533b46ee80457ee5d06604435bce03e5cbc6bde5

@@ -1,0 +1,94 @@
+第十一章翻译记录
+
+本章以 original.txt 为底本，636 段（含章号），逐段保留原有空行边界。没有另加章题、序曲标签或人物内心标志。完成全文译稿及中文、中英对照两版 PDF；本章不含旁栏导读。以下段号从章号算作第1段。
+
+声音、语体及回声
+
+开头第2—61段保留词尾、碎片、未完成的句子和声音先行的次序。其间的铜与金、叮啷、叩、玫瑰、来、失了、完等，在正文重现时尽量使用同一字词，不把开头改写为内容预告。第60段和末段的 Done 均为“完。”；末尾公共演说被身体声响打断的分行及残句照存。
+
+本章铜／金指称随原文移动；第2、62段“铜挨着金”与第十章入口处同词。第十章第一处人名排列与本章不同，译者不替原作校正。杜丝小姐、肯尼迪小姐、奥蒙德、利德韦尔沿用全书约定，首次出现的名字固定为莉迪娅、米娜。Bloowho、Bloowhose、Siopold、Lionelleopold等保留合词为布卢谁、布卢谁的、西奥波德、莱昂内利奥波德，既不拆还普通姓名，也不追加统一解释。
+
+乐曲进入叙述的次序保留：独立诗行仍独立，已织入散文的歌词不重新排成完整歌谱。Blue bloom...处理为“蓝，蓝花开在那”，在正文的“蓝色的花开在黑麦上”重现；中文无法同时带出Bloom姓名、花与blue的近音，第161段用短注。base barreltone的低音、桶和男中音揉为“低低的桶男中音”。“我不在乎——乎明朝”保留重复尾音。音效随语境用叮、啷、叩、啪、铮等，不将它们一概改成解释性的“铃声”“脚步声”。
+
+第321、534、592段的 Met him pike hoses / met him pike hoses 原样保留，遵循第四、八章对误听词的处理，不单独创造新音译。Paul de Kock统一为保罗·德·科克；Matcham为马彻姆；《爱情那古老的甜歌》承接第五章；《短发小伙子》及后续短发小伙子的叙述称呼承接第六章。“认得自己父亲的是聪明孩子”“哦，扯淡！”保留前章可辨识措辞。
+
+第101、555段 leave it to my hands 保留“那就留给我的手吧”，让早先话语在手与啤酒泵柄的动作中重响，不改成已解决的心理说明。第405段 for tall hats 的具体成语来源未得到可靠核定；译文留住高帽意象，不据此增写文化注。第530段 doesn’t half know 是强调“很清楚”，不是“不怎么知道”；已据此改为“她可清楚得很，我正”。
+
+错误、语义空隙及夹注取舍
+
+保留第174段狐狸与鹳的叙述，不拿另一则寓言替换。保留人物第459段的错误算式；不用夹注逐项教算术，只提示 symmetry / cemetery 的近音，使“对称”跳到“墓地”的声音联系可见。保留第476段把“音乐有魔力”归于莎士比亚的说法，并注实际出处为康格里夫《哀悼的新娘》。
+
+第501段 Quis est homo: Mercadante 的省略不能排除一念转向另一作品；注说明前句在罗西尼《圣母悼歌》中，梅尔卡丹特的姓名可能误归，也可能属于转念。第623段明确把《基督最后七言》归给梅耶贝尔，照原文译出，并短注与前文梅尔卡丹特的对应，不替布卢姆消除混淆。
+
+共18条夹注，集中于 figather 的口吃／改口、knows与nose、Simple Simon童谣、Florodora歌辞的错引、blue/bloom、旧衣／脱衣、Kock/cock、穆尔竖琴诗句、symmetry/cemetery、康格里夫误归、Quis est homo的悬置、chamber/chamberpot、croppy、Bass品牌／低音、lay的诗／下蛋、machree、yashmak/kismet、梅耶贝尔／梅尔卡丹特。第516段只说明短发称呼，不预先交代歌曲的结局。第577段只解machree的“我的心、心肝”，不强称整句为某首歌名。第518段的艾维宿舍在历史上1905年开放，而故事为1904年；保留原作说法，这一考证留在记录中，不打断当下话语。
+
+核过的资料（2026-10-15）
+
+1. JJON，Vincent Deane，Rossini条。比较第五、十一章三个作曲家与作品名称，明确区分第501段的两种可能和第623段的明确误归。
+https://www.jjon.org/joyce-s-allusions/rossini
+
+2. 密西西比州立大学图书馆及约翰斯·霍普金斯大学Levy乐谱集，《The Bloom Is on the Rye》馆藏条目：Henry R. Bishop作曲、Edward Fitzball作词，首句My pretty Jane。核歌名和署名；不据馆藏元数据宣称已检查完整乐谱。
+https://scholarsjunction.msstate.edu/cht-sheet-music/13207/
+https://levysheetmusic.mse.jhu.edu/collection/032/004
+
+3. 美国国会图书馆1901年《In the Shade of the Palm》录音条目，核Florodora及Leslie Stuart；James Joyce Music的演唱研究说明原歌Dolores与本章Idolores/Egypt错引。歌词之“埃及”照人物唱出，不修回原歌。
+https://www.loc.gov/item/jukebox-213914/
+https://james-joyce-music.com/songb_01_discussion.html
+
+4. 田纳西大学歌曲索引，Goodbye, Sweetheart, Goodbye，J. Hatton，首行Bright stars are fading。用于核本章开头和正文的歌词回声。
+https://databases.lib.utk.edu/songdb/songdb.php?title=GOODBYE&word=0
+
+5. A Treasury of Irish Poetry in the English Tongue旧版扫描，《The Croppy Boy》，署William B. McBurney（Carroll Malone），副题A Ballad of '98；核歌词中告解、Ross/Gorey、复活节、父亲及哥哥等回声。扫描检索文本可读；未把整册扫描列作逐页检查资料。
+https://upload.wikimedia.org/wikipedia/commons/b/bc/A_treasury_of_Irish_poetry_in_the_English_tongue_%28IA_treasuryofirishp00broorich%29.pdf
+
+6. 塔夫茨大学馆藏《The Mourning Bride》1788版扫描，第一幕开头Music has charms...，核康格里夫出处。
+https://dl.tufts.edu/downloads/gh93h968z?filename=00000b818.pdf
+
+7. 智利多明我图书馆音乐目录，Le sette ultime parole，Saverio Mercadante，Ricordi版目录记录。用于确认作品归属，不补成布卢姆正确无误的记忆。
+https://www.bibliotecadominica.gob.cl/sites/www.bibliotecadominica.gob.cl/files/images/articles-64934_archivo_01.pdf
+
+8. 艾维信托官方宿舍史及130年史，记1905年建成开放、508个男士隔间，核本章宿舍所指及时间出入。
+https://www.theiveaghtrust.ie/our-story/the-iveagh-hostel/
+https://www.theiveaghtrust.ie/130-years/
+
+9. 美国国会图书馆Mother Goose Melodies旧版数字馆藏，Simple Simon童谣，核傻西蒙及捕鱼的语汇背景；不补作人物已在此完整唱出童谣。
+https://www.loc.gov/resource/gdcmassbookdig.mothergoosemelod00will/?sp=2&st=gallery
+
+10. Thomas Moore，Gutenberg诗集，《The Harp That Once Through Tara’s Halls》，核“曾一度”原句；“或两度”为本章扭改。
+https://www.gutenberg.org/cache/epub/8187/pg8187-images.html
+
+11. Teanglann，croí词条，heart及mo chroí、a chroí等爱称；用于解释machree，不由此断定整段在引某首特定歌曲。
+https://www.teanglann.ie/en/fgb/cro%C3%AD
+
+12. Cambridge Dictionary，chamber pot，核便壶义。其他显见英文词义和音形关系主要依据底本文字及语言判断；不冒称每一项都有独立史料考证。
+https://dictionary.cambridge.org/dictionary/english/chamber-pot
+
+13. Dictionary of Irish Biography，Robert Emmet条，核末段民族独立／墓志铭演说背景。正文断裂、拟声及未完成语句仍以本章原文为准。
+https://www.dib.ie/biography/emmet-robert-a2921
+
+14. Charles Peake Ulysses Seminar，Sirens 1041–1055（2022年8月7日记录），核doesn’t half know的肯定强调读法。另读Sirens 131–151讨论，关于your other eye的歌曲／性意味存在不同解释，未据此添确定性注解。
+https://charlespeakeulyssesseminar.wordpress.com/2022/08/07/seminar-8-april-sirens-1041-1055/
+https://charlespeakeulyssesseminar.wordpress.com/2018/05/12/seminar-4-may-sirens-131-151/
+
+排版及验证
+
+诗行用四空格缩进；不拆回正文已经织入的歌词。没有须另切的超长段，无parallel-segments.json。相邻诗段按既有规则连组，634组中英阅读单元对应635个非标题原段。中文不使用会裸显的_斜体_标记；英文原有斜体由排版器保留。正文SimSun 10.5 pt，夹注8 pt、#A66F73；英文Georgia 9.5 pt、#929CA6。
+
+build_chapter_pdf.py 11：中文43页，对照81页，18条夹注。verify_chapter_pdf.py 11：两版全文流、注释流、嵌入字体、字号与颜色、页界及同页中英配对通过。自动验证不能替代人工语义复核。
+source SHA-256: ef674bef29c4dbf84988e6a47411f65d477e29942b21e4f94f122497f297369b
+translation SHA-256: 17ee411bef8547233606442cacbe1b3c839fe3f30a0823148db464034392d664
+
+视觉检查记录见末尾补记。临时译稿分块、渲染图和接触表位于tmp，不作出版交付。
+
+视觉检查补记（2026-10-15）
+两版共124页以65 dpi渲染，逐页查看九张接触表；中文斜体标记裸显的问题已清除并重新生成。最终统一《短发小伙子》后重渲染两版，复看受影响的中文33—43页及对照49—80页，页数和配对不变。另以120 dpi复查对照第48页的歌声高潮、残词与换行，以及第81页演说残片和拟声结尾；此前细查第57页信封地址与歌词。未见裁切、重叠、缺字方块、标记裸显或顺序错误。保留少数因完整中英阅读组而形成的页底留白。检查对应上列译文校验和。
+
+跨章称谓复核（2026-10-15）
+Mrs Purefoy 统一为“皮尔福伊太太”，Dlugacz 统一为“德卢加奇”，与第四、八、十二、十四及十七章相照应。
+本次译文 SHA-256: 17ee411bef8547233606442cacbe1b3c839fe3f30a0823148db464034392d664
+
+本次译名修正后两版重新生成，全文、字体、颜色、页界及同页配对验证通过；中文仍43页，对照仍81页。以110 dpi复看中文第30、31、37页及对照第56、57、69页，未见缺字、重叠或裁切。
+
+姓名统一复核（2026-10-15）
+Blazes Boylan 的姓名部分13处“布莱兹”统一“布莱泽斯”，与第四、六、八、十、十五及十七章一致；不改原文中作为普通词语的火焰意象。重建后中文43页、对照81页、634个中英阅读组不变；verify_chapter_pdf.py 11两版全文、夹注、字体、颜色、页界与配对均通过。两版重新65 dpi渲染，按页面图像校验和定位并复看中文11、12、13、14、16、18、19、26、30、31、37页，以及对照20、23、24、25、26、27、29、33、35、49、56、57、69页，未见重叠、缺字或裁切。
+最终 translation SHA-256: 3fce5bfe679c09f7cf382c4d68dd17c4c042ec8f64798dddaac8799d02a8af11

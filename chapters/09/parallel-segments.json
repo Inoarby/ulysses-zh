@@ -1,0 +1,109 @@
+{
+  "description": "Verified matching end anchors; 1-based source paragraphs include the chapter heading. Original paragraph boundaries remain unchanged.",
+  "paragraphs": {
+    "107": {
+      "source_after": [
+        "to lie withal?"
+      ],
+      "translation_after": [
+        "来同床共枕？"
+      ]
+    },
+    "128": {
+      "source_after": [
+        "Moore asked him to bring Haines."
+      ],
+      "translation_after": [
+        "穆尔叫他把海恩斯带来。"
+      ]
+    },
+    "186": {
+      "source_after": [
+        "the game of laugh and lie down."
+      ],
+      "translation_after": [
+        "玩那笑着躺下的游戏也不会赢。"
+      ]
+    },
+    "188": {
+      "source_after": [
+        "with its mole cinquespotted."
+      ],
+      "translation_after": [
+        "一直随他同行。"
+      ]
+    },
+    "258": {
+      "source_after": [
+        "ringocandies.",
+        "its foul pleasures."
+      ],
+      "translation_after": [
+        "糖渍刺芹。",
+        "与娼妓之爱及其污秽的快感之间。"
+      ]
+    },
+    "296": {
+      "source_after": [
+        "get rich quick?",
+        "a porter’s theory of equivocation."
+      ],
+      "translation_after": [
+        "怎样会迅速发家？",
+        "守门人的含混措辞论。"
+      ]
+    },
+    "308": {
+      "source_after": [
+        "with hoops of steel."
+      ],
+      "translation_after": [
+        "钢箍把他们的感情紧紧束在一起。"
+      ]
+    },
+    "315": {
+      "source_after": [
+        "heard she had a soul."
+      ],
+      "translation_after": [
+        "听说自己有个灵魂。"
+      ]
+    },
+    "320": {
+      "source_after": [
+        "that mystical estate upon his son."
+      ],
+      "translation_after": [
+        "已把那神秘的产业立遗嘱传给儿子。"
+      ]
+    },
+    "351": {
+      "source_after": [
+        "the name that we are told is ours."
+      ],
+      "translation_after": [
+        "就这样问自己。"
+      ]
+    },
+    "385": {
+      "source_after": [
+        "protasis, epitasis, catastasis, catastrophe.",
+        "in whose sin he too has sinned."
+      ],
+      "translation_after": [
+        "起始，发展，危机，灾变。",
+        "在那人的罪中他也犯了罪。"
+      ]
+    },
+    "393": {
+      "source_after": [
+        "refuse to be divorced.",
+        "but always meeting ourselves."
+      ],
+      "translation_after": [
+        "是她们唯一不肯离异的丈夫。",
+        "却始终遇见自己。"
+      ]
+    }
+  }
+}

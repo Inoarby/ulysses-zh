@@ -1,0 +1,137 @@
+《尤利西斯》第十三章：校译记录
+全译、校读及排版验收：2026-10-15
+
+一、文件与体例
+
+底本为同目录 original.txt，未改动底本及 ulysses.txt。保留 [ 13 ]，不增添通行的荷马对应章题。原文共 135 个空行段（含章标记），译稿逐段对应，正文无摘要替代。全章从暮色中的海滩译至最后三声布谷；诗歌、歌声与钟声保留原行界和四空格缩进。
+
+translation.txt 为 UTF-8 可编辑稿，内含 20 处【注：……】。章首格蒂周围的感伤套话、广告语和少女内心，与后半布卢姆的断裂内语分别处理，未统一改写成一种顺滑的现代叙事。夹注是译者说明，不混入人物声音。
+
+chapter-13-zh.pdf 为中文译本，34 页；chapter-13-parallel.pdf 为中英对照本，75 页、210 组正文对读单元。parallel-segments.json 在 38 个长段设置 76 处分割，所有锚点逐一按实际语义对应，保留稿件段界。中英长度不等之处以完整意群匹配，不按字数机械均分。中文标点归前段，避免片段以逗号开头。最末三个布谷钟声组均保持三行，不拆散。
+
+两版均用项目默认嵌入宋体，正文 10.5 磅；夹注 8 磅、淡红 #A66F73。对照原文 9.5 磅 Georgia、浅灰蓝 #929CA6，并保留底本下划线所标的斜体。构建：python scripts/build_chapter_pdf.py 13；验证：python scripts/verify_chapter_pdf.py 13。
+
+二、译名与跨章照应
+
+Gerty / Gertrude MacDowell：格蒂／格特鲁德·麦克道威尔。MacDowell 与第十章统一。
+Cissy Caffrey：西茜·卡弗里；Edy Boardman：伊迪·博德曼；Jacky / Tommy：杰基／汤米。
+Bertha Supple：伯莎·萨普尔；Reggy Wylie / W. E. Wylie：雷吉·怀利／W. E. 怀利；Giltrap：吉尔特拉普。
+Garryowen：加里欧文，简称 Garry 作加里，与第十二章统一。
+Canon O’Hanlon：奥汉隆司铎；Father Conroy：康罗伊神父；John Hughes S. J.：耶稣会士约翰·休斯。
+Raoul：拉乌尔；Rip Van Winkle：里普·凡·温克尔；Catesby：凯茨比。
+
+布卢姆、莫莉、米莉、迪达勒斯、穆利根、迪格纳姆、布林、皮尔福伊、凯斯商号等沿用前章。圣经中的 Mary / Martha 作玛利亚／玛尔大；通信中的 Martha 仍为玛莎，不将两个声音合并。
+
+1. 第 38 段的信件和样品是格蒂替卧病父亲到办公室取回的，所谈为凯茨比软木油地毡。未把 lino letters 误作广告的字母，亦未写成替父寄出的信。与第十章照应。
+2. 玛莎信中的“我就惩罚你”“那么我就把一切告诉你”“你在自己家里不幸福？”和“淘气的心肝”沿用第五章的可辨措辞；“那个别的世界是什么意思。我叫你淘气男孩，因为我不喜欢”保留 world / word 混误及未完句。
+3. “银色光焰”“沉思的胸怀”“肉一直长到脚跟”与前章照应。第 114 段 pitched about like snuff at a wake 保留守灵、鼻烟及“任人糟践”的用语连接。
+4. met him pike hoses 在第 129 段保留这一串英文，接续第八章误听；不在昏睡语流中重新讲解，不把梦中截短的 Agendath 等补成完整名称。
+5. 最后三组钟声同译“布谷”，让九次重复及接句自行发生作用；末注仅提示 cuckoo / cuckold 的语言关系，不将它定为某一人物唯一的结论。
+
+三、叙述、节奏与歧义的校读
+
+1. 第 2—86 段有意保留“何等”“温柔”“纯洁”“芳心”等套语和商品介绍的口气，格蒂自怜、想象的婚姻、神父赦罪、男子的秘密均按文本声层展开。不能因叙述使用第三人称就把其想象改成客观事实。原文的二十二岁及代词承接不增补一个确定的人名。
+2. 第 22 段 discharges 保留为“以前常有的那种流出来的东西”；原文的医学无知和含混不被现代诊断取代。第 24 段 niggerstraw 依衣帽颜色语境译作“‘黑鬼棕’草”，保留历史商品语里的冒犯用词；不把它误读为一个现场人物，也不以注释冲淡原文口吻。
+3. 第 25 段对婚誓的错乱引述保留词序的不整齐。“名字—黄油奶油”童谣则保留食物与幼儿问答口气，以“名儿／人儿”形成轻微尾韵；不另增原文没有的面包。
+4. 第 36 段 jaspberry ram 不改成正常的 raspberry jam；中文用“酱盆子覆”的故意错序并在短注交代首音错换。第 68 段 kinnatt 经历史语证改译“小狗东西”，未用外形相近的猫字猜义。
+5. 格蒂尚未走开时不由译者先解释其步态原因；直到第 87 段“鞋紧？不。她瘸！哦！”才让布卢姆的判断出现。前段的“那位先生”“他”依原文保留；第 82 段原文明说利奥波德·布卢姆的插入语照留，不人为延后。
+6. 第 80—81 段露腿、内裤、触动、烟火与性高潮的重叠不删、不加医学解释。尤其第 81 段的连续“而且／她／他”、上升和消失、长久悬置、反复“看”，尽量让句法本身承受节奏。后半原文粗俗的身体语、精液、包皮、避孕套和窥视也如实译出。
+7. 第 88 段以下频繁缺主语、半句歌词、过去与眼前跳换，不补“他想起”“因此”“事实上”。第 98 段 relief 既承接莎士比亚换岗又关乎身体解脱，保留“替我解脱”，不单一解释为止痛或交班。
+8. 第 95 段幼年米莉把 face 说成 pace，中文以“脸／年”的童音替换；保留幼儿讲话而不扮作标准句。understandings 则以“下半身的‘见识’”和短注同时留下腿与理解的双关。
+9. 第 108 段 kismet 的鸡眼并非随手比喻；所核旧笑话显示 fate / feet 的口音误听。正文仍说“命运上长了鸡眼”，不把原句修成脚上长鸡眼。
+10. 第 112 段有关二十年睡梦、睡谷和代代衰老的念头保留布卢姆记忆的混杂，不替他改正场景名。第 113—114 段把仪式称弥撒、猫的颜色、生理及月亮的推测，均按人物认知照译；未加译者权威使它们成为科学断言。
+11. 第 114 段 tephilim、门框经盒和出埃及引语的混淆在最小注中指出，正文的自问及“领进”保持原样。第 117 段“异国”的身体感觉仍用生硬的“那么异国”，不抹成一般的“特别”。
+12. 第 118 段 sister-in-law 的具体姻亲方向未明，译“姻亲女人”；后面的 wife's sister 译“妻子的姐妹”，不加原文没有的长幼关系。冒犯相貌和民族的想法属于布卢姆，不改成中性说明。第 128 段 race there and race back 依巡演语境作“赶去／赶回”，不误译赛马。
+13. 第 129 段睡意中的词尾、跳跃与粘连保持为一长串：未补出被省略的句尾、事件解释及引文全貌。最后的 I AM A 保持未写完；不借章末钟声替读者填出唯一答案。
+
+四、夹注依据与查核出处
+
+以下网址查核于 2026-10-15。列出已阅读的正文、词条或检索所示原文；未把检索摘要当作已通读整本。拉丁语译句由底本直接译出，礼仪来源用于核对文本功能。历史出处与译者对当前语境的判断在下文分开。
+
+第 25 段：闰年求婚。只注旧俗允许女性主动求婚，不追溯未经证实的圣人起源。Library of Congress 的书信写作史介绍展示早期闰年求婚手册及范信：
+https://blogs.loc.gov/teachers/2012/02/advice-books-insights-into-the-nineteenth-century/?loclr=blogser
+
+第 36 段：jaspberry ram 与 raspberry jam 的首音错换，直接可从底本词形复核。译文故意错序，不再借夹注另讲格蒂的心理。
+
+第 37 段：retreat 是集中祈祷、省察的退省。Catholic Encyclopedia “Retreats” 的检索原文说明若干日离俗、祈祷和克修的实践；不误作一次教堂退场：
+https://www.newadvent.org/cathen/12795b.htm
+
+第 38 段：Doctor Fell 的不喜欢却说不出理由，核十九世纪原作中已引用的诗句。Robert Montgomery Bird, The Hawks of Hawk-Hollow，第十五章章首引诗：
+https://www.gutenberg.org/files/65637/65637-h/65637-h.htm
+本注只指出熟语所依的诗句，不把人物认为长相与品性有关的判断作为定论。
+
+第 43 段：vessel 三称及邻近诸圣母称号核 Vatican, Litany of Loreto：
+https://www.vatican.va/special/rosary/documents/litanie-lauretane_en.html
+已核 spiritual vessel、vessel of honour、singular vessel of devotion、mystical rose、refuge of sinners 等措辞。现行列表有后加称号；这里只用来核原文已有称号，不声称整份现行祷文等同 1904 年版本。
+
+第 52 段：novena 注为连续九天的特别祈祷。Archdiocese of Toronto 的礼仪实践说明及 Catholic Encyclopedia 词条检索原文：
+https://www.archtoronto.org/contentassets/479ee28077d64e1abc605c6230df99d9/novena-description-and-schedule.pdf
+https://www.newadvent.org/cathen/11141b.htm
+
+第 56、66 段：Tantumer gosa cramen tum 是 Tantum ergo sacramentum 的听觉连写；Panem de coelo praestitisti eis 是圣体降福的对答句。核祈祷书所印拉丁语及慈幼会祈祷材料：
+https://upload.wikimedia.org/wikipedia/commons/9/94/TheDailyPrayerBook.pdf
+https://www.donbosco.press/en/prayers-with-indulgences/?print=pdf
+检索可读相关印页与唱词；夹注只提供当场所听的大意，不扩成完整圣体神学。
+
+第 74 段：Laudate Dominum omnes gentes，核《诗篇》117:1（武加大编号 116）“万民”赞主的开句。美国天主教主教团圣经正文：
+https://bible.usccb.org/bible/psalms/117
+
+第 88 段：Mutoscope 的投币、手摇及逐张翻片，核 Getty Art & Architecture Thesaurus 的器物定义（检索原文）：
+https://www.getty.edu/vow/AATFullDisplay?find=nanny&logic=OR&note=&page=1&subjectid=300211170
+也核西班牙文化部器物分类的单人窥看与照片翻动说明：
+https://tesauros.cultura.gob.es/tesauros/bienesculturales/1190923.html
+正文译“活动窥片”；不将装置虚构为现代电影院。
+
+第 93 段：French letter，Cambridge English Dictionary 标为英国旧时非正式称呼，义为 condom：
+https://dictionary.cambridge.org/us/dictionary/english/french-letter
+正文保留“法国信”，让其与信件和阅读的联想相接；注给出避孕套这一必要义。
+
+第 94 段：prunes and prisms，核狄更斯《小杜丽》中 General 太太教授反复念词以形成优雅唇形的原文，不解释为食疗。书中原文可检索 “Papa, potatoes, poultry, prunes and prism”：
+https://dev.gutenberg.org/cache/epub/963/pg963-images.html
+夹注不复制整段训诫，只交代练口形这一作用。
+
+第 95 段：understandings 的腿、脚及鞋靴俚义，核 Murray’s New English Dictionary 历史词条转录，第 6 义，含 1828、1844 年用例：
+https://wehd.com/98/Understanding_vbl_sb.html
+已读词条正文的 6a、6b。正文的“见识”保留常用意义，注释补出无法在中文同词承载的腿义。
+
+第 100 段：skeleton in the cupboard，核 Cambridge Learner’s Dictionary，指不愿人知的难堪往事或秘密：
+https://dictionary.cambridge.org/dictionary/learner-english/have-a-skeleton-in-the-cupboard
+正文保留骷髅形象，使前后对妻子外貌的恶意比喻仍可读。
+
+第 105 段：forbidden priest 直接由底本拼法与常用 forbidden fruit 的差异可核。注只指出 fruit 换为 priest，不将所有女性、神父或禁欲关系解释为一种确定理论。
+
+第 108 段：corns on his kismet。Eamonn Finn 在 James Joyce Online Notes “Kismet” 指出 1895 年 Blackburn Weekly Standard 的笑话：爱尔兰女佣将 fate 与 feet 混听，而说鸡眼长在 kismet 上。所见文章提供同期报纸的故事与日期，检索返回全文已读：
+https://www.jjon.org/joyce-s-allusions/kismet
+本文据此解释语音关节，不把第十三章全部命运观归入那则笑话。
+
+第 112 段两注：Rip / van / winkle 的撕裂、货车、滨螺是原文已分开的字谜单位，中文无法兼作一个人名，故短注合回名字。欧文 Rip Van Winkle 的二十年睡眠与 The Legend of Sleepy Hollow 属不同故事；分别核原作：
+https://www.gutenberg.org/cache/epub/60976/pg60976-images.html
+https://www.gutenberg.org/files/41/41-h/41-h.htm
+保留布卢姆把睡谷带入睡了二十年的联想，注只说明混入另一篇，不替正文换名。
+
+第 114 段：门框所置为 mezuzah，与戴在身体上的经匣不同。核犹太教实践说明：
+https://www.chabad.org/library/article_cdo/aid/256915/jewish/What-Is-a-Mezuzah.htm
+《出埃及记》20:2 是领出埃及、领出奴役之家，核美国天主教主教团所载经文：
+https://bible.usccb.org/bible/exodus/20
+注说明原文把领出说成领进，不在正文把人物错引修成准确的引文。
+
+第 135 段：Merriam-Webster “cuckoo” 词条正文列傻、古怪或疯狂之义，词源说明与配偶不忠之丈夫的旧法语用法相连：
+https://www.merriam-webster.com/dictionary/cuckoo
+本书第九章已有 cuckoo / cuckold 的明确文字呼应，可回看相同词链。注仅列可能被中文鸟叫遮掉的义项，不预告后章。
+
+另核第 68 段 kinnatt：P. W. Joyce, English as We Speak It in Ireland（1910）词汇表印页 281，指冒失、自负、无礼的小狗／小子；核全文：
+https://www.gutenberg.org/files/34251/34251-h/34251-h.htm
+正文用“小狗东西”已足以承载贬称，不再重复附注。
+
+五、验收记录
+
+逐段校读 135 段，核对长句、内语、词语回声与所有夹注的插入位置；删去不影响本段理解的百科信息，不预告格蒂的身体情况。核原文词数 16,737（按空白切分，含章标记）。正文的原有讹误、偏见、缺句与粗俗语不视为需要清洗的排版错误。
+
+两版全文和夹注文字提取、字体嵌入、字号颜色、页界及 210 组同页对读检查均通过。全部 109 页经 pdftoppm 渲染，并逐一查看 8 张接触表；另以 110 dpi 放大检查中文第 18、34 页及对照第 42、44、66、75 页。烟火长段、突然转入内语、字谜夹注、梦语和末页钟声均清楚，无缺字、裁切或文字碰撞。检查发现对照分段曾使三个逗号落在新片段开头，已修正分割锚点并重新生成、渲染与复查；原稿未因此变段。
+
+最终校验和另列于下，方便重建后核对。
+original.txt SHA-256: 931dfb5ff42691a216511cb9458d64f150f9645fe744628e8effad12c7d9c166
+translation.txt SHA-256: 35888fca89471b33f2434d69e3fa1e33779b9d18822f9683926e10772cbfee12
+parallel-segments.json SHA-256: b82b16aef609ba7fe1ebc3db70ca5723c4d6dc0a3c38da413e55b33d72ecd553
+
+2026-10-15 跨章终校：第 90 段 Mrs Marion 统一为第四章既定的“玛丽昂”，两 PDF 重建后全文核验再通过，页数与对读数不变；以 110 dpi 复查受影响的中文第 22 页和对照第 49 页，无版面异常。上列 translation.txt 校验和为此次修正后的最终值。

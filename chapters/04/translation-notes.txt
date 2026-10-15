@@ -1,0 +1,117 @@
+第四章校译记录
+日期：2026-10-13
+
+一、底本与范围
+
+本章直接据本目录 original.txt 重译。保留第二部标记 — II — 与 [ 4 ]，不将后来的荷马对应名称增作章题。原文与译文均为175个空行段落；正文没有采用其他中文译本。现稿含29条夹注，中文本17页，中英对照本33页、173组对读。尚未为本章制作右栏旁注导读本。
+
+二、本章新译名与后续沿用项
+
+Leopold Bloom：利奥波德·布卢姆；简称布卢姆。
+Marion / Molly / Poldy：玛丽昂／莫莉／波尔迪。玛丽昂与莫莉是同一人物的正式名与昵称，不在正文替换成单一叫法。
+Milly / Rudy：米莉／鲁迪；信末 M. 译作“米。”，保留缩写的形状。
+Tweedy：特威迪；Dignam：迪格纳姆；Dlugacz：德卢加奇。
+Blazes Boylan：布莱泽斯·博伊兰；Bannon：班农（接第一章）。
+Larry O’Rourke：拉里·奥罗克；Simon Dedalus：西蒙·迪达勒斯。
+M’Coy：麦科伊；Coghlan：科格兰；Goodwin：古德温；Kearney：卡尼。
+J. C. Doyle：J. C. 多伊尔；Philip Beaufoy：菲利普·博福伊；Matcham：马彻姆。
+Gretta Conroy：格蕾塔·康罗伊；Thornton：桑顿。
+Eccles street：埃克尔斯街；Dorset street：多塞特街；Berkeley road：伯克利路。
+Capel street：卡佩尔街；Denzille street：登齐尔街。
+Mullingar：穆林加尔；lough Owel：奥韦尔湖；Greville Arms：格雷维尔纹章旅馆。
+Agendath Netaim：阿根达斯·内泰姆；Bleibtreustrasse：布莱布特罗伊街。
+Citron / Mastiansky / Moisel：西特龙／马斯蒂安斯基／莫伊塞尔。
+Pleasants street：普莱曾茨街；其与 pleasant 的声音连接另作简注。
+Ruby: the Pride of the Ring：《鲁比：马戏场之花》。ring 在此是马戏表演场。
+Love’s Old Sweet Song：《爱情那古老的甜歌》；Là ci darem：《在那里我们携手》。
+Photo Bits：《摄影趣闻》；Titbits：《点滴》；Matcham’s Masterstroke：《马彻姆的妙着》。
+Bath of the Nymph：《宁芙沐浴图》；nymph：宁芙。
+
+三、句法、声音及歧义
+
+1. 开头不将 ate 改成当下已吃完一顿内脏，也不另加“每天”。“吃起……来，津津有味”保留口味与眼前胃口的叠映。hencods’ roes 为雌鳕鱼子，不是雄鱼精巢。
+2. 猫随原文 she 用“她”，并保留对话逐渐加重的猫叫。拟猫口吻与妻子称谓邻接处不为解释清楚而反复补姓名。第50段 they never understand 不硬指为女仆，用未点名的“他们”；段后的“大块头／上等香肠”仍留性暗示。
+3. 器物与身体同用的肉、腺体、后腿肉、上等香肠不改成优雅的同义词。第52段 hand 的连续动作保持手作主语；硬币被“读过”、一片片滑入钱柜，保留物的奇特观看方式。
+4. 第30段面包车承接 our daily，但未说 bread 就转到妻子的面包口味。保留无连词的词串，夹注附于完整一串之后。黑色“传导、反射、折射”的混淆、逐日追太阳不老等都是人物随想，不替他修正物理知识。
+5. 第31段太阳从西北升起是转述格里菲斯对报纸题花的揶揄。Ikey 的偏见语气属于人物思维及所转述的环境，不当作叙述者认可的民族性格。
+6. curate 保留“助理神父”及酒馆伙计的双层意思。第40段 old man 是残酒的行业俗称，不是地窖中的老人；此项在校读时纠正。商人的身世并不影响这段算账，删去其简历式夹注。
+7. 第45段 I thought he was 保持半句“我就想他是”。注中将店主族属判断标作通常读法，不补进正文。第62段荒芜、衰老、流散与女性身体的联想是布卢姆此时的思绪，不据此概括历史或作者立场；以东混入城市名单保留，注指出经文差异。
+8. 第66段 Mrs Marion Bloom 的称呼保留，注仅指出婚后称谓习惯的偏离，不预告信件或人物关系的后果。
+9. metempsychosis 保留外文的陌生和长词形，由对话释作“灵魂迁转／再世投胎”。Met him 什么？不先替莫莉补出原文省略的读法。第120段变成 metamspychosis 也不校正：它混在马戏柔身、变形、死后灵魂的联想里。此项须与后续错读和复现逐次对照，不能把所有复现一概印成正确拼写。
+10. 第120段 Ruby pride of the on the floor naked 的题名中断保留“马戏场之，地板上赤裸着”。第166段小说引句止于 who now，译文也止于“她如今”，不替获奖小说补完故事。
+11. 第138段米莉来信保留 lovely 的反复、口语语法与 hurried postscript 的省略；不把班农的 cousins or something 确定为某个亲属。正文没有说明谁是 Tell him 的唯一所指。称呼用中文书信冒号，使对照排版把称呼与信文同页。
+12. 第150段 qualm 兼有身体不适与不安，译“不适”，不另作临床性的心悸诊断。少女、女人、吻的短句不补成有确定人名的心理分析。第168段 It wouldn’t pan out somehow 译“不知怎么就是不成”，不把其指向限定成“写不成文章”。
+13. 第162段 hanging up on the floor 的空间错搭照留“挂在地板上”。第174段 third 在 overtone 的语境中取音乐的“三度音”；不据此断言钟的实际调律。Quarter to 不自行补数字，葬礼时刻与当前时刻不混写。
+
+四、回声核对
+
+- “可怕的土耳科”沿用第一章，保留此前通俗读物名称进入东方幻想的声音。
+- 第61段遮太阳的云，与第一章同句使用相同译语；后接的情绪和观看对象保持本章自身的变化。
+- 钥匙、床、镜子、牛奶、海与死海、金发姑娘等不为了变化而换称，但不逐项给读者宣布象征意义。
+- 班农、照相姑娘与米莉的照相工作可由第一章与本章互证；夹注只回顾已出现的内容。
+- “对了”“上等”“腰子”“可怜的迪格纳姆”在本章保留重复。章末钟声“嗨嗬”与“响亮阴暗的铁”留待后文同句复现。
+- 帽中 high grade ha 的残缺印字以原文保留，注给中文意思及缺 t；第五章再出现时不能修成完整 hat。
+- “我愿意，又不愿意”与此前曲名相接；曲中声音、莫莉的说话、布卢姆的内心联想分别保留，不将歌词当作她已经表达的决定。
+
+五、已核查参考与使用边界
+
+以下均于2026-10-13查阅；网页仅用于词义、器物、典故和解释核对，不替换本仓库底本。阅读到检索摘录的项目明确标记，不冒称通读。
+
+1. Terence Brown, “Calypso: myth, method, moment”, Studies on Joyce’s Ulysses, pp.9–20，Presses universitaires de Caen。
+   https://books.openedition.org/puc/233
+   核读叙述层次讨论及 old man 残酒的解释；文中有较远的情节概述，不搬入夹注。此处正文的 she、they、now 等歧义仍以底本为准。
+2. Collins, curate，含爱尔兰酒馆助理义。
+   https://www.collinsdictionary.com/us/dictionary/english/curate
+3. James Joyce Online Notes, hencod。
+   https://www.jjon.org/joyce-s-words/hencod
+   核对雌鳕鱼及 roe 的含义，正文据此译“雌鳕鱼子”；无须为日常食物额外加注。
+4. Ulysses “seen”，宾夕法尼亚大学站，Calypso reader’s guide, page 2。
+   https://web.sas.upenn.edu/ulyssesseen/category/readers-guide/readers-guide-calypso/page/2/
+   核对 Mrs Marion 与 Mrs Leopold 的称谓区别。只取礼貌习惯这一事实，不把其对人物心理的解释写成定论。
+5. London Concert Choir, Don Giovanni，第一幕二重唱意大利文及角色分配。
+   https://londonconcertchoir.org/don-giovanni
+   核对 Là ci darem la mano 和采琳娜答句 Vorrei e non vorrei；中文直接从原词译出，未搬用页面的英语诗体改词。
+6. Te Papa 馆藏 CG000432；Salford Museum 藏品教学页。
+   https://collections.tepapa.govt.nz/object/57638
+   https://schools.salfordmuseum.com/resource/exploring-the-collection-the-moustache-cup/
+   核对护须杯内托片结构；不把不同馆页对发明年份的差异引入阅读注。
+7. 《马太福音》6:10–11；《利未记》11:7–8；《创世记》14:2、19:24、36章。
+   https://bible.usccb.org/bible/matthew/6
+   https://bible.usccb.org/bible/leviticus/11
+   https://bible.usccb.org/bible/genesis/14
+   https://en.wikisource.org/wiki/Bible_(King_James)/Genesis
+   主祷文中日用饮食及“在地上如同在天上”、禁食猪肉、平原城名单可核；经文故事与可验证的地理事实分开，不把布卢姆的死海成因判断当科学说明。USCCB 的19章本次返回403，36章部分正文未显示，改查公开的KJV文本；不称已从前者核读这两章全文。
+8. Wiktionary, ikey（核对词源和贬抑色彩，非采用例句作民族判断）。
+   https://en.wiktionary.org/wiki/ikey
+9. Joyce Project, Agendath Netaim；检索展开文本说明种植广告、蒙蒂菲奥里及土地单位，页面直开正文未显示。
+   https://joyceproject.com/notes/Zk-bJZUBeQi-aLQfd7Cb
+   仅取与当前阅读有关的解释；杜纳姆注明旧制地区差异，不以现代精确换算或公司成立年强行校正虚构广告。
+10. The Polylogue Project, Part 2: Errors, Lots in Translation，Scientia Traductionis 12 (2012), pp.165–204。
+    https://doi.org/10.5007/1980-4237.2012n12p165
+    https://www.researchgate.net/publication/274548869_The_Polylogue_Project_Part_2_Errors_Lots_in_Translation
+    检索可读摘录中175–176页讨论 high grade ha 的缺 t，帮助检查译文是否把残缺抹掉；未通读整篇。
+11. Joyce Studies in Italy 2022，关于 metempsychosis 的研究，检索可读摘录第203页讨论莫莉说词的缺省及布卢姆回应。
+    https://thejamesjoyceitalianfoundation.it/wp-content/uploads/2024/01/13-ELWER-2022.pdf
+    只作省略与后文复现的核对提示，不采用其更远的整体解释。
+12. Collins, liver of sulfur；Dictionary.com 同名词条。
+    https://www.collinsdictionary.com/dictionary/english/liver-of-sulfur
+    https://www.dictionary.com/browse/liver-of-sulphur
+    核对硫化钾等混合物的旧称及旧时用途；夹注不把土壤联想断言为布卢姆已实施的处理，也不是用药建议。
+13. Irish National Library, Larcom Papers，关于1865年斯蒂芬斯被捕、越狱的档案目录；Richard Whiteing 编 Wonderful Escapes 的 Stephens 章节。
+    https://catalogue.nli.ie/Collection/vtls000255396
+    https://www.gutenberg.org/files/52304/52304-h/52304-h.htm
+    本次所读检索摘录足以区分芬尼亚领袖与斯蒂芬·迪达勒斯；未据此确认布卢姆所说售票人身份，正文仍保留“据说”。
+14. James Joyce Digital Archive, Calypso draft 3。
+    https://jjda.ie/u/ulex/d/dd3.htm
+    检索可读原稿同样有题花、自治与西北日出的词串；并参照 L. M. Cullen 关于 Freeman’s Journal 的论文检索摘要。当前短注不扩展为报业政治史。
+
+文本内部即可核实的夹注：Citron、Pleasants、metamspychosis、Swurls 的词形与相邻句对照，以及第一章班农的回声。Kock/cock 为声音与俗义提示，不推断莫莉必然自觉经营某一双关。宁芙注说明布卢姆举了变形的例子，不代他改讲哲学史。
+
+六、删注与排版复核
+
+删除商人简历、房产估值背景、《时辰之舞》分时段复述三条弱注；为确会误读的残酒俗称增加一条。保留衣物结构、称谓差异、被中文遮住的声音，以及必要的跨章回声。没有因陌生人名或地名一律加注。
+中文17页、对照33页均已渲染查看全部缩略校样；另放大检查来信页。每组中英文同页，未见越界、裁切、缺字或重叠；来信称呼原落在前页的问题已修正。自动核查覆盖中文、英文、夹注的全文与顺序、字号颜色、字体嵌入、页界及对读同页关系。自动核查不能代替本章的语义校读。
+
+本次成稿校验和：
+original.txt: 6d418c178771d589583f4b759dfc62855269e94c87535657c987b4d1d5aef2a8
+translation.txt: 3639f9a11a7c4715e0e9053998fe0ad5dbcbf1eedfae6c2752e3558e1606d8e4

@@ -1,0 +1,153 @@
+第七章校译记录
+2026-10-13
+
+底本、范围与排版
+逐段依据本目录 original.txt 独立翻译全部正文，保留 [ 7 ]、63 个报纸标题及全部空行段界；共 540 段。未增添底本没有的“Aeolus／风神”章题。56 条夹注；中文本 38 页，中英对照本 68 页。
+layout.json 的 63 个 heading_paragraphs 均已对照上下文逐一确认；大写台词、诗句和正文中嵌入的报纸名称不当作标题。标题沿用 10.5 磅宋体，以居中和留白区分；与下一组正文同页。
+parallel-segments.json 对第 44、101、149、289、328、409、496 段各设一处完整句子的已核实对译分界。源稿段落不拆；生成 546 组中英对读单元。第 295 段的五行打油诗、第 375 段的三行但丁引诗保留原行数与四空格缩进。
+
+译名与跨章承接
+沿用前章：斯蒂芬、迪达勒斯、布卢姆、莫莉、迪格纳姆、马丁·坎宁安、海因斯、内德·兰伯特、鲍尔、凯斯、威兹德姆·希利、沙山、林森德、金斯敦、沙湾、弗洛伦斯·麦凯布。原文 Mr Dedalus 仍只写“迪达勒斯先生”，不补西蒙。
+本章新增或再次固定：Myles Crawford 迈尔斯·克劳福德；MacHugh 麦克休；Lenehan 莱内汉；Nannetti 纳内蒂；J. J. O’Molloy J. J. 奥莫洛伊；O’Madden Burke 奥马登·伯克；Red Murray 红毛默里；Ruttledge 拉特利奇；Davy Stephens 戴维·斯蒂芬斯；Brayden 布雷登；Cuprani 库普拉尼；Monks 蒙克斯；Dan Dawson 丹·道森；Doughy Daw 面团道；Hedges Eyre Chatterton 赫奇斯·艾尔·查特顿；Wetherup 韦瑟勒普；Paddy Hooper 帕迪·胡珀；Jack Hall 杰克·霍尔；Magennis 马根尼斯；Seymour Bushe 西摩·布希；Kendal Bushe 肯德尔·布希；John F. Taylor 约翰·F. 泰勒；Gerald Fitzgibbon 杰拉德·菲茨吉本；Tim Healy 蒂姆·希利；Ignatius Gallaher 伊格内修斯·加拉赫；Skin-the-Goat 剥山羊的；Fitzharris 菲茨哈里斯；Kavanagh 卡瓦纳；Joe Brady 乔·布雷迪；Dick Adams 迪克·亚当斯；Gregor Grey 格雷戈·格雷；Tay Pay 泰佩；Blumenfeld 布卢门费尔德；Pyatt 皮亚；Chris Callinan 克里斯·卡利南；Gumley 甘利；Palles 帕勒斯；Pat Farrell 帕特·法雷尔；Nelson 纳尔逊；Anne Kearns 安妮·卡恩斯；Flo 弗洛；Antisthenes 安提斯泰尼；Gorgias 高尔吉亚。
+dayfather 为“日班之父”；报业 renewal 续登、par 短讯、puff 小吹捧；Gold cup 金杯赛，Sceptre 权杖，O. Madden O. 马登。已与第八章协调这些用语。
+the pensive bosom 统一“沉思的胸怀”，silver effulgence“银色光焰”；第八章复现时沿用。“让我们弯曲的烟”、Penelope 珀涅罗珀、Penelope Rich 珀涅罗珀·里奇已与第九章协调。不同语境中圣经常用译名与第三章造词中的“玛利亚”不强行归成一种写法。
+《自由人日报与国民报》《自由人周报与国民报》《晚间电讯报》《爱尔兰天主教报》《都柏林便士报》保留刊物属性；Freeman 在人物简称中随句法缩作《自由人日报》或“自由人”。
+
+声音、歧义、错误与照应
+1. 报纸标题保留各自的口吻：新闻摘要、古典演说、谜面、缩写、夸张双关都没有改成统一的说明性小标题。“？？？”仍是一个完整标题，K.M.A.、K.M.R.I.A. 的展开留到随后骂话落地之后的夹注。
+2. 第 44 段 M.A.P. 与 Mainly all pictures 的改读、第 63–75 段 Keyes／keys／House of Keys 的串连保留英文触点；“交叉的钥匙”既是广告图样，也通向自治的说法，不在注中替人物概括政治寓意。
+3. 第 83 段按原文断续嵌入 r、rr、ss、au、y 的自我检查。中文刻意不润平：“无一个 r 与伦比”等断裂是在模拟念句子又拆字母的活动。注列出实际英语单词，末尾 symmetry／cemetery 的近音另交代。没有替马丁·坎宁安补出一个标准谜面。
+4. 第 99 段 dayfather 不是职业神父。his daughter in the Bohemian Girl? 后的 Plain Jane 依“不起眼的姑娘”处理，不立一个真实名叫简的人。machine 未指明机器种类；有关真实蒙克斯女儿的打字员档案也不能证明小说此句必指打字机，因此保留“在客厅使机器”。
+5. 第 101 段 mangiD kcirtaP 按已经建立的中文姓名逆转为“姆纳格迪克里特帕”。保留布卢姆把出埃及改成进入“为奴之家”、将祷词与累加歌错接的记忆。正文的 lamb 不替他改回 goat；注中的歌曲正式内容则作《一只小山羊》。夹注不把零散希伯来词补成一段完整仪式。
+6. 第 114–118、157 段“沉思的胸怀”“银色光焰”“拱屁股”等让引用与讥笑可互认。overarsing 将 arse 塞进 overarching；保持其粗俗程度，不改成抽象“夸夸其谈”。拜伦的 Marathon 被人物故意换成 Xenophon，正文照译色诺芬。
+7. 第 159 段五指如耙已使 welshcombed 的动作可见，因此删去重复解释手指梳头的夹注；“威尔士梳法”保留造词的怪处。第 179 段 jigs 借“跳舞”说手抖，注只到酒后震颤，不追加疾病诊断。
+8. 第 181 段 Ohio 的长短长判断属于教授的听法，正文不以现代美国州名标准发音纠正。该句的地方笑话、军队故事来源并不稳定，注只解释 cretic 的格律，不选定一种未经坐实的历史。
+9. 第 248–289 段罗马／伦敦、拉丁／希腊、主／贵族、上帝／叫上帝等对立保留词根和大小称谓。教授的种族与帝国判断是人物演说，译文不把它转写成编者观点，也不替他缓和偏见。
+10. 第 295 段五行诗以休／头／透与双／忙近拟 AABBA；末行“这乔·米勒我看不透，你看透？”兼留眼镜和“看不出笑处”的话锋。乔·米勒不是现场另一个人，注只解笑话集代称。
+11. 第 303 段歌剧名与“几排铸钢”的英语谜底须凭原声音成立，中文完整译笑话而用最短注提供两个英语串。第 318 段 fresh of breath air 的换位作“一新鲜口的空气”，不修成普通的一口新鲜空气。
+12. 第 309 段“今天”的芬兰刺杀确与小说日期同日；未核实消息跨海传播到都柏林的具体时刻，不在注中断言人物不可能已知。第 328 段 Phoenix Park 的“一八八一”不改为正确的一八八二；真年在注中交代。
+13. 第 328、332 等段加拉赫的电报、标号、地图和牙疼的说法不替人物理顺。第 359 段英语回文逐字保留，注给中文意思；回文的字母次序可直接复核。第 360 段“王子街的老太婆”是报纸人格化，不另造一个实际女性。
+14. 第 374 段 mouth／south 等韵音保留英语和最小释义。第 375 段三行已译为宁／事情／寂静的近韵，同时注原韵 pace／piace／tace。不能把这里仅当但丁名句的意思而抹去前后押韵思路。
+15. 第 376 段仍保留 per l’aer perso、quella pacifica oriafiamma、di rimirar fè più ardenti 三个意大利语碎片，注给字面义与混接出处。三三起舞的姑娘也可联系《炼狱篇》第二十九歌；但颜色和来向经过斯蒂芬的再造，不把全部意象锁成一个等式。tomb／womb 用“墓 tomb 胎 womb”同时留义、留声。He saw／But I 的叙述层次转折没有统一改成第一人称。
+16. 第 380 段“当天的报纸”与本章两次仿《马太福音》的标题用相近结构；这句报纸改写早于《尤利西斯》，不宣称乔伊斯首次创造。第 388–389 段“耳朵的门廊”“两背兽”分别核回《哈姆雷特》和《奥赛罗》，不混成一个典。
+17. 第 392 段把《摩西》雕像说在梵蒂冈的错误留在人物话里。第 401 段演说的长条件句、if ever、deserved to live／deserves to live 回环保留，不拆成几句清楚的论文判断。stone、horn、beard、heart 后在第 433 段仍是“石”的连击。
+18. 第 426 段弯曲的烟取《辛白林》5.5末尾祭神语；第九章重复时共享“让我们弯曲的烟”。第 429 段按圣奥古斯丁《忏悔录》七卷十二章辨“恶不是实体”，不替斯蒂芬展开神学论证。
+19. 第 433 段 babemaries 译“护婴玛利亚们”，与第三章“两位玛利亚”能互相辨认。Beck 的词典、草稿证据支持 maries 的侍女义，但“玛利亚”的福音联想仍属可能阅读，不能把一个注家对词义的论证等同于排除全部圣经回声。本段注以“可指”表达；具体是哪几个妇人不定死。
+20. 第 441 段 expectorated／expected 作“咳望”，great future behind him 作“身后还摆着远大的前程”。错误是笑料，不能改成预期／面前。第 444 段 hosts 按集会人海，保留紧接的“几英里长的耳朵的门廊”倒置；Love and laud him: me no more 不补确定说话对象。
+21. 第 470 段以后两老妪故事让叙述、打岔、内语持续交错。第 488 段“看得见她们”、第 515 段“看见那意思”、第 531、533、536 段“我看出来了”保留 see 从看见到领会的重复。“独柄通奸者”不改成平直的独臂男人；注给纳尔逊的手臂与婚外恋，阴茎暗示留给措辞本身。
+22. 第 522 段 Poor／Rich 留下穷富联想，Penelope Rich 的锡德尼诗歌原型说标为通常的识别；不当作已经证实的现实恋爱关系。第 538 段标题以“残指”“痒难搔”“安妮钻”“弗洛绕”保留缩减数字／手指及钻营、扭绕的可疑双关，不指定唯一性行为。最后仍回到车辆和人群的声响，不加总结性解说。
+
+夹注核对资料
+以下核对的是注明的相关条目、原句或检索回传文字，不表示通读所涉整部著作。网络核查日期均为 2026-10-13。直接可由本章英文验证的拆词、回文、拼写、语码混合等另列为语言分析，不虚构外部出处。
+
+第 9 段，E.R.：新西兰国家图书馆，Observations on a surviving relic: the red pillar postbox，相关说明将 E.R. 展开为 Edward Rex。核读检索回传。
+https://natlib.govt.nz/blog/posts/observations-on-a-surviving-relic-the-red-pillar-postbox
+
+第 44、360 段，M.A.P.／Tay Pay：James Joyce Online Notes，Peter Fishback，Marshall 条，所引 Mainly About People 与 T.P. O’Connor 的说明。核读相关检索文字；没有声称读过刊物全部卷期。
+https://www.jjon.org/joyce-s-environs/marshall
+
+第 63、75 段：Keyes／keys 同音由原文核；马恩岛议会官方 House of Keys 条确认该院名称和众议院性质。本章不引入其现代选举资料。
+https://www.tynwald.org.im/about/house-of-keys
+https://tynwald.im/learn/House-of-Keys
+
+第 83、117、217、241、248、255、286、289、303、326、359、374、407、441、498、502、505 段：依据本章字形、语音和常见词义核实。unparalleled／embarrassment／gauging／symmetry；overarching／overarsing；Anno Domini；thank／vous；imperium romanum；Guinness／Genesis；Dominus／Lord；Kyrios 主格、Kyrie 呼格、eleison 祈使；Rose of Castile／rows of cast steel；press／pressgang；palindromes；mouth 系列；Muchtibus／Thankyous 的拟拉丁后缀；expected／expectorated；kiss my arse／kiss my royal Irish arse；nulla bona／raise the wind。法语 Pardon, monsieur／Entrez, mes enfants 的释义亦属直译。未将这些语言分析伪称为已追到某位作者首次创造。
+
+第 99 段：JJON，Monks，核读有关 day-father、印刷工人代表及女儿的档案说明。条目引 Typographical Circular 1922、Irish Independent 1922-10-02、Royal Commission on the Press 1962 等材料；本次核到的是条目所引内容，未逐一调阅原档扫描。
+https://www.jjon.org/jioyce-s-people/monks
+
+第 101 段：Sefaria《出埃及记》20:2、《申命记》6:4、《逾越节哈加达》Chad Gadya，核读相关经文与累加歌词。逆序名字和右向左阅读关系可由本章排字与所显示希伯来文直接核；歌中为 goat，布卢姆记成 lamb。
+https://www.sefaria.org/Exodus.20.2?aliyot=0
+https://www.sefaria.org/Deuteronomy.6.4?with=all
+https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Chad_Gadya
+https://www.sefaria.org/Pesach_Haggadah?nav_query=Haggadah
+
+第 110 段：Green’s Dictionary of Slang，ghost walks 条，核读戏班发薪义与所列历史书证；不采用未经核实的哈姆雷特演员索薪起源传说。美国国会图书馆馆藏材料检索回传亦见 salary day 的直接释义。
+https://greensdictofslang.com/entry/lbirxby
+https://tile.loc.gov/storage-services/service/afc/afc1928004/afc1928004_631/afc1928004_631.pdf
+
+第 118 段：拜伦 The Isles of Greece，Matthew Arnold 所编 Poetry of Byron 扫描中的原诗文字，核读有关 Marathon 的一节；只据此辨认被置换的人名。
+https://upload.wikimedia.org/wikipedia/commons/1/17/Poetry_of_Byron%2C_chosen_and_arranged_by_Matthew_Arnold_%28IA_poetryofbyroncho00byrorich%29.pdf
+
+第 179 段：Charles Peake Ulysses Seminar，2015-05-01 关于 Aeolus 348–385 的讨论，核读检索回传中的 Stanislaus Joyce, My Brother’s Keeper, p.118 引文，手因饮酒而 jiggy。此处是经研究讨论转引的回忆录证据，未查原书该页；因此注释采用一般震颤义，不作“谵妄性震颤”的严格医学断定。Farmer/Henley 在已查看的 Jig 条中未检出所求临床释义，不能用该条冒充已核实的支持。
+https://charlespeakeulyssesseminar.wordpress.com/2015/05/04/seminar-1-may-2015-aeolus-348-385/
+
+第 181 段：JJON，A perfect cretic!，核读相关讨论；可核长短长的节奏和出处有争议，故不固定 Ohio 之战的真实地点或军种。
+https://sites.google.com/site/jjonlinenotes/joyce-s-allusions/ohio-1
+
+第 280 段：英国 National Army Museum，A timeline of Ireland and the British Army；Royal Irish Virtual Military Gallery，The Flight of the Wild Geese，核读离开爱尔兰赴大陆军中服役的说明。夹注不展开战史年代。
+https://www.nam.ac.uk/explore/timeline-ireland-and-british-army
+https://www.royal-irish.org/events/the-flight-of-the-wild-geese
+
+第 295 段：John Camden Hotten，The Slang Dictionary 扫描检索原条，明确给出 I don’t see the Joe Miller of it；Dictionary.com 的 Joe Miller 条与 Murray’s New English Dictionary 历史条互核笑话集代称，未把米勒本人的传记写进注。
+https://upload.wikimedia.org/wikipedia/commons/5/5c/The_slang_dictionary%3B_%28IA_slangdictionary00hott%29.pdf
+https://www.dictionary.com/browse/joe-miller
+https://wehd.com/50/Joe_sb2.html
+
+第 309 段：芬兰国家博物馆，Eugen Schauman’s shirt，相关馆藏叙述明确刺杀为 1904-06-16。核读回传相关文字，未取得可说明都柏林获讯时刻的当日报纸。
+https://www.kansallismuseo.fi/en/digitaalinen-kokoelma/aarteita-suomen-kansallismuseon-nayttelyissa/suomen-tarina/eugen-schaumanin-1875-1904-paita
+
+第 328 段：Tim Healy 回忆录 Letters and Leaders of My Day 第十二章，Chapters of Dublin 转录，核读 1882-05-06 的纪日；并与同站 The Phoenix Park Murders 条互核。正文仍作 1881。
+https://www.chaptersofdublin.ie/THealy/healy12.htm
+https://www.chaptersofdublin.ie/General/phoenixmurders.htm
+
+第 375、376 段：但丁 Inferno V，Wikisource 的旧版正文相关三行；Treccani Enciclopedia Dantesca，oriafiamma 条，核读《天堂篇》三十一歌用语与“金焰旗”的词源解释；研究论文 Exile and Exodus: Dante, Wilde… 的相关回传段确认三部混接。未据该篇的解释把斯蒂芬的改写恢复成完整但丁场面。
+https://it.wikisource.org/wiki/Commedia_%28Lana%29/Inferno/Canto_V
+https://it.wikisource.org/wiki/Pagina:Commedia_-_Inferno_(Tommaseo).djvu/172
+https://www.treccani.it/enciclopedia/oriafiamma_%28Enciclopedia-Dantesca%29/
+https://olh.openlibhums.org/article/11647/galley/33658/view/
+
+第 380 段：JJON，Sufficient for the day，核读全文相关论证与所引 1899 年的 Henry Blake Fuller 文例，确认《马太福音》6:34 的报纸变体早有使用。
+https://www.jjon.org/joyce-s-allusions/sufficient-for-the-day
+
+第 388、389、426、452 段：Folger 莎士比亚原文，分别核读《哈姆雷特》1.5 灌毒／耳朵、《奥赛罗》1.1 两背兽、《辛白林》5.5 最后一段祭烟、《麦克白》5.8 Lay on Macduff。中文引句自行译自原文；这里只给本章理解所需片段。
+https://www.folgerdigitaltexts.org/Ham/parts/Ghost.html
+https://www.folger.edu/explore/shakespeares-works/othello/read/1/1/
+https://www.folger.edu/explore/shakespeares-works/cymbeline/read/5/5/
+https://www.folger.edu/explore/shakespeares-works/macbeth/read/5/8/
+
+第 392、401 段：罗马市旅游官方 Basilica San Pietro in Vincoli 条，核读《摩西》所在教堂和角的解释；Douay-Rheims 与 KJV《出埃及记》34:29 对读核 horned／shone。lex talionis 为法律拉丁语词义，注不引申现代法律建议。
+https://www.turismoroma.it/en/places/basilica-san-pietro-vincoli
+https://www.biblegateway.com/passage/?search=Exodus+34%3A29&version=DRA%3BKJV
+
+第 429 段：New Advent 的 Augustine, Confessions, Book VII, chapter 12，核读第 18 节论败坏、善与实体的相关段落。
+https://www.newadvent.org/fathers/110107.htm
+
+第 433 段：JJON，Harald Beck，The two maries，核读条目对 English Dialect Dictionary 中侍女义、草稿 damsels 改 maries、后增 babe 的说明；其读法有确切词语证据。条目引《出埃及记》2:1–10 法老女儿及侍女；“玛利亚”作为姓名所携福音回声则是可能解释，不与词典释义混列为已证实身份。第三章原注的福音说由总校另审，此章保留两端而不排他。
+https://www.jjon.org/joyce-s-words/two-maries
+
+第 444 段：耶鲁大学 Gilder Lehrman Center，Selected Letters from O’Connell’s private correspondence，核读回传的 1843 年塔拉与穆拉马斯特集会说明，不引用有争议的人数；阿卡夏注核对 Theosophical Society in America 的 Quest 条目所述 Blavatsky 记录观念，仅报告该学说的主张。
+https://macmillan.yale.edu/glc/selected-letters-oconnells-private-correspondence
+https://www.theosophical.org/publications/quest-magazine?start=850
+
+第 461、529 段：The Latin Library，Virgil Aeneid II.325 与 Eclogue I.6，已打开核读拉丁原句；fuit Ilium 与 deus nobis haec otia fecit 的释义据原文，不另立故事寓意。
+https://www.thelatinlibrary.com/vergil/aen2.shtml
+https://www.thelatinlibrary.com/vergil/ec1.shtml
+
+第 472 段：罗马市旅游官方 House of Vestals 条，核读侍奉与守贞说明；灶神名称另与通行 Vestal Virgin 条互核。注不展开惩罚制度。
+https://www.turismoroma.it/en/node/51931
+https://en.wikipedia.org/wiki/Vestal_Virgin
+
+第 478、530 段：USCCB《马太福音》25:1–13、《申命记》34:1–4，已核读十童女与摩西登山不得进入的原文。
+https://bible.usccb.org/bible/matthew/25
+https://bible.usccb.org/bible/deuteronomy/34
+
+第 510 段：Waxies’ Dargle 百科条的历史说明与 Robert Gogan 所述低廉近郊出游互核，确认 waxies 为鞋匠；本次未查 Eilis Brady 1969 原书或 1898 Notes and Queries 原页，因此资料级别为可追索二手解释，未把其细节当第一手档案。正文仍译“蜡匠”保留叫法，夹注解职业与出游反差。
+https://en.wikipedia.org/wiki/Waxies%27_Dargle
+
+第 514 段：Royal Museums Greenwich，Emma Hamilton and Lord Nelson；Nelson, Navy, Nation Gallery，核读已婚身份、恋情与右臂截除的说明。“独柄”的双关是本章修辞判断，不能把它等同于博物馆事实。
+https://www.rmg.co.uk/stories/maritime-history/emma-hamilton-lord-nelson
+https://www.rmg.co.uk/national-maritime-museum/attractions/nelson-navy-nation-gallery
+
+第 522 段：Poetry Foundation 的 Philip Sidney 条与 Astrophil and Stella 63 讨论，核读 Penelope Rich 通常被识别为 Stella 原型的表述；注保留其推断性质。
+https://www.poetryfoundation.org/poets/philip-sidney
+https://www.poetryfoundation.org/articles/69720/philip-sidney-astrophil-and-stella-63-o-grammar-rules
+
+未作确定化的事项
+Ohio 地方笑话的完整历史出处；蒙克斯女儿所用机器的种类；babemaries 的全部圣经层次；斯蒂芬脑中部分人称与引句的归属；结尾标题诸性暗示的单一解答，均保持开放。未查得第一手材料的转引已在上文注明，没有以猜测填满夹注。
+
+校验记录
+original.txt SHA-256：d2ddee4a99c9feb1beb8d79ab98a800055058f33a6ec1ebe62d5e2ca97ba667e
+translation.txt SHA-256：bdc6881a291c989300228e2a84190c0ce02600fb01aa080a4e9a9a3e018a0dc2
+已运行 scripts/build_chapter_pdf.py 07；scripts/verify_chapter_pdf.py 07 两版通过：全文流与原文／译稿一致，字体嵌入，边界，逐组中英同页，标题不悬页。
+2026-10-15 收尾复核：重新运行 scripts/verify_chapter_pdf.py 07，两版继续通过。逐页检查中文本 38 页及对照本 68 页的八张接触表，未见溢出、遮盖、缺字方框、标题孤悬或中英错配；另以 120 dpi 复看对照本第 37 页的五行打油诗、第 46 页的意大利语及三行引诗、中文本第 26 页的引诗与夹注，行距、颜色、缩进与字号清楚。
+跨章末检将 Bachelor’s Walk 由“巴彻勒滨河路”统一为第八、十、十一章的“单身汉步道”，使同一路段与第十一章 bachelor 的词戏保持可认联系。两版重建、重验通过，页数仍为 38／68，546 对读组。与修改前各页提取文本相比，只有中文第 15 页、对读第 27 页改变；两页重新以 120 dpi 渲染并复看，无标题孤悬或溢出。上列译稿哈希为此末版。

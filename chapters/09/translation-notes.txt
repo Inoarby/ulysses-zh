@@ -1,0 +1,168 @@
+第九章校译记录
+更新：2026-10-13
+
+底本、范围与处理
+
+逐段依据本目录 original.txt 翻译，483 段（包括章号），无摘要、合段、删句。源文为仓库保留的 Project Gutenberg 文本；没有以通行校勘本默改原文。本章不另加通行章名。translation.txt 内有 52 条选择性夹注；此记录供查核，不能当作人物论说的事实担保。
+
+莎士比亚的婚姻、外遇、剧中兄弟与亲兄弟的对应，以及父亲身份的理论，属于斯蒂芬在场辩论、即兴塑形、内心反驳的不同层次。正文保持他自己的疑问、断言及随后“不信”的答复；不将心理推演写成莎翁传记定论。保留贝斯特先说 by、后改 for；保留斯蒂芬的天象年代、船舶归来等错置。女性、犹太人等受到的污名化表达依说话者保留，不能移作叙述者或译者立场。
+
+保留外国文字有两种处理：对已经附有当场英文释义或有字母、词形双关的地方保留原字串（例如 A.E.I.O.U.、Hughes/hews/hues、Egomen）；若原文的戏仿主要依靠礼仪或戏剧口吻，则直接译出其功能。后者包括 Ora pro nobis、Requiescat、Sufflaminandus sum、若干拉丁过渡词。单词仍在英文对照中可查。德语、希腊语转写的短注不冒认未知作者。
+
+source 第198段只有 [Illustration]。译文保留 [插图] 占位，短注指明原处的 Gloria 圣歌谱；没有从记忆绘制谱面，也未把别版的图像混入这一纯文本底本。希望研究谱面的读者仍需查有图版本。这是底本实质限制，不能称两版 PDF 已复原乐谱。
+
+译名与跨章照应
+
+沿用第一至六章已建立的斯蒂芬·迪达勒斯、巴克·穆利根、金奇、马拉基、海恩斯、克兰利、康米、迪西、布卢姆；AE 对应乔治·拉塞尔，正文 A.E./A. E. 按局部原文标点保留。与第七章协商，Penelope 一律“珀涅罗珀”，包括珀涅罗珀·里奇，避免同段 poor Penelope / Penelope Rich 被不同译名遮住。新名约翰·艾格林顿、莱斯特、贝斯特已经与主代理确认。人名被合并、扭曲时不恢复为正常姓名：麦吉艾格林约翰、贝斯特艾格林顿、第二艾格林顿、贵格莱斯特、布谷穆利根等照原文显出变形。
+
+Ann Hathaway 安·海瑟薇；Hamnet 哈姆内特；Hamlet 哈姆雷特；Will 威尔；William 威廉；Richard 理查；Edmund 埃德蒙；Gilbert 吉尔伯特；Burbage 柏比奇。John o'Gaunt 译“冈特的约翰”，不能仅译成“憔悴的约翰”而丢掉姓名。
+
+作品统一：《哈姆雷特》《李尔王》《奥赛罗》《佩里克利斯》《暴风雨》《冬天的故事》《辛白林》《皆大欢喜》《无事生非》《一报还一报》《爱的徒劳》《科利奥兰纳斯》《维罗纳二绅士》《温莎的风流娘儿们》《理查三世》《约翰王》；报刊《家园》《电讯报》的简称与已译章保持。
+
+具体照应：Agenbite of inwit“良心的反噬”，保留315段附加的 remorse 释义；I paid my way“我一向自己付账”；form of forms“形式的形式”；bullockbefriending“帮牛的”；fleshpot of Egypt“埃及的肉锅”；Liliata rutilantium 保留首章原字串；offend“冒犯”；末句 And let our crooked smokes 与第七章共用“让我们弯曲的烟”。“静止／曾活过”“名字有什么要紧”“美的棕榈枝”“第二好的床”“意志／遗嘱／威尔”等本章复现不为求雅而换词。wild oats 在128、173段统一“风流种”。
+
+语体、歧义与减注
+
+图书馆员的舞步、嘎吱、贵格／颤格等复沓，贝斯特反复“你知道”，艾格林顿的裁断，穆利根的粗鄙戏语，斯蒂芬的表演与自诘，分别保持。未给内心声音另标说话人；不把“他”“他们”“自己的”“另一个家伙”一律实名化。325段 nephews with grandmothers 原文关系异常，保留“侄儿与祖母”，不私改成孙子或侄孙。381段“以扫的声音”未按《创世记》的“雅各的声音”代改。358段的星／云柱、393段创世日次也不替人物校正。
+
+276段保留仿史诗的分行、缩进及第二好的／床的断裂；277段独立 Punkt；278段保留六行词序拆装。342段开始的剧本式人名标签，音乐速度词，459段假剧名及464段演员表都保留其形式。把广告46段与剧名459段按展示块四空格缩进，以使对照版英文也保持源文行界。
+
+夹注逐条复核说明（以下数字为原文1基段号）
+
+网页在2026-10-13查核。“检索正文/摘录”表示检索工具已返回有关段落，不表示浏览完整书籍或PDF。Wikibooks 是可追溯的协作注释，不替代原典；涉及解释时以下说明具体依据与限度。没有把搜索摘要中的全部论断一并采纳。
+
+9 拉·帕利斯：注释只说明不言自明的废话这一歌谣传统，不陈述歌谣形成的唯一历史。核见明治大学论文检索摘录所引歌谣及相关研究：
+https://meiji.repo.nii.ac.jp/record/7197/files/kyouyoronshu_65_1.pdf
+https://www.index-journal.org/issues/monument/the-slapstick-routine-of-parisian-monumentalism-robert-desnos-and-jacques-andre-boiffard-s-pygmalion-and-the-sphinx-1930
+
+14 ollav：译作音名并补最高等级，避免误作普通人名。词典释义核见：
+https://www.wordnik.com/words/ollav
+https://en.wiktionary.org/wiki/ollav
+
+15 但丁句：Wikibooks 177 注明《地狱篇》21.139，是恶魔拿屁股作喇叭，不能说成撒旦在但丁原句中亲自如此。前两行同时拼接《失乐园》不同处的长度与天使泪水，本章故意拼错，不整理成整齐引文。
+17 四块绿田／犹大：前者是《胡利汉家的凯瑟琳》的国土形象，后者为《马太福音》26:49问安。只作本段必要提示，未把克兰利、穆利根等各自钉成犹大。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/177
+
+27 H.P.B.：查神智学会官方简史，确认为 Helena Petrovna Blavatsky、现代神智学运动和学会的共同创立者。末句元素精灵仍承接下一段猥亵的“露出”戏语，不把它说明成真的灵体现象。
+https://www.theosophical.org/component/content/article?id=1040
+42 auric egg：查该传统自身百科，是容纳人的诸原则、卵形的灵质包层，并不只是通常“气场”的同义词。短注据此改为“包容人的身心诸层”。
+https://theosophy.world/index.php/encyclopedia/auric-egg
+
+34 peripatetic：走动与逍遥学派两义；“上帝：街上的声响”回查第二章原文、译稿。夹注只指出实际词语照应。
+90 entelechy：沿亚里士多德“现实活动、实现”的术语义，音译保留其异质；“因为在……底下”保留原句未补足处，不把不完整内心推理改写成完整教科书定义。
+94 A.E.I.O.U.：与此前一镑债款及在场A.E.互证；IOU是欠据缩略语，字母串同时保持五元音，不改成纯中文。
+
+49 吉卜林：为布尔战争军人及家属募捐的诗歌，题名把 Le Distrait 的“心不在焉”接入下一段战争议论；核见吉卜林学会资料。
+https://www.kiplingsociety.co.uk/readers-guide/rg_numberthree1.htm
+https://www.kiplingsociety.co.uk/wp-content/uploads/pdf/KJ382.pdf
+53 “屠夫之子”：旧传与现代记录分开。莎士比亚出生地信托明确其父的制手套、皮革工身份；短注不把本段当作已证家世。
+https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/william-shakespeares-family/john-shakespeare/
+
+67 场景构成：耶稣会对《神操》的说明，先在心中构成地点、人物、感官，支撑斯蒂芬刚才布景后的自我求援。
+https://www.jesuits.org/stories/what-the-rosary-and-st-ignatius-spiritual-exercises-have-in-common/
+70 Hamnet/Hamlet：两名当时可交换使用，不能从名字相通反推斯蒂芬的父子对应为史实。
+https://www.folger.edu/blogs/folger-spotlight/collection-connections-hamnet-by-maggie-ofarrell/
+79 noble：旧金币与“高贵”之词义，保留心中对话的古戏剧口吻，不重算先令币值，因为非此处关节。
+
+104 苏格拉底：第欧根尼·拉尔修《名哲言行录》2.18载产婆母亲，2.26载两妻及顺序不同的传说。米尔托不能不加限定地当作确定履历。Sinn Fein 是此处故意的时代混搭。
+https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/2/Socrates%2A.html
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D2%3Achapter%3D5
+107 两注：Romeville 是伦敦黑话，核《1811俗语词典》转录；Ann hath a way 则是源文本身直接拆姓名，will同时留下威尔。没有把它误注成十四行诗145的原句。
+https://words.fromoldbooks.org/Grose-VulgarTongue/r/romeville.html
+119 Peter Piper：沿p连声的绕口令，源文已念乱；保留复沓而不纠正为正常绕口令。
+
+126 两指错觉：亚里士多德《形而上学》卷四第六章直接讨论交叉指感觉两物与视觉一物的冲突；《哈姆雷特》5.1掘墓人的argal实见原典，中文作故作推论的“所以焉”。
+https://classics.mit.edu/Aristotle/metaphysics.4.iv.html
+https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/1/
+129 Cordoglio：“悲痛”使Cordelia/Lear与Lir的爱尔兰故事滑接；注释说父名及女儿形象叠合，绝非声称两名女儿本来同名。
+
+144 Christfox：贵格会福克斯与基督的复合，也穿入莎士比亚的逃亡及家庭图景。“新居”指New Place。核Friends Journal讨论，并与本段原文互证；不将所有代词解成单一人物。
+https://www.friendsjournal.org/2003068/
+154 爱尔兰语句／158 蛇怪：Wikibooks186给两句的译义，并列《宝库》的法文与意大利译文。原书为法语，故夹注明确说“意大利译本”；人物记忆措辞也非原典逐字。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/186
+173 Bacon熏肉及Tir na n-og：姓名食物双关在原句可见；青春之国核187。保留底本空格及拼写，不改现代爱尔兰语。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/187
+177 三女名：各剧人名与海、奇迹、失去的拉丁词根义。本段已经逐一释义，夹注仅让中文读者知道命名的机关及三剧对应。
+
+180 阿奎那：Joyce引文压缩、接缀《反异教大全》1.91，并不逐字等同该书拉丁正文。已把夹注改成“节引”，译出残句后保留中断。Noonan讨论恰有两文的对勘，可作复核线索；拉丁文本亦查到相关句。
+https://www.tha.de/~harsch/Chronologia/Lspost13/ThomasAquinas/tho_scg1.html
+https://www.nybooks.com/articles/1985/02/14/its-love/
+188 《奥赛罗》的双背兽、信经的同体用语，在本段成为灵魂及父子论说，不在注里归一真假造物主。鬼魂的耳毒及奸情叙说另直接核《哈姆雷特》1.5。
+https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/5/
+195 德语按词义译，无可靠作者出处，未加归属；198音乐占位的Gloria与《Liber Usualis》Mass IV信息核189，未声称实际翻制谱图。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/189
+
+207 D.B.C.：都柏林烘焙公司及茶室，查《爱尔兰人物传记辞典》的建筑师条目所述茶室工程。
+https://www.dib.ie/biography/beckett-george-francis-a0529
+213 Hughes/hews/hues、214 Wilde/wild：从《W. H.先生的肖像》的故事机制及源文语音解释，不宣称真有该演员或该诗作身份结论。保留贝斯特被更正的过程。
+258 威廉先于理查：源文明说Manningham的故事；注释只说明历史序列与性笑话的双层，未把逸闻当莎翁行为的已证事实。
+259 法语性语：Minette在此为舔舐女性生殖器的用语，采用直接、不过度医学化的中文；核193。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/193
+262 Anycock：Alacoque本人姓名核教廷资料；拆名猥亵是小说文本可见的穆利根戏改，不改原文当时的Blessed为后来Saint。
+https://www.newadvent.org/cathen/09653a.htm
+https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/10/24/241024b.pdf
+
+277 Punkt：保留德文字形，注两义，不只译“句号”而丢掉条目之义。核195，并查遗嘱条款中Item；两义如何互相发挥仍让读者判断。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/195
+282 Best：姓名字面“最好”，本段角色的第二好、下一段的better因此仍连贯。
+285 亚里士多德与内尔·格温：本段先用Stagyrite指亚里士多德，再把英王情妇名塞入古代遗嘱。注仅拆开两个时代，不认同人物关于莎翁的类推。
+296 Sea Venture：船在百慕大遭难，不能像人物所说整船回国；查Jamestown官方历史。守门人equivocation对应《麦克白》2.3。其他歧视、时代比附与传闻照原文，不在夹注逐一审判。
+https://historicjamestowne.org/history/william-strachey/
+297 mingo：拉丁动词要项，核196的词形；按底本次序保留，不重排成另一种词典惯例。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/196
+306 爱尔兰两句：吻我屁股／我心之脉，核197；第一句的骂义不净化成普通亲吻。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/197
+311 Will：本章反复的名字／意志／遗嘱三义；中文不能三个都同字，故首次集中转义处补一短注。
+
+320 但丁及amor matris：但丁《地狱篇》第一句只译必要部分；后者回查第二章同一属格的双向关系。人物对写作年代及父亲年纪的说法未据传记挪正；“自觉怀孕”也只传Calandrino的被愚弄状态。
+330 候选作者串名与撒伯流：把Rutland、Bacon、Southampton分辨出来，不替人物挑出“真正作者”；父子同一是其三一论争语汇，不与325段的生理陈述混成译者结论。
+351 冈特、拉丁长词、仙后座：直接核《理查二世》2.1的Gaunt/gaunt姓名戏语；Folger讨论《爱的徒劳》长词的复合和卖弄；夹注只说围着尊荣叠字，避免把复杂词形假译成一个确定格义。仙后座W形对应William首字母；出生、恋爱及熄灭年份故意错置，353段自我提醒不能删。已删除夹注中提前宣布“下文拆穿”的话。
+https://www.folger.edu/explore/shakespeares-works/richard-ii/read/2/1/
+https://www.folger.edu/blogs/shakespeare-and-beyond/inkhorn-controversy-latin-greek-english-words/
+https://www.folger.edu/blogs/folger-spotlight/dramaturgs-notes-loves-labors-lost/
+356 希腊语及意大利语：核202。Autontimorumenos的形式不标准，保留；sua donna/S.D.可滑至斯蒂芬姓名首字母，正文不扩写S.D.为某个确定对象。Gelindo语的来源没有确定，未造出处。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/202
+377 nuncle／两贵亲：莎剧弄人叔爹之称与剧名；《两贵亲》的作者问题不影响这一局部词语机关，未展开传记。
+390 cuckoo/cuckold/Buck/Cuck：声音链是原文可见的双关；只注中文无法一字贯通部分。
+399 婚姻禁令：《哈姆雷特》3.1原场合指向克劳狄斯；没有把这个指向硬套为图书馆中某一个人。
+https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/1/
+407 Egomen：Wikibooks205列希腊语、拉丁校改等可能。底本Egomen保留，夹注给两种希腊读法并明确不确定，未默改成Egomet，也未把Other chap指认上帝、撒旦或编辑。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/205
+420 French letters：文学与避孕套双义；后义直接查Cambridge词典，保持笑话仍落在穆利根话里。
+https://dictionary.cambridge.org/dictionary/english/french-letter
+464 假演员表：Tostoff/toss off释读见Karl Chircop论文检索摘录；Pole/杆子属字面多义；crab确可指阴虱，核词典。删除未经稳妥核准的“鸟、石都表示男性器官”的概括。原有阴虱与性病的概念不互换，不采用个别论文摘要的医学混称。
+https://art.torvergata.it/retrieve/e291c0d3-6f2f-cddb-e053-3a05fe0aa144/TESI%20-%20Karl%20Chircop%20-%20PDF%20-%20VERSION%20-%205.pdf
+https://www.dictionary.com/browse/crab-louse
+
+其余查核与限度
+
+Mallarmé原文（Hamlet et Fortinbras）核Wikibooks179所录法文，44段贝斯特当场译语没有无故补入“散步”；46段保留完整四行广告。178段 L’art d’être grand...照Gutenberg，不按后来改正版本补père。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/179
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Scylla_and_Charybdis/188
+
+302段友谊拉丁语对应《反异教大全》3.125.6，核Wikibooks197所引原文；308段的乱伦、感情吝啬之解释仍归斯蒂芬。315段宗教小册子书名带讽刺，其作者归属存在时代问题，不在夹注贸然指定Spurgeon。364段Pater ait对应奥维德伊卡洛斯故事，核202所列《爱的艺术》2.89–92及《变形记》8.227–230，不在本文把叙事人称补全。
+
+“第二好的床”遗嘱条款确实可查；婚床惯例、遗产法律及夫妻关系不能仅由这一条得出定论。莎士比亚出生地信托对婚床的解释本身也是解释，正文不反向改写斯蒂芬；英国国家档案馆说明遗嘱主要处理财产，亦不能将未提姓名等同无感情。
+https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/second-best-bed/
+https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/william-shakespeare-life/
+
+Wikibooks查到空页或访问失败的条目未作为已读证据；本记录不借不可访问的注页宣称完成原典查验。个别通用词义与原文内部可验证双关依据译者语言判断列明，并非每条均以外部引文代替独立判断。
+
+分段及排版
+
+parallel-segments.json 在107、128、186、188、258、296、308、315、320、351、385、393共12个长段内设16处经过逐句对齐的分界。源文原段界完整保留；一段内部只在完整意义单元后暂分中英配对。188段为中文句法把“一直随他同行”放在列举之后，锚点因此与英文cinquespotted句末对应。
+
+layout.json 令277、278段另起相邻诗体组；276段的16行遗嘱戏仿自身保持完整。46段广告、459段戏题和464段演员表按展示行排，不挤成散文。中文正文宋体10.5 pt，夹注8 pt、#A66F73；英文Georgia 9.5 pt、#929CA6，原文斜体保留。两版均不含旁栏导读，本章任务为全文译本及中英对照本。
+
+验证记录
+
+build_chapter_pdf.py 09：中文41页；对照76页、498组中英阅读单元；52条夹注。
+verify_chapter_pdf.py 09：两版全文流、注释流、字体字号及颜色、嵌入字体、页界和同页中英配对通过。语义人工复核覆盖483段，自动完整性检查不能替代该复核。
+source SHA-256: 6f840f557c1779fb63bc5cad9c31d5b9f48de3215095552bbb628f76eef61b11
+translation SHA-256: 7551e03f534f933ddea6c57cc67d751035650b28668db0421b2ccf6f7a9b336a
+
+视觉检查见最终补记；临时渲染、接触表与核对辅助文件不作为出版物，不提交到Git。
+
+视觉检查补记（2026-10-15）
+对当前两版PDF重新运行完整验证：中文41页、对照76页及498组配对全部通过。以65 dpi渲染117页并逐页查看八张接触表，未见裁切、重叠、缺字方块或失序；另以120 dpi检查对照第43页的16行遗嘱诗体、独立Punkt及第57页的舞台标签、长拉丁词与天象夹注，字号、留白、诗行及颜色均清晰。视觉检查对应上列未改动的译文校验和。
+

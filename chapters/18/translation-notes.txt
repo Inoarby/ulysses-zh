@@ -1,0 +1,121 @@
+第十八章校译记录
+2026-10-15
+
+一、版本与交付范围
+
+本章以本目录 original.txt 为唯一翻译底本。保留原有 11 个空行段：章号、八个连续内语长段、末尾城市署名、写作年代。没有另加“佩涅洛佩”章题，也没有把工作时的 159 个对读单元另立为正文段落。中文本与对照本均保留八段内语的连续运行；正文只在原来两处句末保留句点，必要夹注与编者标记具有自己的编辑标点。
+
+本出版稿并非无删节全译。少量涉及未成年时期性化细节的文字，以及与这一阶段相连而确日未明的早年求爱回忆，采用清楚可见的非露骨【编者概述：…】。其余文字按原文翻译。17 个编者标记分布于 14 个工作单元，涉及原段 3、5、6、7、8、9；标记本身以正文大小保留括号和身份，不伪装成莫莉的话或普通译注。对照英文同范围使用 [Editorial omission: ...]，由 source-overrides.json 的出版层提供；original.txt 及全书 ulysses.txt 完全未改。英文出版层逐段绑定原段 SHA-256，分段锚点针对实际出版文字。读者可据本记录明确区分原作、翻译、注释和编者概述。
+
+二、声音与连贯方式
+
+1. 全章由莫莉躺在床上的感觉、抱怨、盘算、回忆和引句交织而成。保留重复、漏主语、悬空词、忽然转向、人物名字的迟到和时间的来回折叠，不把每次联想改写成完整叙事。她的评价、成见、知识错漏仍属她的内语。
+2. 首句与终句 Yes 统一用“是的”；中间根据口吻保留重复的“是的”，没有为了避免重词改成多种书面同义词。末段的花、太阳、海、山、玫瑰和“是的”保持复现。最后的编者处理仅限局部身体细节，拥抱、心跳、末尾全部 yes 与句点均保留。
+3. 不自行给连续的 he、him、her 标上人名。工作单元 13 的 thinking of his fathers 译作“想的是他父亲的”，不把无撇号形式武断定作几个父亲，也不补出原文悬空的宾语。130 的 hed be 11 用“他该十一岁了”，保留推算／反事实语气，不指定此刻的他。
+4. 粗话、身体感受、欲望、嫉妒和对男性的讥刺，不统一改成文雅抒情。涉及成人的露骨内容照原文；必要的出版处理详见第三节，不能据之推断其余成年段落也被柔化。歌唱的拖音、广告和书信的套语、礼貌西班牙语，分别保留其听觉与语域。
+5. 不给书名和引句一概补书名号、引号，因为莫莉的思绪并不这样分栏。外语有时直接进入中文，必要时以短注解锁。数字有时写成中文以保持阅读流动，没有据数字将时刻、价格或年龄推算擅自改正。
+6. 工作单元只为人工对译和对照排版服务。20/21 把 and down as far as possible 移回已经译到它的单元；122/123 把 I saw on him 移回上一单元；143/144 把最后一个完整意念移到 144。各组拼接后的英文与原段规范化空白后逐字相等，没有跳过或调换原文。中文 142/143 恢复原文先问“他们全会在哪儿”再接条件的倒装。
+
+三、编者处理范围与年龄依据
+
+年龄依据首先来自小说自身：第十七章婚姻记录列莫莉出生日期 1870-09-08，结婚日期 1888-10-08。第十八章马尔维回忆中的西班牙幼王诞生、直布罗陀生活与十八年以后现在时相互照应；第十八章另有明确“十岁”与女儿年龄十五的线索。不能从“婚前”一词推出所有求爱场景都必然未成年：十八岁生日与婚期之间还有一个月，若无确日，以下如实标作相关早年求爱回忆及审慎处理，绝不伪称每处日期已经考定。没有将人物暗中改成成年人。
+
+以下单元号用于本次人工对译定位；原段号包含章号。范围只给不露骨的定位，不重述被处理的细节。17 处中文标记与英文标记逐处配对。
+
+原段 3：
+— 单元 28：从 begging me to give him 起，到 that was the evening 之前，概述早年求爱中的一项性化请求；此前的成人议论与其后的手套亲吻保留。
+— 单元 30：从 drawers drawers 起，到 O Maria Santisima 之前，同一早年求爱回忆中的进一步请求概述；尾部感叹保留。
+— 单元 31：从 and beseeched 起，到 and father waiting 之前，概述同一雨中亲密回忆的性细节；雨、牙齿和父亲等晚饭保留。这三处的阶段判断来自连贯回忆，不把婚前自动等同于确切十七岁。
+
+原段 5：
+— 单元 66：从 my shift drenched 起，到 and the bugs 之前，概述直布罗陀少女生活中的性化身体描写。此前她在现在床上调整毯子和回想炎热、此后臭虫蚊帐与离别的叙述保留。
+
+原段 6：
+— 单元 77：第一标记从 it never entered my head 起，到 what did I tell him 之前；第二标记从 I got him excited 起，到 he couldnt count 之前。首次亲吻、少年情人、虚构婚约仍保留；花被弄坏这一非露骨事实明确置于第二编者概述内。
+— 单元 78：从 I had that white blouse 起，到单元末的少女衣着与发育身体描写概述。幼王出生的月份、告别、地点、猴子和她说“他看着我”保留。
+— 单元 79：从 he caressed 起，到单元末的亲密接触概述；海天、山洞、船只与躺在那里等景物回忆保留。
+— 单元 80：整单元作非露骨情节概述，说明当年的懵懂、顾虑以及那次亲密相处结束。没有在概述中复制具体性动作、身体细节或次数。
+— 单元 81：开头到 I loved rousing that dog 之前一处；从 he was shy all the same 起，到 Molly darling 之前另一处。旅店狗叫、飞鸟、名字和声音记忆保留。
+— 单元 82：从 and if I was married 起，到 perhaps hes dead 之前一处；从 what I did with her beloved husband 起，到 in the sight of the whole world 之前另一处。对再次相会的设想和现在的推想，分别由标记说明，其他兵衔、年龄估算、婚姻和消息保留。
+— 单元 84：从 they were shaking 起，到 I was jumping up 之前，概述少女发育与女儿身体的性化比较；她试写婚后姓名、母亲名字、跑步和椒树等保留。
+
+原段 7：
+— 单元 92：从 Im sure that fellow opposite 起，到 goodbye to my sleep 之前，概述童年洗浴时可能被看见的回忆；此处底本自有十岁年龄线索。没有转写裸露细节。
+
+原段 8：
+— 单元 117：从 that he had me always 到 and I said I hadnt 之前，概述早年求爱信件造成的性反应；不写行为与频率。医生问诊、误用术语、信件措辞及她的否认保留。其与早期求爱的连接可以确认，不能据婚前二字将具体日子冒充已考定。
+
+原段 9：
+— 单元 159：从 and drew him down 到 yes and his heart 之前，仅概述最后回忆的一处性化身体细节。此段直布罗陀与霍斯、不同“他”的回忆彼此叠入，正文不强分归属；概述写“早年求爱回忆”，不假定每个意象有同一精确时间。此前拥抱、此后心跳与“是的我说是的我愿意是的。”保留。
+
+上述英文出版层来自逐单元复核的映射，再拼回原来六个完整段落。各覆盖段的 original_sha256 按构建器 paragraphs 解析所得、统一 LF 的原段 UTF-8 哈希计算。工作稿的 en_source 与 en_pub 分别存储底本单元及出版单元；两者不得混称。
+
+四、回声、误听与夹注
+
+1. 单元 27 / 151：brow and part 连音转为 brown part。正文先译“眉然后分离”，误听处与后文都用“棕色部分”；不预先把 part 锁定为一个器官。所引是 Tosti《Good-bye!》歌词，不是紧前提起的 Gounod《圣母颂》。Morgan 馆藏目录列词 G. J. Whyte-Melville、曲 Tosti；Canadian Soldiers' Song Book 第 25 页第 47 曲可核完整歌句。夹注仅说明听音，不把来源史塞进内语。
+https://www.themorgan.org/music-manuscripts-and-printed-music/160004
+https://electriccanadian.com/forces/canadiansoldiers.pdf
+
+2. 单元 38 / 122：两处 Sinner Fein 统一“罪人芬党”，首次短注 Sinn Féin 混入 sinner。保留莫莉的外来词改造，不改回正确党名，也不把这当成作者或史实对该党的定罪。Fritz Senn 在 Off the Mark, p.108 讨论 18.383 / 1227 的外来词误听／游戏性转形。
+https://www.siff.us.es/iberjoyce/wp-content/uploads/2013/11/Senn2.pdf
+
+3. 单元 23：U p up 译“U p 完了”，沿第八／十一章明信片用语并保留此处大小写。单元 56 的 met…hoses 保留她抓住水管的听觉碎片；57 的 incarnation 必须译“道成肉身”，不能替她纠正为 metempsychosis。四、八章的“灵魂迁转／再世投胎”和十七章通行说法“灵魂转生”属于被她混淆的概念，注只提示混淆，不把术语正解当她的原话。
+
+4. 单元 72：symph̸athy 与 new̸phew 按底本保留故意误拼和 U+0338 组合删除斜线。没有改成 symph/athy、去掉错字或改成正确拼法。汉英 PDF 均以嵌入 Times New Roman 的单字形回退显示删除符，其余中文仍用宋体。字形与文本抽取共同核验。
+
+5. 单元 76：Vatican 与 viaticum 的误称在正文仍为“送梵蒂冈”，短注解锁临终圣餐。教义条目 1524 明载给临终者的 Eucharist as viaticum；这只用于核明词义，不以现代制度细节外添原文。
+https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_5/v_viaticum%2C_the_last_sacrament_of_the_christian.html
+
+6. 单元 89：vaunted rooms 保留“夸耀的房间”，不静默改为 Haunted Rooms 的“闹鬼”；莫莉记忆中的歌句可出错。double 承 chin，已改为“双下巴”。爱情那古老的甜歌全章沿第十一等章既定歌名；歌唱时“甜”“歌”和开头的拖音按眼前字形处理，不改成另一首名。
+
+7. 单元 115 / 117 / 152：vagina 与 Cochinchina 的尾音联系用一个短注；omissions 译“遗漏”，首次注 emissions，不在后文再讲一遍。医学术语及人物关于身体的说法均不作为医学事实背书，也不替她修正概念。
+
+8. 单元 123：French letter 沿十三章“法国信”，首次短注避孕套旧称；词义可核 Oxford Advanced Learner's Dictionary。Aristocrats Masterpiece 译“贵族老爷的杰作”，保留 aristocrat / Aristotle 的误名，短注指出前文那部托名亚里士多德的生育读物；书本身的来历已见十四章校译记录，不在这里重复。
+https://www.oxfordlearnersdictionaries.com/definition/english/french-letter
+
+9. 单元 128：preserved seats 保留“腌制席”，注 reserved / preserved；base barreltone 用“低音酒桶腔”保住大肚子与男低音变形；sweetheart / sweet tart 用“甜心／甜挞”并给词形短注，保留歌者不同咬字。
+
+10. 单元 145 / 147：姓名 Opisso、Pisimbo 的 piss 声有小注；不把真实姓氏直接改成侮辱词。两处西班牙语分别按音串译并短注日常含义，仍属莫莉试说旧语言的过程。问号上下颠倒的回忆照原文，不插西班牙语语法课。
+
+11. 单元 149：两句意大利文照录并附最低限度语义，来自 Mozart《Don Giovanni》No.7 二重唱 Là ci darem la mano。哥伦比亚大学 Current Musicology 36 的 Appendix I 可核两句及唱者 Zerlina。只帮助读者听见她在唱什么，不提前解释诱惑场景应怎样映照她的盘算。
+https://journals.library.columbia.edu/index.php/currentmusicology/issue/download/483/CurrentMusicology36
+
+五、其余关键取舍与核证
+
+— 单元 61–66 的 Doggerina / wogger 用狗的昵称连缀，不作对肤色的辱称。Harald Beck 指出同段 dog 的亲昵变形与学狗叫构成直接语境，并举当时 dog-wog 等用例；Gifford 的种族俚语说存在年代问题。正文“狗格”保留昵称怪味，不额外把所指全改写为丈夫或真实狗。
+https://www.jjon.org/joyce-s-words/doggery
+
+— 单元 125 spectacle 是凄惨的景象／怪相，不是 spectacles 眼镜；已改。单元 20 glauming 的动作仍由乔茜承接，不能变成男性直接摸莫莉。单元 147 without a Gods notion 的不知道者是半醒的人，不译成上帝不知道。单元 150 gallery 返指剧场楼座，不能译画廊。
+
+— 单元 134 的小雕像与十七章 Narcissus 相连。竖指、偏头、卷发等姿态与庞贝所谓“那耳喀索斯”像相合；但 National Trust 馆藏 998583 指出常春藤冠与兽皮更支持狄俄尼索斯身份，Naples MANN 的展览仍以 Narciso 名称列其复制品。这里不能仅凭 boyish face 把艺术形象断成明确儿童，也不能凭奥维德某一神话人物的年龄替这件雕像强定年岁。正文照译孩子气的脸、神一般的青年与她的联想，不增确切身份、年龄，不把歧义解成既定结论。
+https://www.nationaltrustcollections.org.uk/object/998583
+https://museoarcheologiconapoli.it/nuove-acquisizioni-del-mann/
+
+— 单元 135 lover and mistress 保留“恋人和情妇”，不把 mistress 淡化为另一种同义爱人。141 dark man 用“黝黑的男人”保留牌相／外貌暗色，不凭这一个词推定种族或补具体发色。138 coronado 的“戴角加冕”保留被戴绿帽和王冠的交叠，不只译一句普通骂人话。
+
+— 单元 155 cobbles 改“脏垢”，不定成泥块。Harald Beck 讨论旧注的污垢结块说与煤块、煤尘说；翻译保留洗净污秽的眼前动作，词源争论留在记录，不再截断最后花海与自然的意念。
+https://www.jjon.org/joyce-s-words/cobbles
+
+— 直布罗陀的首尾地名、歌曲、头像、书信并不全是经过确认的可靠记忆。本章保留莫莉的误记，没有据外部资料给每一个隐约人名补生平。单元 114 的 Lahore 保留“拉合尔”，不把她的话改写成 Southey 的 Lodore；原文连音、漏词、错字不自动当印刷错误。
+
+六、跨章名称
+
+沿前章：玛丽昂／莫莉，波尔迪，米莉，马尔维，乔茜，皮尔福伊，西特龙，巴特尔达西，迪格纳姆，门顿，克南，鲍尔，坎宁安，迪达勒斯，古尔丁，里奥丹太太，城市纹章，希利，凯斯，糖锥山，奥罗克，伦巴德街，韦斯特兰街，阿拉米达，《胡格诺教徒》《玛丽塔娜》《罪之甜》《爱情那古老的甜歌》。保留 source 的 Grove / Groves 名形差异为格罗夫／格罗夫斯，不据推测把一切自动拼成同形。Findon haddock 用“芬登熏黑线鳕”，拼写异于别章 Finnan 的情形记在此，不再给正文添解释。
+
+玛丽昂的名字不再混作玛莉恩；《罪之甜》沿第十、十五章而非早稿“罪中之乐”。若后续更动前章通行译名，须同时检查本章重复出现处及分段锚点。
+
+七、验证记录
+
+全部 159 个正文单元逐项翻译并再次对读；复核覆盖原文全部八个长段。章节文件保留 11 段，出版层只涉及上述 6 段，151 个手工切点产生 159 个正文阅读单元，加两行署名／年代合为 161 个中英对读组。中文本 36 页，对照本 81 页。15 个普通夹注与 17 个编者概述计数分别核验。
+
+构建：scripts/build_chapter_pdf.py 18。自动核验：scripts/verify_chapter_pdf.py 18，中文与对照文字提取、段落、配对和字体嵌入均通过。正文宋体 10.5 pt，普通夹注 8 pt 玫瑰色；英文 Georgia 9.5 pt 灰蓝色。U+0338 使用嵌入字形回退，未删除字符。
+
+视觉核验：最终中文本 36 页全部以 65 dpi 渲染，逐张查看三幅接触表覆盖全部页面；另以 110 dpi 查看第 7 页歌句误听与编者标记、第 17 页两处组合删除符、第 19 页集中编者标记、第 36 页终句和地点年代，未见缺字、裁切、重叠或段落错乱。最后名称统一后已重新渲染并复看全部 36 页。
+
+最终对照本由另一复核者完成独立视觉检查：81 页全部以 65 dpi 渲染，六幅接触表全数查看；125 dpi 细查第 1、15、37、39、81 页，特别检查两处 U+0338、编者标记、末尾 yes、句点、地点及日期，无裁切、重叠、缺字和中英错位。两版合计 117 页均已覆盖，细查合计 9 页。
+
+最终文件 SHA-256（上述视觉与自动核验针对这些输入）：
+original.txt  31a82ac56e7f1bf96619a04b152a69f1a17eb9d0c5e643766e60d1f36dad56d7
+translation.txt  25593517d0d6fd374ad6137c4dec9242495bc2a9cce924c2de8d05418dd74107
+parallel-segments.json  8c765735ccc77d9bc615d6ec74676aaaa5e151a75583a7db2af0b611b9fc33bc
+source-overrides.json  ea87ca8e16cdc66374132f232cfadba0467cc456e3439e5d8e63ba5e3875d642

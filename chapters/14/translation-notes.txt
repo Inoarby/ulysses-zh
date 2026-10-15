@@ -1,0 +1,117 @@
+第十四章翻译与校订记录
+2026-10-15
+
+一、范围与底本
+
+完整翻译 chapters/14/original.txt 的全部 66 个空行段落，含原有 [ 14 ] 章标记；原文按空白切分共 20,331 词。未新增荷马对应章题，未重划原段界。原文及 ulysses.txt 未改动。中文稿共有 22 处夹注。第 27、33、34 段的诗行保留缩进，33、34 两个原始空行段在对读排版时合为一个完整诗节。
+
+parallel-segments.json 为 43 个长段记录 123 个中英人工对应切点。66 个原段加切点形成 189 个原始排版单元，除章标记并合并相邻诗节后为 187 组对读。中英在相同语义节点切开，未按两种语言各自字符数平均切割；分割不改变 translation.txt 的段落边界。分割锚点将停顿标点留在前一片段，避免孤立逗号落于新段首。
+
+二、文体与叙述层次
+
+本章不能全篇译成同一套现代叙述，也不能把英文学史的模拟机械换成一条中国文体史。译文以句法与叙述姿态的实际差异为先：开头保留音节咒式和三叠；第 5–8 段维持名词性铺叙、迟到的主谓和层层包入的修饰；其后早期短句用凝缩、排比与声口重复；骑士故事用“爵士”“少年”“行者”“盖”“且说”等串接；布道、寓言、编年、社交谈吐、恐怖故事、感伤回忆、古典田园、报刊史笔、科学论说和末尾醉语分别处理。
+
+这是一组译法选择，不声称各段严格对应某一中国作家，亦不为每个段落附一个确定的英作家标签。Sarah Davison 对写作笔记的考察尤其提醒：文体来源常交错，不宜把一个段落简单当成单一作者的仿作。参看 Sarah Davison, “Joyce’s incorporation of literary sources in ‘Oxen of the Sun’”, Genetic Joyce Studies 9 (2009)，尤其开篇所引 1920 年 3 月 20 日致 Frank Budgen 信及对来源混杂的讨论：
+https://www.geneticjoycestudies.org/static/issues/GJS9/GJS9_Davison.pdf
+
+第 41 段突然转出的攻讦声音保留为无署名的修辞声部，不认定它是布卢姆对自己的事实供述。第 43 段海恩斯的出现属于穆利根召出的故事，不写成医院当前发生的事件。第 44–46 段镜影、回忆、眼前青年与远方幻景相互移动，避免补成一条有因果提示的回忆录。第 48 段刻意层叠的保留语、修正语和重复没有删平。第 50 段科学套语的夸张、错误和种族判断属于原文声音；未用现代医学知识替人物改正，也不把它们当成医学结论。
+
+末尾第 57–66 段删去通常可补的主语、说话人和逻辑承接，保留突换、半截歌句、挤叠口令与不规则拼音的效果。中文借“俺”“侬”“伊”等散布声口差异，不把原文某一口音固定等同某个中国地域；这些形式也不构成对每句话说话人的鉴定。原作中的粗话、性暗示与种族蔑称按其出现保留。
+
+三、跨章回声及语义校订
+
+人名沿前章并与第十五章协调：迪克森、克罗瑟斯、林奇、马登、潘趣·科斯特洛、霍恩、卡伦、奎格利、班农、莱内汉、玛丽昂、莫莉、皮尔福伊、卡夫、鲁道夫、蔡尔兹、康米。Punch 是绰号，统一音译，不凭此断定那次 mastery 的表演内容。Mullingar 沿第五章为“穆林加尔”；Agendath Netaim 沿第四章为“阿根达斯·内泰姆”。
+
+第 15 段 nine twelve fluxions 保留“九番十二次血流”，不误读成九十二；夹注仅指出与前述九年的数量呼应。第 16 段受伤回想对应第八章蜂蜇，保留此处被骑士化的伤患叙述，不把场面直接还原成白话病历。第 19 段 expecting each moment to be her next 的反常下一刻仍译“巴望每一刻就是她的下一刻”，未顺改成常见的“最后一刻”。
+
+第 21 段 let her death 的 let 取阻碍、阻止的古义，译“不肯阻她死去”；不能据现代 let 误译成“不肯让她死”。其丈夫的宗教动机与人物争论均保留。古义核 Collins “let”, verb 2：
+https://www.collinsdictionary.com/us/dictionary/english/let
+本段孕育、灵魂与教法的论说是青年话语，不构成译者对宗教或医学问题的判断。
+
+第 23–25 段保留神学词、酒杯、身体与写作相互挪用：consubstantiality 与 transubstantiality 用“同体／变体”，subsubstantiality 用“下下体”；不将末词修成正规的神学术语。把“舍妻”修为“舍命”、把 Oxtail 改成 Oxford 或把冠词和代词全补齐，都会抹掉原文。对 Beaumont、Fletcher 私生活的说法仍是斯蒂芬所言，未另加“历史事实”式注解。第三章 adiaphane 的“不透明”在这里保留为可认的回声。第 27 段保留童谣的学究式改写，未恢复通常版本；可对照 1903 年小品选中的复杂措辞童谣：
+https://dev.gutenberg.org/cache/epub/47929/pg47929-images.html
+
+第 29–30 段将抽象词和谚语片段译成人物名，如“夸口汉”“虔诚”“贞洁”“手中鸟”“林中双鸟”，使寓言的说教声和身体笑话同时可读。第 32 段不把公牛故事还原成一篇爱尔兰宗教史，保留牛、阉割、饲料、语言、骑乘和出航等不断变形的语面。第 35 段 Omphalos 沿第一章“大地之脐”。第 37 段 capote 的防雨、透湿仍沿原来的性双关，不预先替读者点出叙述中所有隐指。第 43 段 For this relief much thanks 沿第十三章“多谢你来替我解脱”；蔡尔兹案沿第六章译名。
+
+第 47 段 Bous Stephanoumenos 用第九章夹注已有的“戴冠的公牛”，后接 Stephaneforos“戴冠者”；前文冠与牛的形象保持相连。赛马名“权杖”“扔掉”、第 50 段“踉踉跄跄的鲍勃牛犊”等沿前章。第 58 段关于蜂蜇、圣母院和夫人的谈话不增加说话人；mincepies／eyes 一类押韵黑话以“肉馅派眼睛”“带我去安息的奶子”“一桶朗姆屁股”保留突兀意象与指涉，英语韵不能在中文中原样复现。Full of a dure 的确切语形和词源未核定；现依相邻的身材描写译“一身丰满”，属于语境判断，不把它确认为 ardour 的误拼，也不为此虚构释源。Lapland 的身体暗示以“大腿国”承载，不当作地理行程。
+
+第 60 段 two bar and a wing 为两先令一便士，不是两镑、半镑或两个金镑；核 James Joyce Online Notes 的账目分析 “Liquidity”：
+https://sites.google.com/site/jjonlinenotes/joyce-s-environs/liquidity
+第 61 段 criminal diversion 依电报遭截取的语境译“非法转递”，避免“挪用”使人误认有一笔公款。第 66 段“以利亚要来！”接前章传单；演说保留市井兜售口吻与基督救世语混杂。Christicle 的“基督小睾丸”为对造词身体暗示的译法判断，不据此认定它是有固定词典释义的名词。
+
+四、夹注核查与来源
+
+以下均于 2026-10-15 核查。词形比照、原文内部数量和跨章回声以本库底本为据；外部参考只用于所标明的词义或典故，不整段搬用其文学阐释。
+
+第 2 段：爱尔兰语 deiseal 可指右向、顺太阳方向、顺时针；Hollis 对应霍利斯街；eamus 为拉丁语“我们去吧”。咒式正文保留音节，注给其复合意义。爱尔兰语词义核 Ó Dónaill, Foclóir Gaeilge–Béarla：
+https://www.teanglann.ie/en/fgb/deiseal
+
+第 15、16 段：数量及蜂蜇回声见上节，来源为本章与第八章，非外部传说。
+
+第 23 段：布雷牧师的歌以随统治者转换教派而保住职位为中心；核 The Mirror of Literature, Amusement, and Instruction, Vol. XVII, No. 482, 26 March 1831 所载歌曲全文。不同历史人物的归属争论不影响此处，故不注传主年代：
+https://www.gutenberg.org/cache/epub/12599/pg12599-images.html
+同段神学词注只区分正规词与本句造词；subsubstantiality 的“下下体”据原文字形和紧接的淫秽反应，不在注中把身体暗示定为唯一解释。
+
+第 25 段：Beau Mount / Lecher 的注从原文所改写的姓名和通常词义说明谐戏；不承诺 Beaumont 的法语词源本来就是骑乘。不透明一注仅提示第三章已出现的词与此处语境，属于文本联系。
+
+第 28 段：Nobodaddy 是布莱克对父神使用的讥称；核 Blake, “To Nobodaddy”，诗开头直称 Father of Jealousy；中文“无人爹爹”保留 nobody 与 daddy 的拼接，不误成“无父之父”：
+https://en.wikisource.org/wiki/To_Nobodaddy
+可参 Blake Society, VALA 2 (2021) 对该名字及诗的讨论：
+https://blakesociety.org/wp-content/uploads/2023/11/VALA-02.pdf
+
+第 29 段：一鸟在手与双鸟在林系原文拆开的完整谚语，注仅复原其关系；不列全寓言的逐人对号说明。
+
+第 32 段：vache 的警察俗称核历史俚语词典 Bob 条目，所列包括 agent de police、sergent de ville 等：
+https://www.languefrancaise.net/Bob/3599
+bull 的公牛、教皇诏书、荒谬语言／胡话诸义核 Merriam-Webster：
+https://www.merriam-webster.com/dictionary/bull
+教权与王权的关系由本段 Nicholas、Harry、罗马、公牛语言及属地等反复形成；注的这一句是文本解读，不将故事中所有细节一一强配史实。
+
+第 35 段：运煤纽卡斯尔的俗谚词义核 Cambridge Dictionary：
+https://dictionary.cambridge.org/us/dictionary/english/carry-take-coals-to-newcastle
+长拉丁引文的夹注为原文直接中译，保留半男子、睾丸和勃起等词，不以“古典名言”断言它确为某位罗马作者的实存引文。其近似演说的外壳和粗鄙内容相撞，不能译成端正的伦理格言。
+
+第 37 段：capote 的外衣义与 capote anglaise 的避孕套义核法兰西学院词典及 Larousse：
+https://www.dictionnaire-academie.fr/article/A9C0654
+https://www.larousse.fr/dictionnaires/francais-anglais/capote/12791
+
+第 40 段：以弗所主妇故事见 Petronius, Satyricon 111–112；本段只需了解她守墓期间转与士兵相好，不须预述全部结局。核原作英译 A. S. Kline：
+https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartVI.php
+
+第 42 段：Aristotle’s Masterpiece 是托名亚里士多德的通俗性、生育书，并非他的古希腊著作。核医学史研究者 Mary Fissell 本人所写 Open University 文章 “Learning about sex, a shilling a time: Aristotle’s Masterpiece”：
+https://www.open.edu/openlearn/course/view.php?id=12373
+另参 Wellcome 藏本书目：
+https://wellcomecollection.org/works/kg3qxgm5
+
+第 47 段：希腊语 crowned bull / crown bearer 与 Stephen 的词形联系沿第九章校译；可参研究论文 “Ulysses and the Signature of Things” 对该称呼及冠的讨论（网页检索段落可读，完整页面本次返回错误，不依其未取得部分添注）：
+https://www.mdpi.com/2076-0787/6/3/52
+
+第 55 段：鹳鸟送婴儿的传统见 Andersen “The Storks” 中母鹳带孩子去取人类婴儿的段落；注只解来访鹳鸟为何暗指生育，不讲童话其余情节：
+https://www.gutenberg.org/files/32572/32572-h/32572-h.htm
+
+第 56 段：Partula 主分娩，核 Tertullian, A Treatise on the Soul, XXXVII：
+https://ccel.org/ccel/tertullian/treatise/anf03.iv.xi.xxxvii.html
+Pertunda 关涉新婚破贞，核 Augustine, City of God VI.9 对寝室诸神的描述：
+https://www.newadvent.org/fathers/120106.htm
+nunc est bibendum 为 Horace, Odes I.37 开头；核 Dickinson Classics Online 拉丁正文：
+https://dco.dickinson.edu/horatius-carmina/carminum-1-37
+
+第 58 段：Uncle 指当铺老板／当铺，核 The Slang Dictionary 历史词典扫描的 Uncle 条目：
+https://upload.wikimedia.org/wikipedia/commons/6/6c/The_slang_dictionary-_etymological%2C_historical%2C_and_anecdotal_%28IA_cu31924086360488%29.pdf
+注只使表、舅舅及问时间相通，不推断具体押表时间。
+
+第 60 段：deciduously / decidedly、au reservoir / au revoir 直接比照原文字形与通常词义，译文保留植物词与水库词的突然闯入。两注各自解决中文直译会完全遮掉的错词，均放在完整短句后。
+
+五、排版与验收
+
+以统一脚本生成 chapter-14-zh.pdf（36 页）与 chapter-14-parallel.pdf（84 页、187 组对读）。中文使用嵌入式宋体 10.5 pt，夹注 8 pt 玫瑰灰；对读英文为 Georgia 9.5 pt 灰蓝，原诗节与斜体保留。两版全部 120 页以 pdftoppm 渲染，逐一查看 9 张全页接触表；另以 110 dpi 放大查看中文第 1、16、36 页及对照第 34、37、64、84 页，覆盖章首咒式、长拉丁句、相邻诗段、科学论说与末尾醉语。未见缺字、裁切、相撞、异常空白页或章末内容丢失。
+
+最终全文与夹注提取、字体嵌入、字号颜色、页界及同页对读校验记录另见构建／验证命令输出。以下为最终输入校验和：
+original.txt SHA-256: c5d16b457f452a006ec39060b2993c28aed8aebdc7aa4677df5f614f209c42b9
+translation.txt SHA-256: ae315335718ea1ee1d98c35e04a85d93334d79343ed7bb9e95936474c8a02d26
+parallel-segments.json SHA-256: 781f5d0f7889ed8b6c9da0a19b35eaeca87cca66711ef333d36d7e9ef70f17c0
+
+末轮跨章地名统一（2026-10-15）
+第43段 Westland Row station 的街名由“韦斯特兰横街”统一“韦斯特兰街”，沿第五章首次出现的既定译名。原文、段界、夹注及分段锚点不变。两版重新构建，中文36页、对照84页和187组对读不变；全文、夹注、字体、字号颜色、页界及同页配对验证通过。与修订前逐页提取文本比较，只有中文第23页和对照第54页变化；两页已以110 dpi查看，未见缺字、裁切、重叠或配对错误。
+最终 translation.txt SHA-256: f424a026edc7d373b5145ee8e717c85d6afca212b704e3d4c35a046dd871c43c
+最终 parallel-segments.json SHA-256: 781f5d0f7889ed8b6c9da0a19b35eaeca87cca66711ef333d36d7e9ef70f17c0

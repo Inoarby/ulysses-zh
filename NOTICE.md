@@ -4,7 +4,7 @@
 
 Copyright © 2026 Inoarby and contributors.
 
-除下列例外，本项目新增的中文翻译、夹注、校译记录、说明文档和相应 PDF 内容，在贡献者依法能够授权的范围内，按 **Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）** 提供。完整条款见根目录 [LICENSE](LICENSE)，官方说明见 [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)。
+除下列例外，本项目新增的中文翻译、夹注、旁注导读、校译记录、说明文档和相应 PDF 内容，在贡献者依法能够授权的范围内，按 **Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）** 提供。完整条款见根目录 [LICENSE](LICENSE)，官方说明见 [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)。
 
 署名请保留项目名称、贡献者署名、项目链接和许可证链接，并说明改动。推荐格式：
 
@@ -34,4 +34,4 @@ Project Gutenberg 的完整许可保留在 [`chapters/back-matter.txt`](chapters
 
 校译记录引用或链接的文献仍归其原权利人所有；链接不表示这些文献纳入本项目许可。对公有领域内容及依法允许的引用，本项目不增加额外限制。
 
-阅读 PDF 嵌入了用于显示的 SimSun、Georgia 字体子集。字体字形及其软件权利属于各自权利人，不按本项目的 CC BY-SA 或 MIT 许可证授权。仓库不包含独立的字体文件；重建时需自行提供具有相应使用和嵌入许可的字体。
+阅读 PDF 嵌入了用于显示的 SimSun、Georgia 字体子集；正文所用字体缺少的主教署名十字符号 ✠ 单独采用 Segoe UI Symbol 子集，组合删除斜线采用 Times New Roman 子集。字体字形及其软件权利属于各自权利人，不按本项目的 CC BY-SA 或 MIT 许可证授权。仓库不包含独立的字体文件；重建时需自行提供具有相应使用和嵌入许可的字体。

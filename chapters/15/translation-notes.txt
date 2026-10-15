@@ -1,0 +1,121 @@
+第十五章译注与校读记录
+
+底本与交付范围
+
+底本为本仓库 chapters/15/original.txt，1441个空行分隔段，包括[15]；译文逐段对应，未另加“喀耳刻”等章题。原文仍为不可变的Gutenberg分章文件。正文、角色提示、舞台说明、诗行、散入对白的歌词、拟声和列举均纳入译稿。
+
+出版例外：第846段有一句把明确六岁儿童的身体置于露骨性比较中。中文以“软弱无力”作非露骨概述，并紧接“编者处理”夹注。对照版同一英文句由 source-overrides.json 提供明确的 [Editorial omission: ...] 标记；该文件以原段SHA-256核验位置。只处理该句，不改变原始底本，不以概述替换整段。本章因这一处处理不称“无删节译本”。第114段拉客时的年龄、第901—915段非露骨的少年回忆及其他儿童非性场景仍在。
+
+主要翻译决定
+
+1. 戏剧与幻景。保留“角色：”和括号动作的交替；叙述中人物、器物、回声、群声突然取得发言资格，不添“他幻想”“他以为”等归属判断。舞台动作不归并为写实叙事，也不为幻景补上醒来、转场等原文没有的逻辑。第42—44段及第275段的原有括号衔接/不闭合，不擅自补成整齐的旁白。
+
+2. 人物称呼。沿前章布卢姆、斯蒂芬·迪达勒斯、穆利根、莱内汉、林奇、海恩斯/海因斯、乔茜、古尔丁、考利、凯莱赫、皮尔福伊、德卢加奇、纳内蒂等。肯尼迪小姐/杜丝小姐与第十、十一章对应；佐伊·希金斯、基蒂·里基茨、弗洛里·塔尔博特在本章固定。与第十四章核对医生姓名：迪克森、克罗瑟斯、马登、潘趣·科斯特洛、霍恩、卡伦、奎格利。人名地名不因幻景改作现实纠错。拼音式怪名与普通姓名分开处理。
+
+3. 贝拉/贝洛。第774段依Bella→Bello改作贝拉→贝洛，并用一条短注指出变名及代词换位。随后布卢姆被称作“她”，贝洛被称作“他”，以及后续局部原文仍用he的情况，均按各处实际文本处理；不将整串代词按人物一贯性别作机械替换。
+
+4. 声调。鲁道夫的训诫、鲁道夫/维拉格的语言杂糅、布卢姆的辩解、律师的法律套话、审判与加冕的公文气、道伊的美国式推销布道、贝洛的威吓、妓女的口语、斯蒂芬醉后的典故与语病、士兵粗口各留其节奏。反犹偏见、伪医学、暴力和宗教亵渎保留在具体角色与幻景话语内，译注不为这些话背书。
+
+5. 明确回声。第1003段复用第三章“可见之物无可逃避的样态”；第1188段复用第一章“我们伟大温柔的母亲”；第1191段用“爱情那苦涩的奥秘”。第1183段保持第一章临终拉丁祷文的残句。第1339段采用第三章“白白的爪儿，红红的嘴／好细嫩你这身肉”。第986段复用第二章谜语的“天上的钟／敲了十一点”，但保留本章狐狸、公鸡和从天堂出来的变形。第1117段“鬃毛在月下飞沫翻腾，眼球是星”承第三章黑马。第494段铁路歌剧承第七章“一排排铸钢”与《卡斯蒂利亚的玫瑰》。第155、759段“都柏最合算”、759段“王侯配吃的”承第十一章；“铜挨着金”仍照本章重现。结尾“吐噜隆”的手势与声响接第五章科尼的曲调，不改成另一套随意拟声。
+
+6. 错引与变形不纠正。第350段仍是“声音是以扫的声音”，注辨《创世记》的雅各；第39段拉丁语改称女神，保留原文错杂的性别搭配。第1240段仍为乔治五世、爱德华七世以及记忆的“母亲们”，不改成别章的女儿们。第1343段以魔鬼取代第一章祭坛祷词中的天主。第1366段保留原文prone与face to the sky的抵牾，不把姿势悄悄改写一致。人物谈数字、年代、科学、地理时的错误或荒诞不作正文修正。
+
+7. 歌、舞与拟声。诗行以四空格缩进；对白中唱出的半截句仍织在对白里。第1136段首次短注说明此后舞蹈口令原用法语，正文译其动作名称，不将每一声口令都加注。第1171、1174、1178段的粘连、重复、急促并列不补齐逻辑句法；第1178段只提示先前沿街人物与物件的回归，避免逐个解码而拖慢旋转。第1301段用破裂音节传吊绳下的残歌，短注保留《短发小伙子》的可辨关联。
+
+8. 第505段的爱尔兰语。底本sgenl inn ban bata coisde gan capall有讹写，按源文件保留，正文不凭现代校本静默替换。早期笔记转录可见Sgeul i mbarr bata coisde gan capall；O Hehir词典的转引说明字面“棍顶上的故事”是“无马之车”。正文短注只给后半句，避免把尚有文本问题的一串字拼成确定的辩护逻辑。
+
+9. 第508段Hypsospadia。原词不同于常规hypospadias；“尿道高下裂”试保其医疗名目与变造的词根。夹注用“似”限定hypsos的读法。已查到Leithauser/Sporn 1974及Lisa Rado 1996相关论文的书目信息和学者讨论，未直接取得两篇全文，不能据此宣称这就是唯一词源，亦不把幻景诊断当医学事实。
+
+10. 第1077与1084段。Oldfellow/Thursdaymornun保留“老家伙/星期四早晨”的表层怪话，注示奥赛罗与苔丝狄蒙娜的近音。Weda seca whokilla farst校作破碎的“嫁二那个杀头个”，以短注指明《哈姆雷特》戏中戏的再嫁誓词，不误读为“我等看谁先杀”。
+
+11. 同音与倒拼。第532段表面仍是传话，注示F-U-C-K与C-U-N-T；第659段只注jocular/ocular的押韵。第1347段以中文倒序传英文逐字母倒拼，下两声的狗/神保住dog/God翻转，并说明中文不能复现同一组字母。第1377—1378段保留bleeding咒骂和“流血”的错接。第285段whitest兼顾“白”及品行清白，不抹掉颜色意味。
+
+12. 末段不预解。布卢姆把弗格斯听成弗格森、想到姑娘，仍是他的有限听闻；没有在正文解释成叶芝或替他认出歌名。秘密大师的手势、十一岁鲁迪、从右往左读书、羊羔等按原样出现；不把幻景归结成唯一宗教寓意或预告后文。
+
+夹注减法与参考核验
+
+保留解除眼前文化/语言障碍的短注。加冕长段原本放在段末的横幅与Kol Nidre说明，已移到各自出现的位置；原文能直接以中文显出的动作、辱骂、日常器物不再逐项解释。以下列所实际查读的文本、馆藏记录、摘要或检索片段，不把书目确认等同于全文阅读；通用外语释义与显见词形关系亦包含译者语言判断。
+
+1. Cantus Database，Vidi aquam egredientem de templo，原拉丁圣歌转录；ECS出版商乐谱样张的拉丁与英译并列。核第23、26、30段三次接续。
+https://cantusdatabase.org/chant/702080/
+https://www.ecspublishing.com/media/pdf/1.3457.pdf
+
+2. 纽约大都会艺术博物馆馆藏Panel from a Box with Scenes from Romance Literature，及该馆《A Book of Tournaments and Parades from Nuremberg》关于Aristotle and Phyllis的说明。核第35段的中世纪传说；不是亚里士多德生平实录。
+https://www.metmuseum.org/art/collection/search/464252
+https://resources.metmuseum.org/resources/metpublications/pdf/A_Book_of_Tournaments_and_Parades_from_Nuremberg_The_Metropolitan_Museum_Journal_v_45_2010.pdf
+
+3. 萨尔茨堡莫扎特基金会Digitale Mozart-Edition，《Don Giovanni》校勘歌剧脚本，第7首二重唱。核第110、145、146段；原歌Vorrei e non vorrei与本章Voglio e non的差别照原文保留。
+https://dme.mozarteum.at/DME/libredition/pdf/LV_517_516_0.pdf
+
+4. 大谷大学机构库《大谷学报》79卷2号米本论文的可检索文本，及斯旺西大学论文关于Goim nachez的讨论。核其意第绪语轻蔑用法；正文简释“外邦人的乐子”，不强行统一鲁道夫整段混杂语言。
+https://otani.repo.nii.ac.jp/record/1093/files/%E5%A4%A7%E8%B0%B7%E5%AD%B8%E5%A0%B1%20%E7%AC%AC79%E5%B7%BB%E7%AC%AC2%E5%8F%B7-5%E7%B1%B3%E6%9C%AC.pdf
+https://cronfa.swansea.ac.uk/Record/cronfa35838/Download/0035838-04102018152005.pdf
+
+5. Genetic Joyce Studies，Crowley的笔记转录，校记第57项；另读The Map of it All论文注cclx对Brendan O Hehir词典的转引。用于第505段文本差异及解释边界；未宣称直接通读O Hehir词典。
+https://www.geneticjoycestudies.org/articles/GJS6/GJS6Crowley
+https://fileserver-az.core.ac.uk/download/pdf/475151309.pdf
+
+6. UCL机构库Ulysses Quotidian Micro-Spectacles，第38注及邻近讨论；得克萨斯大学Harry Ransom Center Joyce Checklist中的Lisa Rado条。前者确认Leithauser/Sporn的论文书目，后者确认Rado 1996文章及DOI；第508段仍作为有保留的词形读法。
+https://discovery.ucl.ac.uk/1458872/1/Ulysses%20Quotidian%20Micro-Spectacles%20%5BFinal%5D.pdf
+https://research.hrc.utexas.edu/JamesJoyceChecklist/browse_results.cfm?author=137440
+https://doi.org/10.2307/441733
+
+7. Mark D. Stringer、Ines Becker，Colombo and the clitoris，2010，PubMed摘要。核第644段解剖学家Realdo Colombo所指；他自称“发现”的优先权并非可靠事实，正文仍为维拉格的话，不替他改口。夹注只区分解剖学家与航海者。
+https://pubmed.ncbi.nlm.nih.gov/20430514/
+
+8. Dictionary of Irish Biography，Barry Yelverton及John Philpot Curran两条，核Monks of the Screw于1779年的社团背景。正文用“螺旋钻修士”承后文拔塞钻十字架。
+https://www.dib.ie/biography/yelverton-barry-a9161
+https://www.dib.ie/biography/curran-john-philpot-a2320
+
+9. My Jewish Learning，Guide to Jewish Holiday Prayers，核Kol Nidre在赎罪日晚间礼仪的位置；Sefaria的Shema经文页核第872段核心祷句。未将祷文词串或横幅当成连续、语法严密的希伯来语演说。
+https://www.myjewishlearning.com/article/guide-to-jewish-holiday-prayers/
+https://www.sefaria.org/Sheet.35124
+
+10. Metropolitan Opera，《Siegfried》官方剧情说明，核Nothung宝剑。第1209段只点明名称，不解释整个剑/杖/父权关系。
+https://www.metopera.org/user-information/synopses-archive/siegfried
+
+11. Poetry Foundation，丁尼生《The Charge of the Light Brigade》原诗，核第1250段的服从命令诗句。
+https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade
+
+12. Poetry Foundation，布莱克《Auguries of Innocence》原诗，核第1334段England→Ireland的替换。
+https://www.poetryfoundation.org/poems/43650/auguries-of-innocence
+
+13. Folger Shakespeare Library，《Hamlet》第三幕第二场原文，核第1084段被扭坏的戏中戏台词。奥赛罗名字的近音在本章原文与第九章莎士比亚讨论之间复核；不把“星期四早晨”全部解释为某个单一象征。
+https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/
+
+14. 《士师记》12:5—6、《创世记》27:22、《雅歌》1:5、《申命记》6:4、《马太福音》27:5是第238、350、388、872、1360段可定位的经文关联。第一章弥撒开场与临终祷词、第三章黑话歌、第七章铸钢谜语、第十一章《短发小伙子》及其既有出处亦逐处回看本仓库译稿与笔记。只在具体变词或距离足以造成障碍处重复短注。
+
+15. 第744段 pennyroyal 细化为“普列薄荷”，与 peppermint 区分。农业知识入口网“薄荷属”列普列薄荷 Pennyroyal (M. pulegium)；《中国植物志》相同学名用“唇萼薄荷”。正文保留布卢姆的“催情药？”疑问，不把其联想改成医学断言。
+https://kmweb.moa.gov.tw/theme_data.php?id=30&theme=herbs
+https://www.iplant.cn/z/frps/40011
+
+排版与验证
+
+parallel-segments.json记录27个长段的人工中英匹配锚点；不改变原稿的1441段边界。分割以句义、舞台动作和列举分界为准，不按等字数硬切。中文不使用会裸显的下划线斜体标记；英文原有斜体由排版器保持。正文为嵌入SimSun 10.5 pt，夹注8 pt、#A66F73；英文为Georgia 9.5 pt、#929CA6。独立角色标签与相接歌辞连组，舞台说明引介同样需要保持衔接。
+
+本次全文初译后，对原文年龄、角色标记、数字、长列举、乱码/未译标记、源/译段数及跨章回声作专项复核；所有长段重新对照源文选锚。自动PDF检查只确认文本、字体、版面数据及配对，不能替代语义判断。
+
+最终页数、校验和及全页视觉记录见下方补记。
+
+2026-10-15 交叉校读补记：与第01、05、10、16章复核，将 ashplant 全部统一为“梣木手杖”，四处 Sweets of Sin 保留“罪之甜”的共同词面，Maximum the Second 统一“最大号二世”，Blazes Boylan 统一“布莱泽斯·博伊兰”。第1050段 Blazes Kate 的“烈焰凯特”保留其换名式呼语，不据此另造博伊兰的常用姓名。两处 twenty to one 作“押一赢二十”，明确赔率方向。
+
+Bachelor’s Walk 两处沿第08、10、11章统一“单身汉步道”，保持与第十一章 bachelor 的词戏互见。
+
+最终验证与视觉检查（2026-10-15）
+
+build_chapter_pdf.py 15：源/译均1441段（含章号），56条夹注；中文117页，对照230页、1478个中英阅读组。27个长段使用人工语义匹配锚点。layout.json 对18处舞台说明、角色引介与后续歌辞显式连组，含第724段括号内“唱：”引介；原有诗节关系保持不变。verify_chapter_pdf.py 15 两版通过全文流、注释流、嵌入字体、字号/颜色、页界、中英同页配对及显式连组验证。
+
+两版全部347页以65 dpi渲染，逐页查看23张接触表。检查发现的歌辞引介跨页问题已经改正；跨章用语修订后重新渲染，按页面图像校验和定位并复看中文65页、对照23页发生变化的页面。末次两处街名修正等长替换，重新构建与全套验证后，另以120 dpi查看受影响的中文19、31页及对照35、59页。
+
+120 dpi细查还包括中文64页与对照126页的连组歌辞、中文74页与对照146页的双语编者处理标记、中文102页与对照202页的长列举，以及两版末页117、230的鲁迪幻影与收束。未见重叠、越界、缺字方块、下划线裸显或中英错序；角色标签与歌辞没有孤悬。保留因同页中英阅读组所需的少量页底留白。原始底本未改，第846段唯一出版替换由source-overrides.json记录并校验，故本章不标作无删节版。
+
+source SHA-256: d7fe093c9d39596bbc00d25897de11a8c2613b55b4f20af28c1a130fa77b932a
+translation SHA-256: b893a33d9c04fbdcd398088f2b6024939e7cb1c567ee4694416fd4d5ac79321e
+临时译稿分块、渲染图片、接触表及查验脚本留在tmp，不作出版交付。机械与视觉检查不替代文学语义校读；本次另由第07/12/16章译者只读复核主要人名、马名、书名及跨章物件和车夫回声。
+
+末轮跨章称谓统一（2026-10-15）
+第1237段长名单中的 Mrs Riordan、Larry O’Rourke 分别统一“里奥丹太太”“拉里·奥罗克”，与本章既有角色及第八、十七章保持同名。第205、1237段 Westland Row 的“西地街”改为“韦斯特兰街”，沿第五章首次出现的既定译名；第1237段对应的中文分段锚点同步修改。原文、1441段边界、56条夹注与第846段唯一编者处理范围不变。
+
+两版重新构建，中文117页、对照230页、1478组对读不变；全文、夹注、嵌入字体、字号颜色、页界、中英配对及显式连组验证均通过。与修订前逐页提取文本比较，中文第16、17、102、103页及对照第30、201页变化；六页全部以110 dpi查看，未见缺字、裁切、重叠或配对错误。
+最终 translation.txt SHA-256: 5bf34bdbb1b400e627fb7a68250aedce131cd873ad1673fdda28b6fc14412e3a
+最终 parallel-segments.json SHA-256: aa295c579aa69bf319271a8e742a2fbcfb7e89166120f67e3e76d42731f91a6c

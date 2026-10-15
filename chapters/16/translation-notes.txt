@@ -1,0 +1,122 @@
+第十六章校译记录
+2026-10-15
+
+底本与范围
+据本目录 original.txt 独立翻译全章，保留第三部标记与 [ 16 ]，不补荷马章名。源稿共 293 个空行段落，约 22,711 个英文词；译文同为 293 段，夹注 37 条。标题计入以下段号。源文、ulysses.txt 及章节分割均未改。
+原稿 SHA-256：781c714d8b74b6c71a79468e5abfa3a7aee865c3835f200dcbf1228e117fb13b。
+译稿 SHA-256：693905afaf5f3bf72f77de73e07584ac048dcc6225eaccfac141a39d4e23ce46。
+parallel-segments.json 为 34 个长段设置 98 个逐项核对的中英对应分界；不改变译稿的空行段界。两版正文无删节、摘要或代替长名单的省略。构建器最终生成 391 组中英对读单元。
+
+译名与跨章衔接
+沿用布卢姆、斯蒂芬、莫莉、迪格纳姆、西蒙·迪达勒斯、科尼·凯莱赫、马丁·坎宁安、杰克／约翰·鲍尔、托马斯·克南、莱内汉、菲利普·博福伊、穆利根、海恩斯、海因斯、加勒特·迪西、迈尔斯·克劳福德等前章译名。Hynes 海因斯与 Haines 海恩斯有别，Corley 科利与 Cowley 考利有别。迪莉、玛吉、布迪、凯蒂沿用第十章。
+Skin-the-Goat 作“剥山羊的”，Fitzharris 菲茨哈里斯，Gumley 甘利，沿用第七章。Invincibles 与第八章一致，作“无敌党”。本章提供的棚主身份是传闻和推断，不由译者替其坐实。
+D. B. Murphy 作 D. B. 墨菲；明信片的 W. B. Murphy 仍作 W. B. 墨菲。不得合并姓名首字母，也不调和 Carrigaloe 卡里加洛、Skibbereen 斯基伯林两种籍贯。Queenstown 女王镇；Rosevean 罗兹维恩号；Bridgwater 布里奇沃特。
+Marion Tweedy 玛丽昂·特威迪，Major Brian Tweedy 布赖恩·特威迪少校；Lafayette 拉法叶；Antonio 安东尼奥；Danny 丹尼；Captain Dalton 道尔顿船长；John Lever 约翰·利弗；Jem Mullins 杰姆·马林斯。Tichborne 蒂奇伯恩，Bella 贝拉，Lord Bellew 贝卢勋爵。
+Sandymount 沙山，Sandycove 沙湾，Westland Row 韦斯特兰街，Butt Bridge 巴特桥，Beresford 贝雷斯福德，Amiens 亚眠街，Talbot 塔尔博特街，Store 斯托尔街。中文以原段的街／巷区别为准，不擅改地理判断。
+Gold Cup 金杯赛；Throwaway 扔掉；Sceptre 权杖；Zinfandel 津芬德尔；Maximum II 最大号二世；Rightaway 疾驰；Thrale 思雷尔。扔掉保留第五章报纸引发的词面误会。第 229 段赔率五比四押热门为“押五赢四”，二十比一为“押一赢二十”，不把两者方向写反；奖金重复照录。
+Martha《玛莎》、Lionel 莱昂内尔、M’appari《她来到我眼前》与第十一章衔接。Dowland 道兰，Gerard 杰勒德，Farnaby 法纳比，Byrd 伯德，John Bull 约翰·布尔；后者的国族拟人义作“约翰牛”，以短注连起。Mercadante 梅尔卡丹特、Meyerbeer 迈耶贝尔；Stabat Mater《圣母悼歌》。Johannes Jeep 约翰内斯·耶普，Jans Pieter Sweelinck 扬斯·彼得·斯韦林克，《青春到此终结》依此处题名。
+
+声音、语法与保留的歧义
+1. 本章拖沓的套语、修正语、公式化比喻及层叠从句均属声音。保留“事实上／当然／不言而喻”等重复，不把一连串的补充剪成简洁说明文。叙述时常贴近布卢姆，却不能一律称为他的直接独白；对 he、his 和“另一位”只在原文本身明示时澄清。
+2. 第 3 段 his (Stephen’s)、B.、hero 等自作说明的称法不统一为姓名。e.d.ed 尚无足够可靠的展开根据，保留原形；“似指疲惫不堪”只是就当下语境作的提示，并非声称已解出缩写。该段“耶户”不直接抹成普通车夫，待形象落定后附短注。
+3. 第 4 段 fancy bread 作“痴情的面包何处生”，让 bread／bred 的换词先显出陌生感，再说明《威尼斯商人》的歌。第 19 段狄多的拉丁语引文已被改动，不替其恢复经典原句。科利家谱中“母亲或者姑姨或什么亲戚”的含混照留，不限定 aunt 必是母亲的姊妹。
+4. 第 35 段 quarter tense 是爱尔兰对四季斋日的称法，与 ember days 所指相同；并非可确定的记错，不在注中称作误说。第 41–46 段意大利语争吵保留辱骂的粗俗程度，首注只交代语种，不把骂语软化为礼貌争执。第 50 段 Bella Poetria、Belladonna、Voglio 的发音连锁留原文；“似想说”保留对前一怪短语的判断限度。
+5. 墨菲的船旅、海战、食人者、籍贯、年龄以及西蒙的射击故事，不因与外部事实或本章其他说法冲突而订正。第 86 段想象老水手归家，不写成眼前已发生的事实；Enoch Arden、Rip van Winkle 等不提前提供完整情节。戴维·琼斯的注只提供溺亡海底的联系。
+6. 第 99–100 段秘鲁与贝尼的地点矛盾，第 108 段旅行路线重复的马盖特、戏名与人物的错配，第 110 段落崖而伤左腿的夸饰，都保留。第 121 段凤凰公园事件说成 1881，十五岁亦照录；注只校事件年份并回指第七章同一错年，不重新计算人物生年。
+7. 第 130 段 Ireland expects 保留“爱尔兰期望”，不恢复纳尔逊的 England；fresh woods 与第 276 段 fresh fields 依实际差异译，不以惯用引文强行统一。
+8. 第 139 段“在周围拢起那。不知怎么在他的。挤着或者。”等残句不补足缺失动作。刺青的安东尼奥、“六，十六”、照片身份与希腊人等说法不译成一套确定身世。第 149 段 Anto-ni-o／ownio 以“安东尼奥／一个的奥”留不甚体面的谐韵；第 191 段罗得妻子的打油诗保留粗口与四行形式。原第 76、77 段虽连成两行歌，译稿仍各守其空行段界。
+9. 第 150 段清洗和身体的暗示不追加性事实；第 155 段医疗检查和许可制度是人物的主张，妓女疾病也是人物的判断。第 154 段《马太福音》的“杀身体”改为买卖身体灵魂，按原戏改。第 158–160 段 simple 先指哲学上非复合的“单纯”，后被听作智力上的“简单”，不以同义改写抹去误解；per accidens 依经院哲学毁灭关系解释，非日常的“偶然”。
+10. 爱迪生、望远镜、伽利略、Z 射线、硫酸铜式 SO4 等不据常识纠错。第 176 段直布罗陀国属的判断亦然。第 177 段 Roberto ruba roba sua 的 sua 在中文作“他的”，不替它限定成“他自己的”。第 180 段 sun／Son 只能由短注恢复的同音，放在血与洗净的形象之后。
+11. 第 200 段对刺杀者、刀与归国的意见保留相互不整齐处；狗与影子的谚语被倒置，照作“为了影子去咬骨头”。第 201 段自称犹太人后又说事实上不是，不替布卢姆消去矛盾。第 203 段《罗马书》拉丁碎片与言谈交错，不给原文未定的声音归属。
+12. 第 210 段 Ubi patria vita bene 不改成通常格言；第 211–220 段“眼睛”“暂时拥有它们的人”“声音”的分拆保留，不都润成某人说话。belongs 的两种归属方向让对白自身展开。
+13. 第 221 段刑法条号、服饰、王储、刺青、六和十六、安东尼奥之间的联想保持跳跃。即使外部法史条号与人物所述不合，也不替原文换数字；不把串联译成确定的性指认。第 222 段 no uncommon calibre 按双重否定作“才具并非罕见”，不静默改成“非凡”。
+14. 第 223 段 Telegraph／tell a graphic lie／lay 作“《电讯报》……讲个活灵活现的谎，躺”，用夹注指出声音与两种 lie；不凭中文顺畅而吞掉夹入的 lie。请赐我等今日的每日报章，保留与主祷文及第七章报刊的词面联系。新闻十字标记保留原字符 ✠，不换成 † 或普通加号。
+15. 第 225 段送葬名单的误名、缺席者、排字乱码 eatondph 1/8 ador dorador douradora 全部保留；L. Boom 作 L. 布姆，随后布姆／布卢姆的纠正仍可见。第 227 段《致希伯来人第一书》不改成正确经书名；张嘴和脚的习语兼回响口蹄疫与迪西之信。
+16. 第 232 段帕内尔假死、棺内石头、化名德韦特均为谈话中的说法。第 233、247 段重复的丝面礼帽、报馆与“谢谢”保持词面；第 233 段“二十多年”等记忆不校成真实年距。两个段落 Insuppressible 均作《压不倒报》，保留与《联合爱尔兰报》的不确定关系。
+17. 第 236 段 cottonball officer 的旧俚语据报刊材料为服装店伙计，注中不采用未经支持的阉割说。第十二章 cottonball barons 的“棉花球男爵”仍留原章所用表达，不因本处军官笑话而泛化成一种人。
+18. 第 239 段 Spanish ladies 变成 Spanish onions，依“西班牙洋葱”保留；第 241 段 Sweets of... 是没说全的书名，作《……之甜》，不补成第十章完整的《罪之甜》。第 245 段英法碎片的含义和声音来源均未定，正文不据某一译者补正为整句法语或药名；Bandez 的粗俗意味保留，Figne toi trop 保留原词，并说明不能构成清楚句意。
+19. 第 246 段 met him pike hoses 与第四、十一章的“灵魂迁转”连起；must have fell 故意不规整为 have fallen，中文用“必定是给掉到”保留拙涩，注只解释默里的语法书背景。第 247 段以“泥脚”短注连起巨像，未把帕内尔人物评价固定为译者结论。
+20. 第 249 段 Humpty Dumpty 的蛋形与周围生殖、蛋白食物的语汇相连，不能只作不透明音译。该段分界“when Miss Right came on the scene”与“他自然会给自己娶个妻子，”已经人工核对，不把后一句的比喻错配到上一片。第 254 段 Darwinian destruction of the fittest 仍为“适者毁灭”，不恢复“适者生存”。第 255 段卡里克在斯莱戈的地理说法不订正；第 256、257 段收照片的重复动作不删并。
+21. 第 266 段 king willow 按板球球棒用柳木解释；Ire- 开头与怒气的声音游戏短注处理。第 185 段睡神墨耳甫斯的怀抱与第 276 段“墨菲的怀抱”保持可辨联系，不直接改正后者。
+22. 第 277 段两位作曲家对换，只在夹注给出作品归属；正文不修正人物记忆，也不为每个音乐错置增添一条勘误。anno ludendo hausi 保留底本缺 s 的形式，注另列可成立的原格言；“领／答”、维金纳琴／处女的关系以一则短注交代，避免在音乐长段中堆出小百科。第 278 段约翰·布尔与约翰牛的两重名字可由一注衔接。
+23. 第 281 段动物能力、马的头脑、骆驼与酒等论说按原文，未整理成生物知识。第 290 段排下的三团粪球的先后和重复照录；马车夫 he or she 不强定性别。“镰刀战车”先保持夸张，再短注装有侧刃的古车。
+24. 第 292 段 brücken 的字面是搭桥，不同于实际所唱歌曲的末句。不能武断改成 Schiffbrüchen／船难或把错话确定归于斯蒂芬；正文留怪句，注提供实际结尾以及归属未定。第 293 段马赫神父、低背车和末句穿插《低背车》歌词；不把歌词直接定为两位人物现实婚姻或某一种隐喻的揭底。歌曲联系在章末才提示，不提前布置解释。
+
+核验文献与限度
+以下链接于本轮校译中查阅。书目、经文和史实用于核对必要信息；对本章声音、笑话和联想的归属另在上文标明为译者判断。只在当前阅读有收益之处放入夹注，不把所有背景都移进正文。
+
+经文、古典与语言
+• 《列王纪下》9:20 的耶户驾车猛烈，核经文及其注释。正文借人名称车夫，与叙述的套语腔相称。
+https://biblehub.com/commentaries/2_kings/9-20.htm
+• 《威尼斯商人》3.2 的 fancy bred 歌，核 Folger 全文。面包替字是本章文本事实；其中文处理见上。
+https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/
+• 《埃涅阿斯纪》1.630：Non ignara mali, miseris succurrere disco。与本章 haud ignarus malorum 等形式比较，不将改写伪称为逐字引文。
+https://jamesenge.com/Pharr.Vergil.Aeneid.1through6.1930.pdf
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Eumaeus/573
+• quarter tense／ember days 同指四季斋期。核旧教会文献中的用例及词条；没有把语境中的星期日期凭空定为某个具体斋日。
+https://www.omiworld.org/wp-content/uploads/14-Spiritual-Writings-1794-1811-1.pdf
+https://paperspast.natlib.govt.nz/imageserver-periodicals/NZT19190220.pdf
+https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Quarter_tense
+• Gospodi pomilui 的祷词释义核 Hymnary，正文用“主啊，怜悯”；本章末尾祷唱的语气不补成长祷文。
+https://hymnary.org/text/gospodi_pomilui
+• 阿奎那《神学大全》I, q.75, a.6：灵魂是否可毁灭，正文区分 per se／per accidens，核其非复合实体的论证。
+https://www.newadvent.org/summa/1075.htm
+https://santommaso.altervista.org/summa/I_q75.htm
+• 《马太福音》10:28（身体与灵魂）；《创世记》19:26（罗得妻子）；《启示录》1:5（以血洗净）；《罗马书》9:5（基督按肉身从他们而出）。只取本处所需经句联系，不把改写修回经文。
+https://biblehub.com/matthew/10-28.htm
+https://biblehub.com/genesis/19-26.htm
+https://biblehub.com/revelation/1-5.htm
+https://biblehub.com/romans/9-5.htm
+• Ubi bene, ibi patria 的通行格言核 Duden。正文 Ubi patria vita bene 不是该标准形式，夹注只指出倒置改动。
+https://www.duden.de/rechtschreibung/ubi_bene__ibi_patria
+• 《但以理书》第二章巨像泥铁双足，核 2:41 及同章的崩解叙事；同章两次泥脚形象不另造不同中文。
+https://www.biblegateway.com/verse/en/Daniel%202%3A41
+
+历史、旧语与悬疑处
+• 凤凰公园刺杀的 1882 年日期与第七章校译记录所核材料一致；本章“1881”继续忠实保留。没有据日期去消除十五岁或其他人物回忆的矛盾。
+• Nelson 的 England expects that every man will do his duty 信号核 Royal Museums Greenwich 的特拉法尔加画作说明；将 England 换成 Ireland 是本章自己的改动。
+https://www.rmg.co.uk/stories/art-culture/hidden-details-turners-battle-trafalgar
+• Davy Jones’s locker 的水手用法核词条所录旧用例，译作与溺亡海底相连，不以“海葬”暗示特定葬仪。
+https://en.wikipedia.org/wiki/Davy_Jones%27s_locker
+• John Simpson, “Cottonball officer”，James Joyce Online Notes。作者追溯 Dublin 报刊 1863、1866 年用例与 1867 年《Shamrock》中衣饰店伙计的讥称；此处取可核的旧职业俚语，不采断无实据的身体阉割释法。
+https://sites.google.com/site/jjonlinenotes/joyce-s-words/cottonball
+• Harald Beck（结合 Flavie Epié 的档案发现）, “Sovereign thievery”，James Joyce Online Notes。讨论 Morel 译本、Gilbert 词汇表和正文版本差异。词汇表的 sovereign remedy 线索不等于准许将本底本 sovereign thievery 改掉，也没有使整串声音的说话者成为定论。
+https://sites.google.com/site/jjonlinenotes/joyce-s-words/sovereign-thievery
+• Franco Marucci, “Translator de Angelis and critic Pagnini on how to render a passage in Ulysses”，Joyce Studies in Italy 14（2013）, pp.67–75。所录 1988-03-18／03-21 信讨论 Figne toi trop 等。Figne 的俗语义、Bandez 的性意味可提供障碍提示；不同词源、方言、药名重建属于提议，中文不选一说冒充定解。
+https://thejamesjoyceitalianfoundation.it/wp-content/uploads/2024/02/vol-14-Joyce-in-and-Italy-2013.pdf
+• Lindley Murray 的 English Grammar 核 Smithsonian 藏书记录及 Cambridge 重印介绍。注只说明语法书背景，不替原文修正规则失误。
+https://americanhistory.si.edu/collections/object/nmah_1460958
+https://assets.cambridge.org/97811080/67966/frontmatter/9781108067966_frontmatter.pdf
+• Humpty Dumpty 的蛋形核 Lewis Carroll, Through the Looking-Glass，第六章正文及插图。没有把“蛋”误说成最早童谣明载的身份；注说“通常画作”。
+https://www.gutenberg.org/files/12/12-h/12-h.htm
+
+音乐与歌辞
+• 《胡格诺教徒》作曲者核 Teatro dell’Opera di Roma 历史档案；《最后七言》核 Rochester 音乐图书馆曲谱记录与出版商目录。相反的归属仍照人物记忆写在正文。
+https://archiviostorico.operaroma.it/opera/gli-ugonotti-les-huguenots/
+https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=24533
+https://www.wisemusicclassical.com/work/30708/The-Seven-Last-Words-of-Christ--Saverio-Mercadante/
+• 道兰格言 annos ludendo hausi 与 Iohannes Doulandus 的字母重排，核注释所引 Henry Peacham, The Compleat Gentleman 的材料；底本 anno 少 s，不能静默改文。正文 Doulandus 的写法亦保留。
+https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Eumaeus/615
+• John Bull 的键盘作曲家身份核牛津大学 Bate Collection 藏品说明；其与英国拟人名相同是第 278 段可见的接话。
+https://www.bate.ox.ac.uk/john-bull
+• Harald Beck, “The Jeep-crux”，James Joyce Online Notes：实际歌曲四节，尾句 Und lass dich nicht betrügen，与本段 Und alle Schiffe brücken 不合。把 brücken 视为 brechen 或 Schiffbrüchen 不能据此成为定解；错误属于演唱、听见、记述或作者的哪一层仍有争议。对结尾其他隐语的推论不放入夹注。
+https://sites.google.com/site/jjonlinenotes/joyce-s-allusions/jeep
+• Samuel Lover, “The Low-back’d Car”，核完整歌词中的 Peggy、镰刀战车、Father Maher 和 looked after the low-backed car。第 290、293 段的连接由歌词可证，其具体性暗示保留给读者。
+https://www.pushforporter.com/Songs/low_back_car.htm
+另参 Joyce Studies in Italy 19（2017）中关于原歌词与本章末段的讨论，所引 The Lyrics of Ireland（1867）, pp.137–138。
+https://thejamesjoyceitalianfoundation.it/wp-content/uploads/2018/01/binder-jsi-19-20171.pdf
+
+夹注取舍
+逐项检查 37 条夹注的作用：外语、无法以中文独立保留的语音游戏、必要经文联系、关键错置以及章末被误读风险较高的歌词。对种族成见、医药建议、人物的不可靠故事，不加反复的训诫性声明；正文维持其说话位置。对人人可由上下文懂得的动作和台词，不另加解说。没有固定配额，也未以覆盖率添注。第 245、292 段用限定语区别已核词义与尚存争议。
+
+构建与视觉校验
+2026-10-15 运行 scripts/build_chapter_pdf.py 16，生成 chapter-16-zh.pdf（51 页）和 chapter-16-parallel.pdf（108 页）。两版随后均通过 scripts/verify_chapter_pdf.py 16 的全文提取、段序、391 组对应、嵌入字体、边界等检查，命令退出码 0。
+正文宋体 10.5 pt；夹注宋体 8 pt、灰玫瑰色 #A66F73；对读原文 Georgia／Georgia Italic 9.5 pt、灰蓝色 #929CA6。第 223 段的 ✠（U+2720）为保持底本十字形制，仅该字符使用嵌入 Segoe UI Symbol 回退，继续采用所在语言的字号与颜色；不是替代字符，也不改变其余正文宋体。译稿及分段锚点已同步保留 ✠。
+以 pdftoppm 将两版全部 159 页渲染为 65 dpi 页面图，并逐页查看 11 张接触表；没有发现空白异常、压叠、裁切、缺字方框或失散的单行章尾。长段的中英单位可能令页底留白，未为填满页面而破坏配对。
+另以 120 dpi 检看对读版第 72、83、100、101、108 页及中文版第 34、49 页：报刊十字、法语碎片和长夹注、音乐多级引语、两行诗及章末德语与歌词；字形、颜色、缩进及字号均正常。渲染文件仅留 tmp/pdfs，不作正式出版物。
+跨章末检再将 Maximum II 统一为第五章“最大号二世”，曲名统一为第五、十一章的“最后七言”词面；重建后两版页数与组数不变，再次通过验证。比较修改前后各页提取文本，变化只涉及中文版第 35、36、47、48 页和对读版第 75、99 页，已把这六页全部重新渲染并以 120 dpi 复看，版面正常。
+
+终校再统一 Westland Row 为第五章首译“韦斯特兰街”（正文两处），Huguenots 为第八章既用曲名“胡格诺教徒”；正文哈希已同步。重建后仍为中文版 51 页、对读版 108 页、391 组对应，全文与排版验证再次通过。与上一已核版本相比，仅中文版第 7、8、47 页和对读版第 15、16、99 页提取文本变化；六页均重新以 120 dpi 渲染复看，未见压叠、裁切或字形异常。
+
+许可
+本章中文译文、夹注和校译记录采用 CC BY-SA 4.0；英文底本及第三方权利说明依仓库 NOTICE.md。

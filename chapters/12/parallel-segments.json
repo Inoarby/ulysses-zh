@@ -1,0 +1,299 @@
+{
+  "description": "Verified matching end anchors; source paragraph numbers include the chapter marker. Manuscript paragraph boundaries remain unchanged. Long enumerations split only at matched complete list items.",
+  "paragraphs": {
+    "12": {
+      "source_after": [
+        "three shillings and no pence sterling:"
+      ],
+      "translation_after": [
+        "每期英币三先令零便士："
+      ]
+    },
+    "25": {
+      "source_after": [
+        "thoroughly well supplied."
+      ],
+      "translation_after": [
+        "彼地供应至为充足。"
+      ]
+    },
+    "28": {
+      "source_after": [
+        "milchcows and beeves:"
+      ],
+      "translation_after": [
+        "外加上等获奖奶牛和肉牛："
+      ]
+    },
+    "51": {
+      "source_after": [
+        "mountain gorse (_Ulex Europeus_)."
+      ],
+      "translation_after": [
+        "颜色与坚韧堪比山间荆豆（欧洲荆豆）。"
+      ]
+    },
+    "52": {
+      "source_after": [
+        "the windpipe of the same beast.",
+        "Father John Murphy,",
+        "The Woman Who Didn’t,",
+        "Patricio Velasquez,",
+        "Don Philip O’Sullivan Beare."
+      ],
+      "translation_after": [
+        "用同一头牲口的气管系牢。",
+        "约翰·墨菲神父、",
+        "不肯的女人、",
+        "帕特里西奥·委拉斯开兹、",
+        "唐菲利普·奥沙利文·比尔。"
+      ]
+    },
+    "117": {
+      "source_after": [
+        "the lower astral levels.",
+        "of the very purest nature.",
+        "where the ram has power.",
+        "the carrying out of the interment arrangements."
+      ],
+      "translation_after": [
+        "但仍遭受低层星光界若干嗜血实体的考验。",
+        "则浸没在性质至为纯净的欢欲波浪中。",
+        "火星与木星正欲在白羊掌权的东方作乱。",
+        "负责办理入葬事宜。"
+      ]
+    },
+    "174": {
+      "source_after": [
+        "like a ballalley.",
+        "taking the lout out for a walk.",
+        "Mrs O’Dowd that kept the hotel."
+      ],
+      "translation_after": [
+        "背跟手球场的墙一样。",
+        "还领那傻大个出去散步。",
+        "还有开旅馆的奥多德太太。"
+      ]
+    },
+    "179": {
+      "source_after": [
+        "by Speranza’s plaintive muse.",
+        "their hardearned pennies.",
+        "on a tribune directly opposite.",
+        "Rahat Lokum Effendi,",
+        "Kriegfried Ueberallgemein.",
+        "was unanimously accepted."
+      ],
+      "translation_after": [
+        "为众人消遣等待时光。",
+        "必不吝惜他们辛苦挣来的几文钱。",
+        "则安排在正对面的台座。",
+        "拉哈特·洛库姆埃芬迪、",
+        "克里格弗里德·于贝尔阿尔格迈因。",
+        "一致通过。"
+      ]
+    },
+    "180": {
+      "source_after": [
+        "so characteristic of the man.",
+        "was easily distinguishable.",
+        "in attendance, Dr Pippi.",
+        "fervent prayers of supplication.",
+        "his fell but necessary office.",
+        "to that beneficent institution.",
+        "his regard and esteem.",
+        "her ardour to reach.",
+        "simply rocked with delight.",
+        "in that record assemblage.",
+        "accepted on the spot.",
+        "the excitement knew no bounds."
+      ],
+      "translation_after": [
+        "却又何等具有此人的特色。",
+        "卡塔拉尼实际是女高音歌唱家。】",
+        "由随侍医师皮皮博士替他除去。",
+        "向恩典的宝座献上热烈的乞求祷告。",
+        "这些羊由敬佩他那残酷而必要职务的人士提供。",
+        "待器皿注满，便运往该慈善机构。",
+        "以表敬重之情。",
+        "只要囚服的礼数容许她的激情触及。",
+        "那一大怪兽似的观众群，简直喜得前仰后合。",
+        "这场空前大会里，没有一只眼睛是干的。",
+        "当场便被接纳。",
+        "激动更是无边无际。"
+      ]
+    },
+    "182": {
+      "source_after": [
+        "Ireland sober is Ireland free."
+      ],
+      "translation_after": [
+        "爱尔兰戒酒，爱尔兰自由。"
+      ]
+    },
+    "189": {
+      "source_after": [
+        "the recitation of verse.",
+        "very much in the public eye.",
+        "rather more than an indication."
+      ],
+      "translation_after": [
+        "诸多绝技之中，包括诗歌朗诵。",
+        "遑论当下一位备受公众瞩目的现代抒情诗人。",
+        "得到不止一点线索。"
+      ]
+    },
+    "207": {
+      "source_after": [
+        "and hugging and smugging.",
+        "screeching laughing at one another."
+      ],
+      "translation_after": [
+        "又搂又摸。",
+        "两个披肩冲着彼此尖声大笑。"
+      ]
+    },
+    "219": {
+      "source_after": [
+        "how to milk ducks."
+      ],
+      "translation_after": [
+        "教你奶奶怎么挤鸭奶。"
+      ]
+    },
+    "242": {
+      "source_after": [
+        "our ancient Panceltic forefathers.",
+        "from ancient ages.",
+        "fairly excelled himself."
+      ],
+      "translation_after": [
+        "维持一贯优良高水平的讨论。",
+        "自古传下的男子力量与勇武的最优良传统。",
+        "这位爱国老斗士的演绎确实超越了自己。"
+      ]
+    },
+    "243": {
+      "source_after": [
+        "the rev. Peter Fagan, O. M.;"
+      ],
+      "translation_after": [
+        "彼得·费根神父，O. M.；"
+      ]
+    },
+    "256": {
+      "source_after": [
+        "looking groggy.",
+        "Myler punishing him.",
+        "a treat to watch."
+      ],
+      "translation_after": [
+        "迈勒再上前时已显得脚下发软。",
+        "回合结束时，大块头已被逼在绳边，任迈勒惩罚。",
+        "脚步功夫赏心悦目。"
+      ]
+    },
+    "314": {
+      "source_after": [
+        "and another.",
+        "the county of the city of Dublin.",
+        "twelve good men and true.",
+        "and kiss the book."
+      ],
+      "translation_after": [
+        "仔细衡量并深思拥有第一顺位抵押权者之请求。",
+        "施行布里亨古法。",
+        "共有十二位善良诚实的人。",
+        "愿上帝助他们，并亲吻圣书。"
+      ]
+    },
+    "358": {
+      "source_after": [
+        "in the whole wide world."
+      ],
+      "translation_after": [
+        "整个广大世界也没有同样的。"
+      ]
+    },
+    "362": {
+      "source_after": [
+        "graced the ceremony by their presence.",
+        "of acorn bronze.",
+        "at the conclusion of the service."
+      ],
+      "translation_after": [
+        "均莅临增光。",
+        "美妙动人之至。",
+        "更于礼毕奏出一首新颖动人的《樵夫，饶了那棵树》。"
+      ]
+    },
+    "419": {
+      "source_after": [
+        "from Carrantuohill.",
+        "in the time of the Barmecides.",
+        "at Loughlinstown,"
+      ],
+      "translation_after": [
+        "“四位大师”另指编纂爱尔兰编年史的学者。】",
+        "斯莱戈的彩饰师任艺术幻想驰骋之时一样。",
+        "拉夫林斯敦的拉斯当联合济贫院，"
+      ]
+    },
+    "444": {
+      "source_after": [
+        "Abeakuta and the British empire,"
+      ],
+      "translation_after": [
+        "强调阿贝阿库塔与大英帝国现存的亲密关系，"
+      ]
+    },
+    "515": {
+      "source_after": [
+        "the children of Peter Nolasco:",
+        "Edmund Ignatius Rice.",
+        "S. Owen Caniculus",
+        "S. John Berchmans",
+        "S. Ursula with eleven thousand virgins.",
+        "aspergills, unicorns.",
+        "blessing and prophesying.",
+        "consumption on the premises,"
+      ],
+      "translation_after": [
+        "和彼得·诺拉斯科的儿女；",
+        "由敬爱的埃德蒙·依纳爵·赖斯修士率领。",
+        "犬之圣欧文、",
+        "圣约翰·贝尔赫曼斯，",
+        "圣乌尔苏拉与一万一千名童贞女。",
+        "洒圣水器、独角兽。",
+        "祝福与预言。",
+        "限店内饮用——"
+      ]
+    },
+    "553": {
+      "source_after": [
+        "Messrs Jacob _agus_ Jacob.",
+        "_Rakóczsy’s March_.",
+        "Slieve Bernagh and Slieve Bloom."
+      ],
+      "translation_after": [
+        "为雅各布与雅各布公司这家制造商增光无比。",
+        "许多在场者显然动了感情。",
+        "斯利夫伯纳山及斯利夫布卢姆山的顶上，点起焦油桶与篝火。"
+      ]
+    },
+    "561": {
+      "source_after": [
+        "all the occupants have been buried alive.",
+        "near the old head of Kinsale.",
+        "from our midst.",
+        "the Duke of Cornwall’s light infantry"
+      ],
+      "translation_after": [
+        "恐怕所有在内之人均被活埋。",
+        "深入一英尺三英寸。",
+        "为如此意外从我们中间被召走的亡故信众之灵魂代祷。",
+        "康沃尔公爵轻步兵团官兵协助，"
+      ]
+    }
+  }
+}

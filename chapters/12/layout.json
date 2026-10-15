@@ -1,0 +1,4 @@
+{
+  "description": "Keep the final ascension paragraph intact in the Chinese edition, avoiding a two-line last-page continuation in the middle of Bloom's name.",
+  "zh_keep_together_paragraphs": [567]
+}

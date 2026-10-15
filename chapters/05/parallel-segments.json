@@ -1,0 +1,77 @@
+{
+  "description": "1-based source paragraph numbers, including the chapter marker. Matched end anchors divide long passages without changing manuscript paragraph boundaries.",
+  "paragraphs": {
+    "2": {
+      "source_after": [
+        "At eleven it is. Time enough."
+      ],
+      "translation_after": [
+        "是十一点。时间还多。"
+      ]
+    },
+    "4": {
+      "source_after": [
+        "Imagine trying to eat tripe and cowheel."
+      ],
+      "translation_after": [
+        "想想还要吃牛肚牛蹄。"
+      ]
+    },
+    "79": {
+      "source_after": [
+        "I feel so bad about."
+      ],
+      "translation_after": [
+        "我觉得很难过，为了。"
+      ]
+    },
+    "97": {
+      "source_after": [
+        "Chopsticks?"
+      ],
+      "translation_after": [
+        "筷子？"
+      ]
+    },
+    "99": {
+      "source_after": [
+        "The next one. Shut your eyes and open your mouth."
+      ],
+      "translation_after": [
+        "下一个。闭上眼，张开嘴。"
+      ]
+    },
+    "100": {
+      "source_after": [
+        "Not so lonely. In our confraternity."
+      ],
+      "translation_after": [
+        "没那么孤单。在我们的兄弟会里。"
+      ]
+    },
+    "109": {
+      "source_after": [
+        "Salvation army blatant imitation."
+      ],
+      "translation_after": [
+        "救世军明目张胆地学样。"
+      ]
+    },
+    "116": {
+      "source_after": [
+        "The first fellow that picked an herb to cure himself had a bit of pluck."
+      ],
+      "translation_after": [
+        "第一个摘药草治自己的人，倒有点胆量。"
+      ]
+    },
+    "123": {
+      "source_after": [
+        "Nice smell these soaps have. Pure curd soap."
+      ],
+      "translation_after": [
+        "这些肥皂真好闻。纯皂基。"
+      ]
+    }
+  }
+}
