@@ -8,28 +8,32 @@
 
 第 15、18 章涉及明确未成年人物的少量露骨性细节，在出版稿中作非露骨概述，中英文均以编者标记明示，范围记入各章校译记录。这两章不作为无删节译本；原始底本文件保持不动。
 
+本轮逐章复审：**第 1–18 章全部完成**。已按章节顺序逐章完成“批评 → 改译 → 复审 → PDF 核验”。各章具体问题与取舍记入相应校译记录。
+
 ## 开始阅读
+
+**全书合订本：** [中文译本 · 733 页](output/pdf/ulysses-zh.pdf) · [中英对照本 · 1,450 页](output/pdf/ulysses-parallel.pdf)。两版均汇集本轮复审后的十八章，保留各章正文、夹注及版式，采用连续页码，并附可点击目录、分部与章节书签、版本说明和 Gutenberg 完整许可。页数包括三页前置内容及书末许可；中文正文为 722 页，对照正文为 1,441 页。
 
 | 章节 | 进度 | 中文译本 | 中英对照本 | 可编辑文本与校译记录 |
 | --- | --- | --- | --- | --- |
-| 第 1 章 · 第一部开篇 | 已完成初稿、词语照应及叙述层次校订 | [PDF · 26 页](chapters/01/chapter-01-zh.pdf) | [PDF · 47 页](chapters/01/chapter-01-parallel.pdf) | [译稿](chapters/01/translation.txt) · [校译记录](chapters/01/translation-notes.txt) |
-| 第 2 章 | 已完成初稿及跨章照应核对 | [PDF · 15 页](chapters/02/chapter-02-zh.pdf) | [PDF · 28 页](chapters/02/chapter-02-parallel.pdf) | [译稿](chapters/02/translation.txt) · [校译记录](chapters/02/translation-notes.txt) |
-| 第 3 章 · 第一部末章 | 已完成全章语义复核、跨章照应及意识流层次校订 | [PDF · 17 页](chapters/03/chapter-03-zh.pdf) | [PDF · 32 页](chapters/03/chapter-03-parallel.pdf) | [译稿](chapters/03/translation.txt) · [校译记录](chapters/03/translation-notes.txt) |
-| 第 4 章 · 第二部开篇 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 17 页](chapters/04/chapter-04-zh.pdf) | [PDF · 33 页](chapters/04/chapter-04-parallel.pdf) | [译稿](chapters/04/translation.txt) · [校译记录](chapters/04/translation-notes.txt) |
-| 第 5 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 18 页](chapters/05/chapter-05-zh.pdf) | [PDF · 34 页](chapters/05/chapter-05-parallel.pdf) | [译稿](chapters/05/translation.txt) · [校译记录](chapters/05/translation-notes.txt) |
-| 第 6 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 32 页](chapters/06/chapter-06-zh.pdf) | [PDF · 62 页](chapters/06/chapter-06-parallel.pdf) | [译稿](chapters/06/translation.txt) · [校译记录](chapters/06/translation-notes.txt) |
-| 第 7 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 38 页](chapters/07/chapter-07-zh.pdf) | [PDF · 68 页](chapters/07/chapter-07-parallel.pdf) | [译稿](chapters/07/translation.txt) · [校译记录](chapters/07/translation-notes.txt) |
-| 第 8 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 36 页](chapters/08/chapter-08-zh.pdf) | [PDF · 71 页](chapters/08/chapter-08-parallel.pdf) | [译稿](chapters/08/translation.txt) · [校译记录](chapters/08/translation-notes.txt) |
-| 第 9 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 41 页](chapters/09/chapter-09-zh.pdf) | [PDF · 76 页](chapters/09/chapter-09-parallel.pdf) | [译稿](chapters/09/translation.txt) · [校译记录](chapters/09/translation-notes.txt) |
-| 第 10 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 41 页](chapters/10/chapter-10-zh.pdf) | [PDF · 76 页](chapters/10/chapter-10-parallel.pdf) | [译稿](chapters/10/translation.txt) · [校译记录](chapters/10/translation-notes.txt) |
-| 第 11 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 43 页](chapters/11/chapter-11-zh.pdf) | [PDF · 81 页](chapters/11/chapter-11-parallel.pdf) | [译稿](chapters/11/translation.txt) · [校译记录](chapters/11/translation-notes.txt) |
-| 第 12 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 55 页](chapters/12/chapter-12-zh.pdf) | [PDF · 112 页](chapters/12/chapter-12-parallel.pdf) | [译稿](chapters/12/translation.txt) · [校译记录](chapters/12/translation-notes.txt) |
-| 第 13 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 34 页](chapters/13/chapter-13-zh.pdf) | [PDF · 75 页](chapters/13/chapter-13-parallel.pdf) | [译稿](chapters/13/translation.txt) · [校译记录](chapters/13/translation-notes.txt) |
-| 第 14 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 36 页](chapters/14/chapter-14-zh.pdf) | [PDF · 84 页](chapters/14/chapter-14-parallel.pdf) | [译稿](chapters/14/translation.txt) · [校译记录](chapters/14/translation-notes.txt) |
-| 第 15 章 · 第二部末章 | 已完成编者处理版及校读（见上方说明） | [PDF · 117 页](chapters/15/chapter-15-zh.pdf) | [PDF · 230 页](chapters/15/chapter-15-parallel.pdf) | [译稿](chapters/15/translation.txt) · [校译记录](chapters/15/translation-notes.txt) |
-| 第 16 章 · 第三部开篇 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 51 页](chapters/16/chapter-16-zh.pdf) | [PDF · 108 页](chapters/16/chapter-16-parallel.pdf) | [译稿](chapters/16/translation.txt) · [校译记录](chapters/16/translation-notes.txt) |
-| 第 17 章 | 已完成初稿、语义校读及跨章照应核对 | [PDF · 69 页](chapters/17/chapter-17-zh.pdf) | [PDF · 143 页](chapters/17/chapter-17-parallel.pdf) | [译稿](chapters/17/translation.txt) · [校译记录](chapters/17/translation-notes.txt) |
-| 第 18 章 · 全书末章 | 已完成编者处理版及校读（见上方说明） | [PDF · 36 页](chapters/18/chapter-18-zh.pdf) | [PDF · 81 页](chapters/18/chapter-18-parallel.pdf) | [译稿](chapters/18/translation.txt) · [校译记录](chapters/18/translation-notes.txt) |
+| 第 1 章 · 第一部开篇 | 已完成本轮逐段对读、批评与再修（2026-10-22） | [PDF · 26 页](chapters/01/chapter-01-zh.pdf) | [PDF · 47 页](chapters/01/chapter-01-parallel.pdf) | [译稿](chapters/01/translation.txt) · [校译记录](chapters/01/translation-notes.txt) |
+| 第 2 章 | 已完成本轮逐段对读、批评与再修（2026-10-22） | [PDF · 15 页](chapters/02/chapter-02-zh.pdf) | [PDF · 28 页](chapters/02/chapter-02-parallel.pdf) | [译稿](chapters/02/translation.txt) · [校译记录](chapters/02/translation-notes.txt) |
+| 第 3 章 · 第一部末章 | 已完成本轮逐段对读、批评与再修（2026-10-22） | [PDF · 17 页](chapters/03/chapter-03-zh.pdf) | [PDF · 32 页](chapters/03/chapter-03-parallel.pdf) | [译稿](chapters/03/translation.txt) · [校译记录](chapters/03/translation-notes.txt) |
+| 第 4 章 · 第二部开篇 | 已完成本轮逐段对读、批评与再修（2026-10-22） | [PDF · 17 页](chapters/04/chapter-04-zh.pdf) | [PDF · 33 页](chapters/04/chapter-04-parallel.pdf) | [译稿](chapters/04/translation.txt) · [校译记录](chapters/04/translation-notes.txt) |
+| 第 5 章 | 已完成本轮逐段对读、批评与再修（2026-10-22） | [PDF · 18 页](chapters/05/chapter-05-zh.pdf) | [PDF · 34 页](chapters/05/chapter-05-parallel.pdf) | [译稿](chapters/05/translation.txt) · [校译记录](chapters/05/translation-notes.txt) |
+| 第 6 章 | 已完成本轮逐段对读、批评与再修（2026-10-22） | [PDF · 32 页](chapters/06/chapter-06-zh.pdf) | [PDF · 62 页](chapters/06/chapter-06-parallel.pdf) | [译稿](chapters/06/translation.txt) · [校译记录](chapters/06/translation-notes.txt) |
+| 第 7 章 | 已完成本轮逐段对读、批评与再修（2026-10-22） | [PDF · 38 页](chapters/07/chapter-07-zh.pdf) | [PDF · 68 页](chapters/07/chapter-07-parallel.pdf) | [译稿](chapters/07/translation.txt) · [校译记录](chapters/07/translation-notes.txt) |
+| 第 8 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 36 页](chapters/08/chapter-08-zh.pdf) | [PDF · 71 页](chapters/08/chapter-08-parallel.pdf) | [译稿](chapters/08/translation.txt) · [校译记录](chapters/08/translation-notes.txt) |
+| 第 9 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 41 页](chapters/09/chapter-09-zh.pdf) | [PDF · 76 页](chapters/09/chapter-09-parallel.pdf) | [译稿](chapters/09/translation.txt) · [校译记录](chapters/09/translation-notes.txt) |
+| 第 10 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 41 页](chapters/10/chapter-10-zh.pdf) | [PDF · 76 页](chapters/10/chapter-10-parallel.pdf) | [译稿](chapters/10/translation.txt) · [校译记录](chapters/10/translation-notes.txt) |
+| 第 11 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 43 页](chapters/11/chapter-11-zh.pdf) | [PDF · 81 页](chapters/11/chapter-11-parallel.pdf) | [译稿](chapters/11/translation.txt) · [校译记录](chapters/11/translation-notes.txt) |
+| 第 12 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 55 页](chapters/12/chapter-12-zh.pdf) | [PDF · 112 页](chapters/12/chapter-12-parallel.pdf) | [译稿](chapters/12/translation.txt) · [校译记录](chapters/12/translation-notes.txt) |
+| 第 13 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 34 页](chapters/13/chapter-13-zh.pdf) | [PDF · 75 页](chapters/13/chapter-13-parallel.pdf) | [译稿](chapters/13/translation.txt) · [校译记录](chapters/13/translation-notes.txt) |
+| 第 14 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 36 页](chapters/14/chapter-14-zh.pdf) | [PDF · 84 页](chapters/14/chapter-14-parallel.pdf) | [译稿](chapters/14/translation.txt) · [校译记录](chapters/14/translation-notes.txt) |
+| 第 15 章 · 第二部末章 | 已完成本轮逐段对读、批评与再修（2026-10-23；编者处理版） | [PDF · 117 页](chapters/15/chapter-15-zh.pdf) | [PDF · 230 页](chapters/15/chapter-15-parallel.pdf) | [译稿](chapters/15/translation.txt) · [校译记录](chapters/15/translation-notes.txt) |
+| 第 16 章 · 第三部开篇 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 51 页](chapters/16/chapter-16-zh.pdf) | [PDF · 108 页](chapters/16/chapter-16-parallel.pdf) | [译稿](chapters/16/translation.txt) · [校译记录](chapters/16/translation-notes.txt) |
+| 第 17 章 | 已完成本轮逐段对读、批评与再修（2026-10-23） | [PDF · 69 页](chapters/17/chapter-17-zh.pdf) | [PDF · 143 页](chapters/17/chapter-17-parallel.pdf) | [译稿](chapters/17/translation.txt) · [校译记录](chapters/17/translation-notes.txt) |
+| 第 18 章 · 全书末章 | 已完成本轮逐段对读、批评与再修（2026-10-23；编者处理版） | [PDF · 36 页](chapters/18/chapter-18-zh.pdf) | [PDF · 81 页](chapters/18/chapter-18-parallel.pdf) | [译稿](chapters/18/translation.txt) · [校译记录](chapters/18/translation-notes.txt) |
 
 中文本保留原作中的必要异语及其释义。对照本将中文放在上方、对应原文放在下方；长段按语义拆分，诗歌保留完整诗节，每组中英文同页。
 
@@ -51,7 +55,7 @@
 - 对照本原文为 9.5 磅浅灰蓝色 Georgia（`#929CA6`），保留斜体与诗行；降低原文的视觉分量，方便连续阅读中文时跳过。
 - 旁注导读本为 240 × 240 毫米，保持原对照栏的行宽，右栏采用 9 磅灰绿色宋体（`#466D68`）；每条旁注与相应中英文阅读单元同页、顶端对齐。
 
-各章现稿夹注数量依次为：63、34、82、29、27、31、56、36、52、39、18、38、20、22、56、37、41、15 条。译名、取舍及已核对的参考资料见各章校译记录；跨章沿用的原则见 [AGENTS.md](AGENTS.md)，包括保留歧义、区分人物声音、保留句法节奏、兼顾双关与典故、保留人物错记，以及区分注释中的事实与解释。
+各章现稿夹注数量依次为：63、35、82、29、27、31、56、36、52、38、18、38、20、22、56、37、41、15 条。译名、取舍及已核对的参考资料见各章校译记录；跨章沿用的原则见 [AGENTS.md](AGENTS.md)，包括保留歧义、区分人物声音、保留句法节奏、兼顾双关与典故、保留人物错记，以及区分注释中的事实与解释。
 
 ## 文件结构
 
@@ -117,9 +121,14 @@ chapters/
     chapter-NN-parallel.pdf
     layout.json                   可选：章内标题、分隔诗节的排版配置
     source-overrides.json          仅15、18章：有限编者处理的出版英文
+output/pdf/
+  ulysses-zh.pdf                  中文全书合订本
+  ulysses-parallel.pdf            中英对照全书合订本
+  whole-book-manifest.json        合订本与各章输入的页数、页码及校验和
 scripts/
   split_chapters.py                无损分章与底本校验
   build_chapter_pdf.py             生成中文、对照及可选旁注导读本
+  build_book_pdf.py                汇编已核验的章节 PDF，保留正文排版
   verify_chapter_pdf.py            核对PDF全文、嵌入字体与同页对齐
 ```
 
@@ -153,6 +162,14 @@ python scripts/build_chapter_pdf.py 18
 ```
 
 分章脚本核对完整底本的字节与校验和；已有分章文件被改动时会拒绝覆盖。排版脚本读取该章原文及译稿，输出 PDF，不改动输入文本。目前 `01`–`18` 全部完成检查，共 39 份 PDF（18 份中文本、18 份对照本、3 份导读本）。
+
+各章 PDF 重建并核验后，可生成两份全书合订本：
+
+```sh
+python scripts/build_book_pdf.py
+```
+
+合订脚本读取现有的 36 份中文及对照章节 PDF，仅更换章页底部的页码及其居中位置，保留正文内容流与嵌入字体；不改动各章文件。输出到 `output/pdf/`，并记录输入校验和及各章起始页。前置三页用罗马数字编号，正文和许可附录连续用阿拉伯数字编号。可用 `--edition zh|parallel` 单独生成一版，`--date YYYY-MM-DD` 指定版本日期，`--output-dir` 指定输出目录；`--font`、`--english-font` 及对应环境变量沿用章节构建的字体设置。
 
 默认同时生成两版，也可单独生成：
 

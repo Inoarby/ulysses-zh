@@ -45,10 +45,11 @@ SYMBOL_CHARACTERS = frozenset(GLYPH_FONTS)
 class ChapterParagraph(Paragraph):
     def split(self, available_width, available_height):
         pieces = super().split(available_width, available_height)
-        # Bring a line of context with a note that would start on the next page.
+        # Bring context with a note, or keep an editorial label with its text.
         if len(pieces) > 1:
             first = next((f for f in pieces[1].frags if getattr(f, "text", "").strip()), None)
-            if first is not None and first.fontSize == NOTE_SIZE:
+            isolated_editorial_label = pieces[0].getPlainText().rstrip().endswith("【编者概述：")
+            if isolated_editorial_label or (first is not None and first.fontSize == NOTE_SIZE):
                 return super().split(available_width, available_height - self.style.leading)
         return pieces
 

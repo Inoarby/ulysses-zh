@@ -34,7 +34,7 @@ p13 rats / vats：原文的一音差及从老鼠到啤酒桶的跳接，非另�
 p16 三十二英尺每秒：底本写速度式而相应自由落体常数是加速度；原句照译，不在人物口中改成科学教科书说法。夹注只点出混用。
 p28 POST NO BILLS / POST 110 PILLS：两行保留英语，让 N/11、B/P 的视觉改字可见；译注提供两种意思。“绿房子”按公厕语境解释，不将其当园艺温室。
 p35 met him pike hoses：与第四章的误听回声可在本项目原文复核；拆音不是正确词源。“哦，扯淡！”的取舍见上。
-p36 barreltone / baritone，base / bass / Bass：本段词形、啤酒与声音的并置可以直接复核；中文采用“桶中音”并短注，不捏造汉语姓氏谐音。
+p36 barreltone / baritone，base / bass / Bass：本段词形、啤酒与声音的并置可以直接复核；中文采用“低音桶腔”并短注，不捏造汉语姓氏谐音。
 p37 lick / Kansell / cancel / Carmel / caramel：一注解释舔／打败及人名近音，一注解释焦糖和修会名近音；不逐个糖果、饭店和音乐作品都补传记。
 p78 U. p: up：John Simpson, “U.P: up and away”，James Joyce Online Notes：https://www.jjon.org/joyce-s-allusions/up-up 。已读论证、所引 Baker 1854 方言词典、Hotten 1859 俚语词典和十九世纪报刊例证；这些支撑“完了／全完了”的通常读法。该文同时讨论其他解释的证据不足。正文保留字母与 up；夹注不把某种淫秽解释定为谜底，也不替卡片确定寄件人。
 p110 Meshuggah：意第绪语的“疯了”，参 Chabad 用语解释及 Collins 词条：https://www.chabad.org/library/article_cdo/aid/3926513/jewish/What-Does-Meshuga-Meshuggah-Mean.htm ；https://www.collinsdictionary.com/us/dictionary/english/meshuga 。不把此词自动等同医学诊断。
@@ -54,7 +54,7 @@ p165 La causa è santa：Meyerbeer《胡格诺教徒》意大利文脚本，Bris
 p181 科马克：Samuel Ferguson, The Burial of King Cormac，已核诗段及诗集注解中改宗、鱼骨和葬地的叙述：https://upload.wikimedia.org/wikipedia/commons/3/34/A_treasury_of_Irish_poetry_in_the_English_tongue%3B_%28IA_cu31924013512425%29.pdf （原印页 299 检索摘录）；诗文另核 https://emeraldisle.ie/the-burial-of-king-cormac 。这是传说及诗的材料，不宣称改宗传说已成历史事实。圣帕特里克被人物混入，正文不替换人物记忆。
 p210 Ham / musterred / bred：Ham 兼火腿与含；musterred 叠 muster（集结）及 mustard，bred 叠 breed 与 bread。“芥末地集结、面包地繁衍”有意保持造词的生硬，避免只译出食物、丢掉族裔繁衍。
 p210 mity cheese：Harald Beck 的 JJON 词条核出 Trall 1854 年食谱旧谣中 mity 用法，也说明 later mighty 的改字问题：https://www.jjon.org/joyce-s-allusions/cheese 。正文按本底本 mity，不静默“改正”为 mighty；“螨力”同时牵两义。
-p252 Saint Amant：1904 年赛马同期报道确称 colt，父马 Saint Frusquin。核新西兰国家图书馆 Papers Past 所示原报转录摘录：https://paperspast.natlib.govt.nz/periodicals/NZISDR19040623.2.28 ，另见 https://paperspast.natlib.govt.nz/newspapers/ODT19040714.2.9.1 。原文弗林说 her 而布卢姆问其父，译文仍用母马口气，注释纠正而不改角色的错误。
+p252 Saint Amant：1904 年赛马同期报道确称 colt，父马 Saint Frusquin。核新西兰国家图书馆 Papers Past 所示原报转录摘录：https://paperspast.natlib.govt.nz/periodicals/NZISDR19040623.2.28 ，另见 https://paperspast.natlib.govt.nz/newspapers/ODT19040714.2.9.1 。原文弗林用 her、She、filly 称这匹马，并说出父马的名字，译文仍用母马口气，注释纠正而不改角色的错误。
 p257 r 的月份：这里只说明俗说，不当作食物安全指导；June 没有 r 可从词形核实。注不扩写医学风险。
 p257 ptake / ptarmigan：菜单、雷鸟名的 p 与故意拼错的 ptake 由底本直接可验；正文相应凸出装腔字音，不替英文去掉那个 p。
 p257 Dubedat / do bedad：两个词组在本段并列，bedad 为 by God 的委婉变体；保留名字，又在短注给声音联系，不将音似看成历史姓氏词源。
@@ -74,7 +74,7 @@ p365 斯洛克姆将军号：美国国会图书馆 Chronicling America 主题年
 7. p259 葡萄酒转霍斯山亲密记忆：连续的触觉、咀嚼、唾液和接吻重复保留，不删去乳房、乳头或山羊粪；三次 kiss 的语法变化依次保留。nun's veiling 是纱料，未把所忆女子改成修女。
 8. p263 由膀胱、准备行动的男人再滑向男女情人，保留原无连词嵌句和人称泛化，不补一个显名女人。
 9. p368 以后不预先把 he 指定为某个名字。Handker 是突然截短的手绢词；中文“手绢”本已短，未生造不可读的汉字切词，英语的未完词由对照版保留。
-10. p118 投资复利、地位和家庭生育的数字联想，p334 士兵佣金的数字，均照人物原说，不替其口算求整或纠错。酒被说成蒸馏品也照留。
+10. p118 投资复利、地位和家庭生育的数字联想，p334 广告收入的数字，均照人物原说，不替其口算求整或纠错。酒被说成蒸馏品也照留。
 11. 没有对所有犹太习俗、品牌、都柏林地名、酒菜和人名附百科条目。原文的冒犯性称呼如 racist slurs 按人物口气保留，译者不加赞同，也不在每处插入谴责使声部混乱。
 
 五、生成与验收
@@ -85,3 +85,45 @@ p365 斯洛克姆将军号：美国国会图书馆 Chronicling America 主题年
 original.txt SHA-256: f5efbee7770f4614f0c0606feee46baa3ee6f8e1c80c81c4d184ea60d7c68eab
 translation.txt SHA-256: 8f1b3118f45bf6470404c62f77147c21f619e510f5cf719b94260fd9319faef5
 parallel-segments.json SHA-256: 5bab998e89893f30470f14e044d3cb174ed6f1d6e1cb5feee85ea27277e3dbb1
+
+逐章对读复审（2026-10-22）
+
+范围与次序
+第七章出版复核结束后，单独审读第八章既有对照 PDF 全部 71 页，逐一对照全部 386 个原文与译文段落、36 条夹注，并读完本文件。先提出可核实的批评，与另一位整章复核者对照，再作下列修改；未开始第九章。重点在饥饿、身体和日常盘算之间的跳转，过去与现在的切换，歌句、广告与未完问题的跨章复现，以及注释的位置和事实层级。未改动原文。
+
+批评与修改
+1. 第 2 段 creams 的“奶油糖”改为第四章第 138 段已核定的“软心糖”：这里是糖果的类型，不宜直接规定奶油口味，也不补巧克力外层或具体品种。God. Save. Our. 原译“上帝。保佑。吾王。”补入了被截去的 King；改“上帝。保佑。吾。”，保留原有稍古的国歌口气与三个句号，让王座上的吮糖动作突然接来，不加省略号或解释。
+2. 第 38、152、163 段 Lombard street west 的“西伦巴德街”统一为第六章第 343 段的“西伦巴第街”。这是反复回忆莫莉、鲁迪和旧家生活的同一地址，应一眼可以认出。第 136 段 Arthur Griffith 改“亚瑟·格里菲斯”，与第三、第四章一致；第 146 段猜想 A. E. 展开时的 Arthur Edmund 同样采用“亚瑟·埃德蒙”，不把这项猜测说成真实姓名。第 328 段“《基尔肯尼民报》”改“《基尔肯尼人民报》”，对应第七章凯斯广告的同一份报纸；第 367 段“鲍尔斯布里奇”改“鲍尔斯桥”，对应第六、七章的同一地点。
+3. 第 59 段歌句 Your funeral’s tomorrow：“明天就是你的丧期”改“明天就是你的葬礼”，区别葬礼与服丧期间；仍保留四行和原来黑麦歌句的混接，不代人物改成正式歌词。
+4. 第 113 段 Please tell me what perfume does your wife. 的 use 没有说出来，原译却补“用”。改“请告诉我你妻子什么香水。”这是一句可辨而缺谓语的内心残句，仍以句号落下。第五章所省的是 wife，第七章的同一问句则完整；此次按第八章真正省掉的词处理，不机械统一各次残缺程度。naughty darling／naughty boy 的实际变化也仍保留。
+5. 第 144 段 twoheaded octopus 的“两头章鱼”改“双头章鱼”，避免把 twoheaded 读作动物数量“两个”；不解释这段突然经过的谈话究竟指谁。第 150 段 Sell on easy terms 的“卖价宽松”改“付款条件宽松”，区别赊付等付款安排与下一句单独说的压价，不补具体首付、期限或利率。
+6. 第 172 段 Feel better then：“吃了好些”容易读成已经吃得不少，也没有清楚表达进食之后预期会舒服些。改“吃了会好些”，仍为短句；第 328 段实际吃喝后说的 Feel better／“好些了”保持不动，使预期与实现可相应。
+7. 第 222 段 The curate served 的“助理神父”补回第四章已用的引号：“‘助理神父’把东西端上来。”正文使用中文双引号。这里是爱尔兰酒馆伙计的叫法，不是神职人员忽然上菜；第四章已有简注，本章不重复增加解释。
+8. 第 262 段皮格马利翁夹注的文字不改，只从“和神们同席……全是天馔”之后移到完整问答“凡人！让你认清自己的位置。”之后。原位置让注似乎在解释神食，且与雕像开口的想象分到不同对照单元；新位置先让假想回答落下，再交代该神话，然后进入神食、消化及人体孔窍的联想。
+9. 第 291 段 His hand scrawled a dry pen signature 的“他的手在酒杯旁，拿无墨的笔划了个签名”增添了拿笔的动作与实物。改“他的手在酒杯旁划了个无墨的签名”，保留手势、签名和无墨的效果，不擅补手指、桌面或道具；随后 Nothing in black and white 的话仍紧接。
+
+记录纠正与保留的难处
+原资料栏第 36 段曾称正文采用“桶中音”，实际是“低音桶腔”，现按正文改正。第 252 段曾说布卢姆问父马；该段全部是弗林说话，包含父马与把公马说成母马的内容，现纠正说话人描述，不变动原有夹注。原第四部分第 10 项把第 334 段账目称作“士兵佣金”，实际是广告收入与海因斯欠款的盘算，已改“广告收入”，仍不替布卢姆算账。
+第 37 段 She knew I／by the way she、第 43 段 He and I behind、月夜回忆的 He、霍斯山亲密回忆中的人称、膀胱与男性情人的嵌接、最后回避那个人时的短句，继续保留未完成关系或不点名的指涉。不将比喻化的感官、难辨的内语或带错记的思想整理成因果解说。
+第 2 段的 Our 可以改成“我们的”，本次选择删去旧译中多出的“王”以尽量少改国歌残句的音调；不把中文的单字“吾”说成在每个语法层面都与英语完全等同。第 143 段 Parnell 兄弟称谓按既有取法保留，不借这次校订改写人物生平。make bacon of that 的独立同期语证仍未补足，继续沿旧记录保留，不借重译或注释编定唯一俚语答案。关于病痛、盲人知觉、宗教、食物和族群的见解仍属于人物，不移成交代事实的旁白。
+
+本次核对依据
+A. 本地未改动的 original.txt，以及第三章第 59 段、第四章第 31、33、40、138 段、第六章第 332、343 段、第七章第 97、496 段的有关人名、地点、食品、酒馆称呼与广告。上述跨章关系仅使用已完成章节核对。
+B. Collins English Dictionary, cream 的糖果义（软心糖类，常而非必覆巧克力），curate 的 Irish assistant barman 义；访问日期 2026-10-22。仅据这些条目辨词义，不附加该店具体糖果配方或酒馆雇员传记。
+https://www.collinsdictionary.com/dictionary/english/cream
+https://www.collinsdictionary.com/us/dictionary/english/curate
+C. Cambridge Business English Dictionary, easy terms，商业语境指分期的小额付款；访问日期 2026-10-22。本文用较宽的“付款条件”避免把布卢姆一句判断扩成详细合同。
+https://dictionary.cambridge.org/dictionary/english/easy-terms
+
+本轮稿件检查
+正文变动段落：2、38、59、113、136、144、146、150、152、163、172、222、262、291、328、367，共 16 段。386 个段落和原有诗行、空行不变，36 条夹注数量不变（仅第 262 段一条移动）。18 个分段段落中仅第 262 段的中文终点需要随移动夹注更新，英文终点不变，其余 27 个中英切点原样有效。
+第 262 段新 translation_after：凡人！让你认清自己的位置。【注：皮格马利翁爱上所雕女像，女像后来有了生命。】
+本轮仅编辑 translation.txt 与本记录；JSON、PDF、阅读链接和最终版面检查由出版复核另行处理。这里的整章页数为修订前实际阅读范围，不冒称已检查尚未重建的版面。
+本次译文 SHA-256: 347da1e0c5a045c299f07cf941bffae02d93b06c91bda2678b134eaa56451f5e
+
+本轮出版复核（2026-10-23）
+第 262 段的中文分段终点已随夹注移位更新；其余切点保持不变。重建中文与中英对照 PDF 后，另一位复核者复读全部 16 处修改及重建对照版中的相关段落，未发现新的语义问题。运行 scripts/verify_chapter_pdf.py 08：中文 36 页、对照 71 页、413 组配对；全文与 36 条夹注、同页配对、字号颜色、页界及嵌入字体检查均通过。原文和译文仍各 386 段。
+版面检查采用修订前全 107 页的 9 张接触表作为已目视检查的基线，再以相同 0.65 倍 RGB、无透明通道设置逐页渲染最终 PDF 并比较像素散列。中文 23 页、对照 54 页与已检查基线逐像素相同；最终渲染记录中的两份 PDF 散列亦与当前文件一致。对 13 张变化的中文页（1、6、7、11、15、16、17、19、24、28、30、32、35）和 17 张变化的对照页（1、11、15、21、29、32、33、34、35、37、39、47、55、56、59、62、69），逐一检查 1.5 倍完整页图；另外检查两版末页 36、71。中文全文、浅灰蓝原文、淡红夹注和诗行均清楚，未见缺字、裁切、碰撞、页眉页脚冲突或孤立的结尾。本次无需改动版式控制。
+original.txt SHA-256: f5efbee7770f4614f0c0606feee46baa3ee6f8e1c80c81c4d184ea60d7c68eab
+translation.txt SHA-256: 347da1e0c5a045c299f07cf941bffae02d93b06c91bda2678b134eaa56451f5e
+parallel-segments.json SHA-256: db2044584d3b3410d3d993cb48e8864180033ff5254edf6378cb90dc5e268ace
